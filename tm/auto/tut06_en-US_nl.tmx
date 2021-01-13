@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this tutorial you will set up a farm to supply your supermarkets with your own agriculural products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>In deze tutorial start je een landbouwonderneming om supermarkten te bevoorraden met landbouwgoederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such backward integration will create a more reliable supply chain and increase your profit margins.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Zo’n achterwaartse integratie zorgt voor een betrouwbaardere aanvoerketen en verhoogt de winstmarges.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Capitalism, a farm can produce meat, milk, eggs, leather and a variety of crops.^^To build your first farm, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>In Capitalism kan een landbouwonderneming vlees, melk, eieren, leder en een verscheidenheid aan gewassen produceren.^^Om een landbouwonderneming te starten klik je op ~Bouwen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Farm~ from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Kies ~Landbouwonderneming~ in het menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two sizes of farms available.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Landbouwbedrijven zijn beschikbaar in twee groottes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Farm - Medium~ from the menu and choose a location in a rural area to build your farm.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Selecteer ~medium landbouwbedrijf~ in het menu en kies een bouwgrond in niet-stedelijk gebied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first thing we are going to do is to raise some livestock.^^~Double click the top left slot~ and build a ~Livestock Raising Unit~ unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Eerst en vooral gaan we de dierstapel doen aangroeien.^^~Dubbelklik op de ruimte linksboven~ en bouw een afdeling ~Dierstapel kweken~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you need to set the type of animals to be raised.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Nu moet je het soort dieren uitkiezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Klik op ~Dierstapel kweken~ en selecteer ~Vee~ uit het popupmenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Good!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Goed zo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Nu kweek je dieren.^^~Rechts van de afdeling dieren kweken~ dien je ~een dierstapelverwerkingsafdeling te bouwen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Klik op de schakel tussen de twee afdelingen om ze te verbinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products of cattle include ~frozen beef~, ~milk~, and ~leather~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Goederen van vee zijn ~rundsvlees~, ~melk~, en ~leder~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Elke ~dierverwerkingsafdeling~ kan maar een enkel soort goed vervaardigen.^^Klik op ~Goed selecteren~ en kies ~rundsvlees~ uit de mogelijke keuzes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Jouw vee wordt nu gekweekt en verwerkt tot rundsvlees.^^Voeg een ~Verkoopsafdeling~ toe en verbind het met de ~dierverwerkingsafdeling~ om rundsvlees aan te bieden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Verbind nu de beide afdelingen door op de tussenschakel te klikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Congratulations, you are now selling frozen beef reared on your own farm.^^You may set up additional ~Livestock Processing Units~ to process ~milk~ and ~leather~ from cattle.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Gefeliciteerd, je verkoopt nu rundsvlees uit jouw eigen landbouwondernemign.^^Je kan nog meer ~dierverwerkignsafdelingen~ opstarten voor de productie van ~melk~ en ~leder~ van vee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may also grow crops in farms by using ~Crop Growing Units~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Daarnaast kan je gewassen telen via ~Zaaiafdelingen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Gewassen verbouwen neemt veel tijd in beslag omdat het zowel een zaai- , groei- als oogstfase vereist eer je goederen ziet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Landbouwgoederen zijn noodzakelijk voor de productie van een groot aantal goederen, waardoor je dit een onmisbaar onderdeel van jouw onderneming zult vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233844Z">
+        <seg>Om dit spel te winnen moet jouw onderneming minstens ~20 soorten goederen~ produceren.^^Tegelijk moet jouw onderneming een ~jaaromzet van $100 miljoen~ en een ~jaarwinst van $10 miljoen~ neerzetten.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

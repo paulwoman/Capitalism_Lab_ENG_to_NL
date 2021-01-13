@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retail Management</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214635Z">
+        <seg>Beheerder groothandel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214635Z">
+        <seg>Description=In deze tutorial leer je gevorderde vaardigheden om een groothandel te beheren en deze te laten uitgroeien tot een keten via uitbreiding naar andere steden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214635Z">
+        <seg>Goal Title=Tutorialdoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214635Z">
+        <seg>Goal Description=Beheel een jaaromzet van $50 miljoen en een jaarwinst van $5 miljoen om deze tutorial te vervolledigen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

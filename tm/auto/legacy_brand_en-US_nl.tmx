@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Legacy Brand</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Title=Gevestigd merk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Description=Je hebt de intellectuele eigendom gekocht van een niet langer bestaande onderneming die een populair consumentenmerk was en nog steeds een sterke merkwaardering heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^You plan to launch a new range of products of outstanding quality and market them under the legacy brand.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>^^Je bent van plan een nieuwe goederenreeks te lanceren van uitstekende kwaliteit en deze onder dat merk uit te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^By leveraging the brand, your new products will gain instant consumer recognition without prior advertising. ^^(Note: You are not allowed to change brand strategy in this game.)</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>^^Door het merk verder op te tillen, zullen jouw nieuwe producten onmiddellijk op bijval kunnen rekenen van consumenten zonder eerst te moeten adverteren.^^(Opmerking: het is niet toegestaan de merkstrategie te wijzigen in dit spel.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Growth Dilemma</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Title=Groeidilemma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=You intend to grow your company by diversifying your product portfolio.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Description=Je wil jouw onderneming laten groeien door het goederenaanbod te diversifiëren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But you must maintain consistent quality across all product lines or you will see your brand losing consumer loyalty.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Daarbij moet je de kwaliteit voor alle goederen blijven handhaven anders verliest jouw merk klantengetrouwheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your company has successfully achieved growth while delivering impressive bottom-line profits.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Jouw onderneming kon met succes groeien terwijl je indrukwekkende winsten behaalde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Testing the Limit</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Title=Grenzen aftoetsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=With your prior success, you have become even more ambitious in expanding your business.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Description=Door jouw vorig succes, heb je ambitie om jouw onderneming uit te breiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But further product diversification will surely negatively impact brand loyalty.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Maar, het verdere goederendiversificatie zal zeker een negatief effect hebben op de merkgetrouwheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Can you pull it off this time? Have it reached the limit already?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Kan je het waar maken of is de grens al bereikt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Bravo!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Achieved Text=Goed zo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have defied the conventional thinking that corporate brand can never support a highly diverse product portfolio.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Je hebt conventionele denkers aangetoond dat diversificatie en merkstrategie wel degelijk samengaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Parent Goal=Growth Dilemma</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Parent Goal=Groeidilemma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Legacy Brand</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Title=Gevestigd merk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Goal Description=Je hebt de intellectuele eigendom gekocht van een niet langer bestaande onderneming die een populair consumentenmerk was en nog steeds een sterke merkwaardering heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You plan to launch a new range of products of outstanding quality and market them under the legacy brand.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Je bent van plan een nieuwe goederenreeks te lanceren van uitstekende kwaliteit en deze onder dat merk uit te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By leveraging the brand, your new products will gain instant consumer recognition without prior advertising.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>Door het merk verder op te tillen, zullen jouw nieuwe producten onmiddellijk op bijval kunnen rekenen van consumenten zonder eerst te moeten adverteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(You are not allowed to change brand strategy in this game.)</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120832Z">
+        <seg>(Opmerking: het is niet toegestaan de merkstrategie te wijzigen in dit spel.)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in R&amp;D Centers (Research and Development Centers).</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>In deze tutorial leer je de goederenkwaliteit te verbeteren met onderzoek en ontwikkeling in R&amp;D-centra (Research and Development centra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As you may recall, a product's rating is based on two factors: the company's production technology rating for the product and the raw material quality.^^Research advances your company's production technology and thus increases your products' quality.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Misschien herinner je jou nog dat de waardering van een goed bepaald wordt door twee factoren: de productietechnologie en de grondstoffenkwaliteit.^^Onderzoek verbetert de productietechnologie van jouw onderneming en dus de kwaliteit van jouw goederen .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To demonstrate how research works, we are going to set up a factory manufacturing ~Air Conditioners~.^^First, you should view the ~Manufacturer's Guide~ to see what materials are required.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Om de werking van onderzoek te demonstreren, gaan we en fabriek opstarten voor de productie van ~Airconditioners~.^^Neem eerst een kijkje in de ~Productiegids~ om de vereiste input te kennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the shortcut key ~F1~ to open it now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Gebruik sneltoets ~F1~om dit nu te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click ~OUTPUT~ and select ~Air Conditioner~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Klik nu op ~OUTPUT~ en kies ~Airconditioner~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=685, 107, 760, 121</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Pointer=624,474, 696, 486</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Air conditioners are manufactured using ~Electronic Components~ and ~Steel~.^^Take a look at the percentage points that the ~Production Technology~ and the ~Raw Material Quality~ contribute to Air Conditioners' ~Quality~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Airconditioners produceer je met ~Electronische onderdelen~ en ~Staal~.^^Kijk naar de percentages ~Productietechnologie~ en de ~Grondstoffenkwaliteit~ die bijdragen tot de ~Kwaliteit~ van airco’s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As you see here, ~Technology~ contributes 80% to Air Conditioners' ~Quality~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Zoals je hier ziet draagt ~Technologie~ voor 80% bij aan de ~Kwaliteit~ van airco’s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must invest into technological development if you want your Air Conditioners to be competitive in the market.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Als je competitief wilt zijn in de aircomarkt zul je dus moeten investeren in technologische ontwikkeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research and Development, or R&amp;D, is aptly conducted in ~R&amp;D Centers~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Onderzoek en ontwikkeling, of R&amp;D, doe je in ~R&amp;D-centra~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research projects can take some time to complete, so it's a good idea to begin research as soon as possible.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Onderzoeksprojecten nemen soms veel tijd in beslag, dus is het een goed idee daar zo spoedig mogelijk mee te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's build an ~R&amp;D Center~ now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Bouw nu een ~R&amp;D-centrum~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Gebruik sneltoets ~B~ om het bouwmenu te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~R&amp;D Center~ from the menu and find a location to build it.^^It's a good idea to build your R&amp;D Center on the outskirts of the city as the land is cheaper there.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Kies ~R&amp;D-centrum~ uit het menu en zoek er een bouwgrond voor.^^Het is een goed idee jouw R&amp;D-centra in buitenwijken van de stad te plaatsen omdat de grond er goedkoper is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is only one type of functional unit to build in an R&amp;D Center, which is the ~R&amp;D unit~.^^You can set up a maximum of ~nine~ R&amp;D units in an R&amp;D center.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Naast de functionele ~R&amp;D-afdeling~ bestaat er geen andere soort afdeling in een R&amp;D-centrum.^^Je kan dus maximum ~negen~ zo’n afdelingen gebruiken per R&amp;D-centrum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may have them work independently as ~nine separate teams~ or link them into ~a large, single team~ for increased performance.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Deze kunnen apart werken of verbonden worden tot ~een groot samenerkend geheel..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's create an R&amp;D team with ~3 R&amp;D units~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Verbind ~3 R&amp;D-afdelingen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Double-click~ here to set up the first R&amp;D unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>~Dubbelklik~ hier om de eerste R&amp;D-afdeling op te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you start an R&amp;D project with more R&amp;D units linked together, you get a boost in R&amp;D performance and thus get a bigger tech gain.^^Now ~Double-click~ here to set up the second R&amp;D unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Als je een R&amp;D-project start met meerdere verbonden afdelingen, verhoog je de performantie en eindtechnologie aanzienlijk.^^~Dubbelklik~ hier en start een tweede R&amp;D-afdeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Klik op de tussenschakel om beide afdelingen te verbinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now set up the third one.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Start nu een derde afdeling op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Link it to the first one as well.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Verbind ook deze met de eerste afdeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now your R&amp;D team is ready to commence research.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Jouw R&amp;D-team is nu klaar om onderzoek te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All they need is your direction.^^Click the "leader" unit of your R&amp;D team, which is the one with connections to all other R&amp;D units in the team.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Ze hebben enkel nog jouw leiding nodig.^^Klik op de hoofdafdeling, datgene waar andere R&amp;D-afdelingen mee verbonden zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Start R&amp;D~ button.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Klik op de knop ~Start R&amp;D~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You use this interface to select the type of product you want to conduct R&amp;D for.^^The column ~Current Tech~ indicates your current production technology level.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Deze toepassing gebruik je om het soort goed te kiezen waarvoor je R&amp;D wilt doen.^^De kolom ~Tech nu~ geeft je huidig productietechnologieniveau aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The next column ~Top Tech~ indicates the top technology level for each product type.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>De volgende kolom ~Top Tech~ geeft het hoogste niveau per goed weer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This value will be updated whenever a company has achieved a higher tech level than the current top tech level.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Deze waarde verandert telkens een onderneming een hogere waarde weet te behalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is an important indicator as it tells how your company fare against the competition in technology.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Het is van belang deze indicator te monitoren om de technologiemededinging te kunnen volgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now select ~Air Conditioner~ from the list by double-clicking it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Selecteer nu ~Airconditioner~ uit de lijst door erop te dubbelklikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next you must decide how long your research project will run.^^The list shows the ~R&amp;D time duration~ and the ~expected increase in the technology level~ for the product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Vervolgens moet je beslissen hoelang jouw onderzoeksproject mag duren.^^De lijst toont ~R&amp;D-duurtijd~ en de ~verwachte technologieniveaustijging~ voor het goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The tech increase is greater for projects with longer durations.^^Since this is your first R&amp;D project, let's select ~6 months~ for the time duration to get the result sooner.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>De tech verhoging is groter in projecten die langer duren.^^Voor jouw eerste R&amp;D-project is mag je kiezen voor een duurtijd van ~6 maanden~ om sneller resultaat te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your R&amp;D project has commenced. Its progress can be viewed in the unit detail section.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Jouw R&amp;D-project is opgestart, de vooruitgang kan je volgen in het afdelingsdetail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While waiting for the R&amp;D project to complete, let's go ahead and ~set up a factory~ to manufacture ~Air Conditioners~.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Terwijl je wacht op het voltooien van het onderzoeksproject mag je alvast een ~fabriek opstarten~ voor de productie van ~Airconditioners~.^^Klik ergens op het scherm met de rechtermuisknop om terug te keren naar het stadszicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This tutorial will continue when ~your factory starts to produce and sell Air Conditioners~.^^If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Deze tutorial gaat verder zodra ~jouw fabriek start met de productie en verkoop van Airconditioners~.^^Mocht je de tutorial willen herstarten, kan je altijd op ~de ESC-toets drukken en de Tutorial herstarten~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This tutorial will continue when ~your factory starts to produce and sell Air Conditioners~.^^If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Deze tutorial gaat verder zodra ~jouw fabriek start met de productie en verkoop van Airconditioners~.^^Mocht je de tutorial willen herstarten, kan je altijd op ~de ESC-toets drukken en de Tutorial herstarten~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are now in the business of selling air conditioners!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Je kan nu airconditioners aanbieden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>^^Om het effect van R&amp;D te zien op jouw productieproces, klik op de ~sneltoets '5'~ om de ~spelsnelheid op snelst~ te zetten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a R&amp;D project of yours is finished, you will see a flashing ~Event Tracker~ icon at the bottom menu bar.^^Keep your eyes on this area.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Als een R&amp;D-project is zie je een flitsend ~Gebeurtenisicoon~ onderaan in de menubalk.^^Houd dit gebied in de gaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the ~Event Tracker~ icon (indicated by an ~'!'~ sign) appears, you can go ahead and click it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Zodra je het ~Gebeurtenisicoon~ ziet (weergegeven door een ~'!'~ teken), klik je daarop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your production technology level for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Het scherm ~Gebeurtenisbericht~ boven geeft weer dat jouw R&amp;D-project jouw productietechnologie voor Airconditioners verhoogde naar 33.^^Al jouw fabrieken die airconditioners produceren halen voordeel uit deze technologische vooruitgang, waardoor ze airco’s kunnen produceren van een betere kwaliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the ~Event Tracker~ window, you may click the ~Go~ button to access your R&amp;D center where the R&amp;D project is completed and decide if you want to continue to research better technology for the same product or direct your R&amp;D team to research on something else.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>In het ~Gebeurtenissenscherm~ klik je op de knop ~Gaan~ om het R&amp;D-centrum te openen waar jouw onderzoeksproject is voltooid. Je kan nu belissen of je het onderzoeksproject wilt verderzetten om nog betere technologie te onderzoeken voor hetzelfde goed of een ander onderzoek te bepalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Fantastisch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have demonstrated your ability to manage R&amp;D projects and use them to boost your products' quality.^^Next we'll take a quick look at the managerial option of providing training to your employees, which is essential for improving the overall competitiveness of your company.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Je toond je expertise in het beheren van R&amp;D-projecten en hoe dit aan te wenden om de goederenkwaliteit te verbeteren.^^We gaan nu bekijken hoe we werknemers kunnen opleiden, wat essentieel is voor het verbeteren van de algemene ondernemingscompetitiviteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the type of the functional unit, training may increase its productivity and/or its capacity.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Afhankelijk van de functie van de afdeling zal opeliding de productiviteit en / of de capaciteit verhogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For R&amp;D units, training improves their R&amp;D efficiency.^^For ~manufacturing units~, training increases their productivity and capacities.^^For ~livestock raising units~ and ~crop growing units~, training improves the quality of their output as well as their capacities.^^For ~purchasing units~ and ~sale units~, training increases their efficiency and capacities.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>In R&amp;D-afdelingen verbetert opleiding de R&amp;D-efficientie.^^In ~productieafdelingen~ zal opleiding de productiviteit en capaciteit doen toenemen.^^In ~afdelingen die dierstapels kweken~ of ~gewassen telen~ verbetert opleiding de outputkwaliteit en de capaciteit.^^In ~verkoops-~ en ~aankoopafdelingen~ verhoogt opleiding de efficientie en capaciteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~training bar~ is situated at the lower center of the firm detail window.^^You may adjust the amount of training the current firm receives by clicking a point on the training bar.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>De ~opleidingsbalk~ vind je in het midden onderaan elk gebouwscherm.^^De hoeveelheid opleiding die een gebouw ontvangt kan je aanpassen op die balk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the bar is set to full, it means you have allocated the maximum possible training budget to it.^^Try it now by setting the training for the current firm.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Wanneer volledig gevuld, zal dit gebouw het maximum halen uit het gespendeerde opleidingsbudget.^^Probeer dit nu zelf eens aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now all the staff in the firm will receive training. Click an R&amp;D unit to see the details of the staff.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Alle medewerkers zullen nu opleiding ontvangen, klik op een R&amp;D-afdeling om details te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit, represented by 12 figures in red overalls.^^During training, those who have been trained already will be shown wearing blue overalls.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Er zijn 12 medewerkers per R&amp;D-afdeling weergegeven door 12 figuren in rode werkkledij.^^Tijdens de opleiding zal de werkkledij blauw worden telkens iemand opleiding heeft voltooid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained (all in blue overalls), the unit's experience level will increase by one point and the staff's overall color will revert to red.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Zodra het volledige personeel van een afdeling is opgeleid (allen in blauwe werkkledij), zal het expertiseniveau van de afdeling stijgen met een punt en herkleurt alle werkkledij terug rood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Training can be costly for a company with limited cash but the end results are worth the initial outlay of money.^^In this tutorial game, you are fortune to start with ample cash.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Opleiding is een dure aangelegenheid voor ondernemingen met beperkte middelen, maar het eindresultaat is die investering zeker waard.^^In dit tutorialspel heb je gelukkig voldoende geld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So feel free to set the training slider to maximum.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Voel je vrij om de opleidingsbalk op maximum te zetten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have done a great job laying a solid foundation for your business to grow with sound R&amp;D facilities and familiarized yourself with the training interface.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Je hebt je beste beentje voorgezet door het bouwen van een stevig fundament voor de groei van jouw onderneming met R&amp;D-voorzieningen en  het jezelf eigen maken van de opleidingstoepassingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your efforts will pay off as you attempt to take your business to the next level.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Deze inspanningen zullen vruchten opleveren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your goal in this tutorial game is to grow your business from a humble manufacturer of Air Conditioners to a successful enterprise ~dominating the entire Home Appliances market~, and at the same time generating ~an annual profit of at least $20 million~.^^Good Luck!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233919Z">
+        <seg>Je krijgt als tutorialdoel om jouw onderneming uit te bouwen van een nederige aircoproducent tot een succesvol emperium die ~dominant is in de volledige huishoudtoestellenmarkt~, terwijl je tegelijk een ~jaarwinst van $20 miljoen~ genereert.^^Veel succes!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

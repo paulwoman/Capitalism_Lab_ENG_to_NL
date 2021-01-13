@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Fashion Venture</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Title=Modeketen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Description=Je probeert al enkele jaren startkapitaal te verzamelen om een modebedrijf op te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unfortunately the fund raising process is difficult and slow.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Helaas gaat het proces om fondsen te verzamelen moeizaam en traag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Als je uiteindelijk slaagt om een modebedrijf te lanceren (vermoedelijk in het jaar 2000), zullen er gevestigde mededingers op de markt zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Heb jij wat nodig is om uit te munten in deze nichemarkt met jouw eigen nieuwe modemerk?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Launching a New Brand</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Title=Een nieuw merk lanceren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Facing tough competition from established fashion companies, your near term goal is to stay afloat and carve out a niche with your new fashion brand.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Description=Geconfronteerd met harde mededingers uit de gevestigde modewereld is je einddoel om boven water te blijven, daarnaast een nichemarkt aan te boren met een nieuw modemerk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>De resultaten van jouw onderneming maakten indruk op de investeerders waardoor een kapitaalverhoging van $100 miljoen aan investeringen in jouw onderneming werd gestopt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Growing Your Business</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Title=Jouw onderneming laten groeien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Description=Nu je een voet aan wal hebt in deze markt met een eigen merk, heb je een reserve om nieuwe investering te doen en kan je het jou veroorloven om jouw onderneming agressief uit te breiden om marktaandeel van jouw mededingers af te snoepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Achieved Text=Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have developed your company into a force to be reckoned with!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Je hebt van jouw onderneming een geduchte mededinger gemaakt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Parent Goal=Launching a New Brand</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Parent Goal=Een nieuw merk lanceren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Market Leadership</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Title=Marktleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Description=Dankzij jouw recente uitbreidingsrondes sta je nu in een positie om een andere sprong te maken en ook marktleider te worden in de kledij-industrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Achieved Text=Gefelicieerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have come a long way since your humble beginning!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Je hebt een lange weg afgelegd ondanks een bescheiden start!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Parent Goal=Growing Your Business</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Parent Goal=Jouw onderneming doen groeien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Fashion Dominance</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Title=Modedominantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Goal Description=De lederengoederenmarkt is zeer lucratief, waardoor je jouw succes in de modemarkt best verbreed met een lijn lederen goederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You win this game when you achieve market dominance in both apparel and leather products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Je wint dit spel als je marktdominantie bereikt voor zowel kledij- als lederengoederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Parent Goal=Market Leadership</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120231Z">
+        <seg>Parent Goal=Marktleider</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

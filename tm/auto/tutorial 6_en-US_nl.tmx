@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agricultural Business</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T220847Z">
+        <seg>Landbouwondernemer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=As part of your effort to grow your company into a major conglomerate, you are going to expand your business into the agricultural sector and set up your own farms to supply livestock and crop products to your retail stores.^^Agricultural products play key roles in productions of a large number of products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T220847Z">
+        <seg>Description=Als strategisch onderdeel om jouw onderneming te laten groeien tot een grote speler, wil je uitbreiden naar de landbouwsector door eigen landbouwbedrijven op te starten. Daardoor kan je eigen landbouwproducten aanbieden in jouw groothandel.^^Landbouwgoederen spelen een sleutelrol in de productie van een groot aantal goederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By having your own agricultural production capability, you will further strengthen your company's competitiveness.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T220847Z">
+        <seg>Wanneer je over een eigen landbouwproductiecapaciteit beschikt, kan je de ondernemingscompetitiviteit verder versterken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T220847Z">
+        <seg>Goal Title=Tutorialdoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=To win this game, your company must make at least 20 types of products to demonstrate its ability to produce a wide range of products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T220847Z">
+        <seg>Goal Description=Om dit te spel te winnen zal je minstens 20 soorten goederen moeten kunnen produceren met een grote productdiversiteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the same time you must achieve an annual revenue of $100 million and an annual profit of $10 million.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T220847Z">
+        <seg>Tegelijk dien je een minimale jaaromzet vanu $100 miljoen en jaarwinst van $10 miljoen neer te zetten.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

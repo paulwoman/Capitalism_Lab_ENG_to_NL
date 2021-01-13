@@ -64,16 +64,16 @@
       <tuv lang="en-US">
         <seg>// Competitor Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221244Z" creationid="Olivier" creationdate="20200519T214356Z">
-        <seg>// Concurrent Startkapitaal=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200519T214356Z" creationid="Olivier" creationdate="20200519T214356Z">
+        <seg>// Competitor Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215432Z" creationid="Olivier" creationdate="20200519T214918Z">
-        <seg>// Voortdurende importlevering=&lt;Ja,Nee&gt;</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200519T215149Z" creationid="Olivier" creationdate="20200519T214918Z">
+        <seg>// Voortdurende importlevering=&lt;Yes,No&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="en-US">
         <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215438Z" creationid="Olivier" creationdate="20200519T214519Z">
-        <seg>// Invoerkwaliteit=&lt;Low,Moderate,High&gt;</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200519T214519Z" creationid="Olivier" creationdate="20200519T214519Z">
+        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="en-US">
         <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221032Z" creationid="Olivier" creationdate="20200519T214045Z">
-        <seg>// Willekeurige gebeurtenissen=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200519T214045Z" creationid="Olivier" creationdate="20200519T214045Z">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="en-US">
         <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221059Z" creationid="Olivier" creationdate="20200519T214100Z">
-        <seg>// Technology Disruption=&lt;Ja, Nee&gt;</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200519T214100Z" creationid="Olivier" creationdate="20200519T214100Z">
+        <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="en-US">
         <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221016Z" creationid="Olivier" creationdate="20200519T214043Z">
-        <seg>// Uw startkapitaal=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200519T214043Z" creationid="Olivier" creationdate="20200519T214043Z">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,38 +262,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223640Z" creationid="Olivier" creationdate="20200519T223640Z">
-        <seg>Een nieuw warenhuis bouwen kost $1,000,000 waarin de bouwgrond inbegrepen is, verder is er een operationele kost van $100,000 per maand.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224411Z" creationid="Olivier" creationdate="20200519T224411Z">
-        <seg>De ~algemene waardering~ van een goed is een berekening gebaseerd op de prijs, kwaliteit en merkwaardering.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223941Z" creationid="Olivier" creationdate="20200519T223941Z">
-        <seg>Een speciaalzaak is veel aantrekkelijker voor consumenten die specifieke goederen willen.^^Zo zal een computerwinkel  veel beter scoren in het verkopen van computers dan een gewone handelszaak.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224027Z" creationid="Olivier" creationdate="20200519T224027Z">
-        <seg>Een ~Aankoopafdeling~ heeft de functie om goederen aan te kopen bij de aanbieder die je selecteerde.^^Na levering zal de ~Aankoopafdeling~ de voorraad doorgeven aan de ~Verkoopafdeling~ zodra er vraag is van consumenten naar dat goed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>AI Friendly Merger=No</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
@@ -318,66 +286,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Active Interface=Add Unit</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224251Z" creationid="Olivier" creationdate="20200519T224251Z">
-        <seg>Active Interface=Add Unit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Active Interface=City View</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223232Z" creationid="Olivier" creationdate="20200519T223232Z">
-        <seg>Active Interface=City View</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Agricultural Business</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221004Z" creationid="Olivier" creationdate="20200519T220906Z">
-        <seg>Landbouwondernemer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Allow=Detect Other</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223711Z" creationid="Olivier" creationdate="20200519T223711Z">
-        <seg>Allow=Detect Other</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223413Z" creationid="Olivier" creationdate="20200519T223413Z">
-        <seg>Bovenaan zie je het icoon ~Stadselectie~ (weergegeven door een neerwaartse pijl), waarmee je een lijst ziet met de beschikbare steden in dit spel.^^De ~pijl naar links en die naar rechts~ naast de stadsnaam, geven jou de mogelijkheid de vorige en volgende stad te bezoeken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Alternative Stock Sim=Yes</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
         <seg>Alternative Stock Sim=Yes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222137Z" creationid="Olivier" creationdate="20200519T221831Z">
-        <seg>U kunt ook op de toets ~Enter~ drukken om verder te gaan wanneer het pictogram ~Volgende~ knippert.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>And choose ~Department Store~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223658Z" creationid="Olivier" creationdate="20200519T223658Z">
-        <seg>en kies ~Warenhuis~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,46 +310,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223925Z" creationid="Olivier" creationdate="20200519T223925Z">
-        <seg>Doordat je al ervaring opbouwde in de groothandel, kan je nu kiezen uit verschillende soorten handelszaken waaronder van warenhuizen tot buurtwinkels, zelfs diverse speciaalzaken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223556Z" creationid="Olivier" creationdate="20200519T223556Z">
-        <seg>Omdat jouw onderneming enkel één gebouw heeft (jouw warenhuis), zie je enkel één stip op de kaart met jouw ondernemingskleur.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>At the same time you must achieve an annual revenue of $100 million and an annual profit of $10 million.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221322Z" creationid="Olivier" creationdate="20200519T221322Z">
-        <seg>Tegelijk dien je een minimale jaaromzet vanu $100 miljoen en jaarwinst van $10 miljoen neer te zetten.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222314Z" creationid="Olivier" creationdate="20200519T222314Z">
-        <seg>Op dit ogenblik hoef je jou geen zorgen te maken over de beschikbare informatie bij de goederen (vervoerskosten, waarderingen, merk, enz. Die informatie komt in een andere tutorial nog uitgebreid aan bod).^^Wat nu belangrijk is: we gaan ons eerste goed uit de lijst kiezen om de zaak in beweging te brengen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223227Z" creationid="Olivier" creationdate="20200519T223227Z">
-        <seg>Naast het klikken op de ~Selecteer~ knop, kan je eenvoudigweg ~dubbelklikken~ op een goed uit de lijst om die te kiezen.^^Zodra je klaar bent om verder te gaan, mag je een ~RECHTERMUISKLIK ergens~ op het scherm uitvoeren om jouw handelszaak te verlaten en terug naar het stadsscherm te gaan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Beverage</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120741Z" creationid="Olivier" creationdate="20200518T120741Z">
@@ -446,34 +318,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Branding and Advertising</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215908Z" creationid="Olivier" creationdate="20200519T215823Z">
-        <seg>Merkstrateeg en adverteerder</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Budding Entrepreneur</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214831Z" creationid="Olivier" creationdate="20200519T214831Z">
         <seg>Aspirant zaakvoerder</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Build Firm=Department Store, My Department Store</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222144Z" creationid="Olivier" creationdate="20200519T222144Z">
-        <seg>Build Firm=Department Store, My Department Store</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>But for now keep it active.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223600Z" creationid="Olivier" creationdate="20200519T223600Z">
-        <seg>Voorlopig mag je deze filter geactiveerd laten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,14 +354,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214529Z" creationid="Olivier" creationdate="20200519T214529Z">
         <seg>Buy Land</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>By having your own agricultural production capability, you will further strengthen your company's competitiveness.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221010Z" creationid="Olivier" creationdate="20200519T221010Z">
-        <seg>Wanneer je over een eigen landbouwproductiecapaciteit beschikt, kan je de ondernemingscompetitiviteit verder versterken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,50 +462,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Can you apply what you have learned into running a business in the real world?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221823Z" creationid="Olivier" creationdate="20200519T221823Z">
-        <seg>Kan je in een onderneming in de dagelijkse praktijk toepassen wat je hebt geleerd?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Can you pull it off this time?</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T121013Z" creationid="Olivier" creationdate="20200518T120933Z">
         <seg>Kun je het deze keer voor elkaar krijgen? </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Center on firm=My Department Store</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222148Z" creationid="Olivier" creationdate="20200519T222148Z">
-        <seg>Center on firm=My Department Store</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Center on firm=My Department Store, Select</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223602Z" creationid="Olivier" creationdate="20200519T223602Z">
-        <seg>Center on firm=My Department Store, Select</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Cick the ~Add Product icon~ now.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222203Z" creationid="Olivier" creationdate="20200519T222203Z">
-        <seg>Klik nu op het icoon ~Goed toevoegen~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>City=Bangkok</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215717Z" creationid="Olivier" creationdate="20200519T215717Z">
-        <seg>City=Bangkok</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,14 +506,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103839Z" creationid="Olivier" creationdate="20200518T103839Z">
         <seg>City=Guangzhou</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>City=Helsinki</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221454Z" creationid="Olivier" creationdate="20200519T221454Z">
-        <seg>City=Helsinki</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,14 +558,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>City=San Diego</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215334Z" creationid="Olivier" creationdate="20200519T215334Z">
-        <seg>City=San Diego</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>City=San Francisco</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T105429Z" creationid="Olivier" creationdate="20200518T105429Z">
@@ -798,14 +582,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>City=Toronto</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215334Z" creationid="Olivier" creationdate="20200519T215334Z">
-        <seg>City=Toronto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>City=Vancouver</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T105429Z" creationid="Olivier" creationdate="20200518T105429Z">
@@ -818,54 +594,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120253Z" creationid="Olivier" creationdate="20200518T120253Z">
         <seg>City=Warsaw</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223106Z" creationid="Olivier" creationdate="20200519T223106Z">
-        <seg>Klik op het icoon ~Goed toevoegen~ en kies vervolgens ~Zeehaven~ uit de aanbiederslijst + kies het goed dat je aan jouw warenhuis wil toevoegen.^^Zorg wel dat je deze keer een goed kiest die je nog niet in jouw handelszaak aanbiedt.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223645Z" creationid="Olivier" creationdate="20200519T223645Z">
-        <seg>Klik op het icoon ~Bouwmenu~ in de ~Werkbalk~ linksboven in het scherm.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Click the ~Goal~ option.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223728Z" creationid="Olivier" creationdate="20200519T223728Z">
-        <seg>Klik op de optie ~Doel~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224318Z" creationid="Olivier" creationdate="20200519T224318Z">
-        <seg>Klik op de knop ~Verbind~ en selecteer een goed uit de aanbiederslijst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223548Z" creationid="Olivier" creationdate="20200519T223548Z">
-        <seg>Klik op de knop ~mijn gebouwen~ en de minimap toont enkel de gebouwen die rechtstreeks aan jouw onderneming toebehoren.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Click the ~SELECT~ button now.^^</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222404Z" creationid="Olivier" creationdate="20200519T222404Z">
-        <seg>Klik nu op de knop ~Selecteer~.^^</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,14 +666,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
         <seg>Competitor Start-up Capital=Moderate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Congratulations!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223714Z" creationid="Olivier" creationdate="20200519T223714Z">
-        <seg>Gefeliciteerd!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,14 +766,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Corporate Headquarters</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221622Z" creationid="Olivier" creationdate="20200519T221622Z">
-        <seg>Directiecomité</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Corporate cash change=10</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120429Z" creationid="Olivier" creationdate="20200518T120429Z">
@@ -1066,22 +778,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T104909Z" creationid="Olivier" creationdate="20200518T104909Z">
         <seg>Corporate Cash Change=100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Current Firm=My Department Store</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222158Z" creationid="Olivier" creationdate="20200519T222158Z">
-        <seg>Current Firm=My Department Store</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Description=As part of your effort to grow your company into a major conglomerate, you are going to expand your business into the agricultural sector and set up your own farms to supply livestock and crop products to your retail stores.^^Agricultural products play key roles in productions of a large number of products.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221008Z" creationid="Olivier" creationdate="20200519T221008Z">
-        <seg>Description=Als strategisch onderdeel om jouw onderneming te laten groeien tot een grote speler, wil je uitbreiden naar de landbouwsector door eigen landbouwbedrijven op te starten. Daardoor kan je eigen landbouwproducten aanbieden in jouw groothandel.^^Landbouwgoederen spelen een sleutelrol in de productie van een groot aantal goederen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,26 +806,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221443Z" creationid="Olivier" creationdate="20200519T221443Z">
-        <seg>Description=Om competitief te blijven op een snelveranderende markt, moet je continu investeren in de kwaliteitverhoging van goederen.^^In deze tutorial start je een onderzoeks- en ontwikkelingscentrum (R&amp;D) en doet onderzoek naar het uitvinden van geavanceerde technologie voor jouw goederen.^^De mededinging zal hard zijn, maar jouw R&amp;D-investering zou vruchten moeten afwerpen en jou een competitieve voorsprong moeten geven op jouw mededingers.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T104655Z" creationid="Olivier" creationdate="20200518T104655Z">
         <seg>Description=Met meer dan 20 jaren ervaring op jou rekening in de productie van wereldklasse fotografiemateriaal, heb je het vertrouwen gewonnen van een investeerdersgroep voor een startup.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215310Z" creationid="Olivier" creationdate="20200519T215310Z">
-        <seg>Description=Nu jouw groothandel floreert, bestaat jouw volgende doel uit de productie van eigen goederen en deze te verkopen onder jouw eigen merk.^^Deze tutorial gidst jou door het proces om fabrieken op te starten, grondstoffen te verwerven en consumentengoederen te vervaardigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,34 +870,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Description=You have built a flourishing business empire.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220434Z" creationid="Olivier" creationdate="20200519T220434Z">
-        <seg>Description=Je richtte een bloeiende onderneming op.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Description=You have just assumed the role of CEO of a well funded startup.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102915Z" creationid="Olivier" creationdate="20200518T102915Z">
         <seg>Description=U heeft zojuist de rol van CEO van een goed gefinancierde startup op zich genomen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Description=You have made impressive progresses thus far and earned yourself the reputation of being one of rising stars presently in the business world.^^In this final tutorial, you will learn how to build your corporate headquarters and set up various departments to enable you to manage your business empire even more effectively.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221623Z" creationid="Olivier" creationdate="20200519T221623Z">
-        <seg>Description=Je maakte tot nogtoe een indrukwekkende vooruitgang en hebt de reputatie opgebouwd van een rijzende ster in ondernemerswereld.^^In deze laatste tutorial, leer je hoe je in jouw maatschappelijke zetel verschillende afdelingen opstart die jou in de mogelijkheid brengen efficienter de onderneming te besturen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Description=You realize that your products can only sell well when consumers are aware of them.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215940Z" creationid="Olivier" creationdate="20200519T215846Z">
-        <seg>Description=Je bent jou ervan bewust dat goederen enkel verkopen als consumenten van hun bestaan afweten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,22 +890,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103129Z" creationid="Olivier" creationdate="20200518T103129Z">
         <seg>Description=Uw doel is om de steden te laten uitgroeien tot welvarende grootstedelijke gebieden.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Did you wonder which seaports are supplying products to your department store?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223605Z" creationid="Olivier" creationdate="20200519T223605Z">
-        <seg>Vraag je jou af welke zeehavens jouw warenhuis bevoorraden?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Differences in quality, price and brand may even things out but that's for a later tutorial.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223942Z" creationid="Olivier" creationdate="20200519T223942Z">
-        <seg>Verschillen in kwaliteit, prijs en merk kunnen daar nog nuance in brengen, maar da’s voer voor een latere tutorial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,14 +942,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Do you have enough money to build a second department store yet?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223631Z" creationid="Olivier" creationdate="20200519T223631Z">
-        <seg>Heb je al voldoende geld om een tweede warenhuis te bouwen?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120246Z" creationid="Olivier" creationdate="20200518T120246Z">
@@ -1318,66 +950,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Double-click ~Seaport~ from the drop-down list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222221Z" creationid="Olivier" creationdate="20200519T222221Z">
-        <seg>Dubbelklik ~Zeehaven~ in de lijst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Each retail store has four product slots.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222836Z" creationid="Olivier" creationdate="20200519T222836Z">
-        <seg>Elke handelszaak heeft ruimte voor vier goederen,.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Electronic Products</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T105014Z" creationid="Olivier" creationdate="20200518T105014Z">
         <seg>Electronic Products</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Excellent!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224311Z" creationid="Olivier" creationdate="20200519T224311Z">
-        <seg>Uitstekend!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Extend Text Box=120,500,450,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223724Z" creationid="Olivier" creationdate="20200519T223724Z">
-        <seg>Extend Text Box=450,100,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Extend Text Box=32,420,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222155Z" creationid="Olivier" creationdate="20200519T222155Z">
-        <seg>Extend Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Extend Text Box=450,100,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223533Z" creationid="Olivier" creationdate="20200519T223527Z">
-        <seg>Extend Text Box=450,100,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Extend Text Box=450,50,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223423Z" creationid="Olivier" creationdate="20200519T223423Z">
-        <seg>Extend Text Box=450,50,300,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,46 +970,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T105435Z" creationid="Olivier" creationdate="20200518T105435Z">
         <seg>Farming=80</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Fast forward days=5</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222414Z" creationid="Olivier" creationdate="20200519T222414Z">
-        <seg>Fast forward days=5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Firm Build Count=Department Store, 2</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223713Z" creationid="Olivier" creationdate="20200519T223713Z">
-        <seg>Firm Build Count=Department Store, 2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Firm Build Count=Discount Megastore, 1</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223950Z" creationid="Olivier" creationdate="20200519T223950Z">
-        <seg>Firm Build Count=Discount Megastore, 1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Firm product count=My Department Store, 2</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223116Z" creationid="Olivier" creationdate="20200519T223116Z">
-        <seg>Firm product count=My Department Store, 2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Firm product count=My megastore, 1</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224009Z" creationid="Olivier" creationdate="20200519T224009Z">
-        <seg>Firm product count=My megastore, 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,82 +1110,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Flex Text Box=150,280,250,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223730Z" creationid="Olivier" creationdate="20200519T223730Z">
-        <seg>Flex Text Box=150,280,250,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flex Text Box=150,280,400,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223743Z" creationid="Olivier" creationdate="20200519T223743Z">
-        <seg>Flex Text Box=60,550,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flex Text Box=300,280,400,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222141Z" creationid="Olivier" creationdate="20200519T222141Z">
-        <seg>Flex Text Box=300,280,400,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flex Text Box=400,16,400,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223709Z" creationid="Olivier" creationdate="20200519T223709Z">
-        <seg>Flex Text Box=400,16,400,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flex Text Box=60,550,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223403Z" creationid="Olivier" creationdate="20200519T223403Z">
-        <seg>Flex Text Box=60,550,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flex Text Box=80,500,400,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223351Z" creationid="Olivier" creationdate="20200519T223351Z">
-        <seg>Flex Text Box=80,500,400,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flex Text Box=80,550,400,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223241Z" creationid="Olivier" creationdate="20200519T223241Z">
-        <seg>Flex Text Box=80,550,400,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Food</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120741Z" creationid="Olivier" creationdate="20200518T120741Z">
         <seg>Food</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>For example, a furniture store can only sell furniture.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223932Z" creationid="Olivier" creationdate="20200519T223932Z">
-        <seg>For example, a furniture store can only sell furniture.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224409Z" creationid="Olivier" creationdate="20200519T224409Z">
-        <seg>Nemen we als voorbeelde de aankoop van een jeans, consumenten hebben in het algemeen meer aandacht voor het merk dan de werkelijke kwaliteit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,14 +1170,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214543Z" creationid="Olivier" creationdate="20200519T214543Z">
         <seg>Goal Description=Behaal een jaaromzet van $20 miljoen om deze tutorial te vervolledigen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=Achieve an annual revenue of $30 million and an annual profit of $3 million to complete this tutorial.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215451Z" creationid="Olivier" creationdate="20200519T215451Z">
-        <seg>Goal Description=Behaal een jaaromzet van $30 miljoen en een jaarwinst van $3 miljoen om deze tutorial te vervolledigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1839,22 +1295,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221459Z" creationid="Olivier" creationdate="20200519T221459Z">
-        <seg>Goal Description=Om dit spel te winnen dien je een jaaromzet neer te zetten van $150 miljoen en een jaarwinst van $15 miljoen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=To win this game, your company must make at least 20 types of products to demonstrate its ability to produce a wide range of products.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221320Z" creationid="Olivier" creationdate="20200519T221320Z">
-        <seg>Goal Description=Om dit te spel te winnen zal je minstens 20 soorten goederen moeten kunnen produceren met een grote productdiversiteit.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103348Z" creationid="Olivier" creationdate="20200518T103348Z">
@@ -1911,34 +1351,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220302Z" creationid="Olivier" creationdate="20200519T220302Z">
-        <seg>Goal Description=Dit tutorialspel win je zodra je marktdominant bent in de kledijsector en een jaarwinst neerzet van minstens $2 miljoen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=You win this tutorial game when your company's stock price increases to $100.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220730Z" creationid="Olivier" creationdate="20200519T220730Z">
-        <seg>Goal Description=Je wint dit tutorialspel zodra de koers van het beursaandeel van jouw onderneming gestegen is naar minstens $100.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
         <seg>Goal Title=Media emperium</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=Your goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221752Z" creationid="Olivier" creationdate="20200519T221752Z">
-        <seg>Goal Description=Jouw doel is om de onderneming te laten uitgroeien tot een grote onderneming met ~1000 of meer werknemers~ en een ~jaaromzet van $1 miljard~ en ~jaarwinst van $100 miljoen~ neer te zetten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2152,22 +1568,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Good.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223234Z" creationid="Olivier" creationdate="20200519T223234Z">
-        <seg>Goed zo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Great job!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224326Z" creationid="Olivier" creationdate="20200519T224326Z">
-        <seg>Goed gedaan!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Have it reached the limit already?</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T121017Z" creationid="Olivier" creationdate="20200518T120935Z">
@@ -2176,90 +1576,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224400Z" creationid="Olivier" creationdate="20200519T224400Z">
-        <seg>Hier zie je de ~kwaliteit~ en de ~merkwaardering~ van het goed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224340Z" creationid="Olivier" creationdate="20200519T224340Z">
-        <seg>Hier zie je de ~aankoopkost~ van het goed en de ~transportkost~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Hide, Minimap</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214538Z" creationid="Olivier" creationdate="20200519T214538Z">
         <seg>Hide, Minimap</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Hide=Minimap and Filter</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221817Z" creationid="Olivier" creationdate="20200519T221817Z">
-        <seg>Hide=Minimap and Filter</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Hide=Preview</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221821Z" creationid="Olivier" creationdate="20200519T221821Z">
-        <seg>Hide=Preview</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Home Appliances</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221507Z" creationid="Olivier" creationdate="20200519T221507Z">
-        <seg>Home Appliances</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>However, specialty stores do have advantages over general stores.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223939Z" creationid="Olivier" creationdate="20200519T223939Z">
-        <seg>Daarentegen hebben speciaalzaken verschillende andere voordelen tegenover algemene handelszaken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223934Z" creationid="Olivier" creationdate="20200519T223934Z">
-        <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224332Z" creationid="Olivier" creationdate="20200519T224332Z">
-        <seg>Als de aanbieder een onderneming is, zie je hier haar ~ondernemingskleur~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224045Z" creationid="Olivier" creationdate="20200519T224045Z">
-        <seg>Bij een structureel tekort kan je dus beter een andere aanbieder zoeken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223931Z" creationid="Olivier" creationdate="20200519T223931Z">
-        <seg>Daardoor kan je een uitgeput goed eenvoudig vervangen door gelijk welk ander goed.^^ Daarentegen kan een ~ speciaalzaak~ enkel een specifieke soort goederen aanbieden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2276,62 +1596,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
         <seg>Import Quality=Moderate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224412Z" creationid="Olivier" creationdate="20200519T224412Z">
-        <seg>In een notendop zal ~een lage prijs, hoge kwaliteit en een hoge merkwaardering~ bijdragen tot ~een hoge algemene waardering~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224002Z" creationid="Olivier" creationdate="20200519T224002Z">
-        <seg>In de vorige tutorial diende je enkel om het icoon  ~Goed toevoegen~  te klikken en een goed uit de aanbiederslijst te kiezen. Daarna verscheen het gekozen goed automatisch in jouw winkel.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223503Z" creationid="Olivier" creationdate="20200519T223503Z">
-        <seg>In deze modus worden gebouwen weergegeven in ~groen als ze winstegevend zijn~ terwijl ~rood verlieslatende~ gebouwen weergeeft.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223909Z" creationid="Olivier" creationdate="20200519T223909Z">
-        <seg>In deze tutorial krijg je een opleiding tot zaakvoerder van een groothandel en leer je de maximale operationele efficientie en winst uit handelszaken te halen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>In today's crowded market, advertising is essential for building consumer awareness and making your products stand out from the competition.^^This tutorial explains how branding and advertising works in the game and how you can get most out of it by making smart marketing decisions.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215953Z" creationid="Olivier" creationdate="20200519T215713Z">
-        <seg> In een verzadigde markt is adverteren essentieel om mededingers te slim af te zijn door met marketing consumentenbewustzijn te creëren.^^Deze tutorial legt uit hoe merkstrategie en adverteren werkt in het spel en hoe je met doordachte marketingbeslissingen het onderste uit de kan kan halen. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223058Z" creationid="Olivier" creationdate="20200519T223058Z">
-        <seg> verhoog nu de diversificatie aan goederen in jouw winkel door daarvan gebruik te maken..^Herhaal wat je ned deed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Industrial Goods Seaports=1</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215346Z" creationid="Olivier" creationdate="20200519T215346Z">
-        <seg>Industrial Goods Seaports=1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2496,82 +1760,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Interface Select=Select Supplier, Seaport</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222255Z" creationid="Olivier" creationdate="20200519T222255Z">
-        <seg>Interface Select=Select Supplier, Seaport</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>It lists all the products currently available within the game.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222209Z" creationid="Olivier" creationdate="20200519T222209Z">
-        <seg>Het geeft een lijst weer van alle goederen die momenteel beschikbaar zijn.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>It seems within your budget, so let's proceed.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223641Z" creationid="Olivier" creationdate="20200519T223641Z">
-        <seg>Het ziet ernaar uit dat dit binnen jouw budget ligt, dus kan je verdergaan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223301Z" creationid="Olivier" creationdate="20200519T223301Z">
-        <seg>Daarin zie je de liquide middelen die jouw onderneming momenteel heeft èn de operationele winst van dit boekjaar.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Keep on adding more products to your store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223125Z" creationid="Olivier" creationdate="20200519T223125Z">
-        <seg>Blijf verder goederen toevoegen aan jouw handelszaak.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Leather Goods</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120543Z" creationid="Olivier" creationdate="20200518T120543Z">
         <seg>Leather Goods</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Let's click on the ~Mini Map~ icon now.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223400Z" creationid="Olivier" creationdate="20200519T223400Z">
-        <seg>Klik op nu op het icoon ~Minimap~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223238Z" creationid="Olivier" creationdate="20200519T223238Z">
-        <seg>We gaan dit eens van naderbij bezien.^^Zie je de menubalk onderaan het scherm?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224314Z" creationid="Olivier" creationdate="20200519T224314Z">
-        <seg>Maak de nieuwe aankoopafdeling operationeel door een aanbieder voor je goederen te kiezen.^^Klik op de ~Aankoopafdeling~ om die de selecteren.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Let's have a closer look at each unit.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224031Z" creationid="Olivier" creationdate="20200519T224031Z">
-        <seg>Laat ons elke afdeling van naderbij bezien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,8 +1794,8 @@
       <tuv lang="en-US">
         <seg>Manufacturing</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220700Z" creationid="Olivier" creationdate="20200518T103858Z">
-        <seg>Producent</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103858Z" creationid="Olivier" creationdate="20200518T103858Z">
+        <seg>Manufacturing</seg>
       </tuv>
     </tu>
     <tu>
@@ -2620,142 +1812,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120309Z" creationid="Olivier" creationdate="20200518T120309Z">
         <seg>Media Focused Companies=2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>NIL</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221815Z" creationid="Olivier" creationdate="20200519T221815Z">
-        <seg>NIL</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Next Arrow=Yes</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222142Z" creationid="Olivier" creationdate="20200519T222142Z">
-        <seg>Next Arrow=Yes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224045Z" creationid="Olivier" creationdate="20200519T224045Z">
-        <seg>Ook kan je een gele aanbodbalk en oranje vraagbalk terugvinden.^^De ~gele aanbodbalk~ toont de hoeveelheid die de aanbieder kan bevoorraden, terwijl de ~oranje vraagbalk~ de consumentenvraag voor dit goed meet.^^Waneer het aanbod lager is dan de vraag is er een aanbodtekort.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Notice anything different?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223955Z" creationid="Olivier" creationdate="20200519T223955Z">
-        <seg>Merk je een verschil op?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now choose ~Retail Store~ from the menu.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223654Z" creationid="Olivier" creationdate="20200519T223654Z">
-        <seg>Kies nu ~Handelszaak~ in het menu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223447Z" creationid="Olivier" creationdate="20200519T223447Z">
-        <seg>Klik nu op het icoon met het dollarteken om naar de ~grondwaardemodus~ over te schakelen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now click the ~Profit~ icon to change to that mode.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223459Z" creationid="Olivier" creationdate="20200519T223459Z">
-        <seg>Klik nu op het icoon van de ~Winstmodus~ met de rode en groene balken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now go and add products to your new department store and grow your business!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223742Z" creationid="Olivier" creationdate="20200519T223742Z">
-        <seg>Ga nu verder met het toevoegen van goederen in jouw nieuwe warenhuis en laat je onderneming verder groeien!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now it is time to take it to the next level by getting it listed as a public company on the Stock Exchange.^^You will learn how to raise funds by making new shares offerings to the public to finance your business expansion, and make long term investments by buying shares of other companies with promising growth prospects.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220550Z" creationid="Olivier" creationdate="20200519T220550Z">
-        <seg>Nu ga je nog een stap verder door met een beurnsotering een beroep te doen op het publiek spaarwezen.^^Je leert jouw onderneming uit te breiden via een kapitaalverhoging door het uitgeven van nieuwe aandelen. Naast die beursintroductie maak je langetermijninvesteringen door te beleggen in aandelen van andere ondernemingen die veelbelovende groeivooruitzichten hebben.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222120Z" creationid="Olivier" creationdate="20200519T221826Z">
-        <seg>Nu is het uw kans om uw bekwaamheid te bewijzen! ^^Klik op het knipperende pictogram Volgende om verder te gaan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now left click it to view its detail.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222153Z" creationid="Olivier" creationdate="20200519T222153Z">
-        <seg>Klik er nu op met de linkermuisknop om een kijkje te nemen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224304Z" creationid="Olivier" creationdate="20200519T224304Z">
-        <seg>Verbind nu de  ~Aankoopafdeling~ en de  ~Verkoopafdeling~ met elkaar door een schakel aan te tikken tussen beide.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223948Z" creationid="Olivier" creationdate="20200519T223948Z">
-        <seg>Kies nu ~Discountwinkel~ uit het menu en kies een bouwplaats om jouw discountwinkel te bouwen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now select ~Retail Store~ from the menu.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223921Z" creationid="Olivier" creationdate="20200519T223921Z">
-        <seg>Kies nu ~handelszaak~ uit het menu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223623Z" creationid="Olivier" creationdate="20200519T223623Z">
-        <seg>Nu wordt het scherm vernieuwd en worden de zeehavens van waaruit jouw warenhuis goederen ontvangt getoond.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now waste no time and get started working towards this goal.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223912Z" creationid="Olivier" creationdate="20200519T223912Z">
-        <seg>Verspil dus geen tijd stel alles in het werk om jouw doelen te bereiken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223525Z" creationid="Olivier" creationdate="20200519T223525Z">
-        <seg>We gaan nog snel kijken naar de ~Gebouwenfilter~.^^Deze filteroptie heeft vijf selectieknoppen ~Gebouw~, ~Onderneming~, ~Elke stad~, ~Mijn gebouwen~ en ~Goederen~ (al dan niet afgekort).^^Wanneer je filter(s) inschakelt, zie je enkel de gebouwen op de minimap die voldoen aan de gekozen criteria in de modus ~Winst~ of ~Eigenaars~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2780,14 +1836,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214037Z" creationid="Olivier" creationdate="20200519T214037Z">
         <seg>Number of Cities=2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Number of Cities=3</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221736Z" creationid="Olivier" creationdate="20200519T221445Z">
-        <seg>Number of Cities=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2908,30 +1956,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T121116Z" creationid="Olivier" creationdate="20200518T121116Z">
         <seg>Number of product types being produced=20</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Okay, enough of the theory.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223946Z" creationid="Olivier" creationdate="20200519T223946Z">
-        <seg>Ok, dat was voldoende theorie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel).</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223440Z" creationid="Olivier" creationdate="20200519T223440Z">
-        <seg>Op de minimap zijn de witte gebouwen niet in het bezit van ondernemingen, zoals bepaalde huizen en parken.^^De gekleurde gebieden geven ondernemingseigendom weer in de kleuren van de onderneming die eigenaar is.^^~Zeehavens~ staan aangeduid met letter 'C' or 'I' - ~'C' voor Consumentengoederen~ (zoals televisie of jeans) en ~'I' voor industriele goederen~ (zoals steenkool en staal).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224014Z" creationid="Olivier" creationdate="20200519T224014Z">
-        <seg>De ene kreeg het label ~Aankoop~ en staat in verbinding met de afdeling ~Verkoop~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,26 +2088,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Player Company Annual Profit=2</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220306Z" creationid="Olivier" creationdate="20200519T220306Z">
-        <seg>Player Company Annual Profit=2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Player Company Annual Profit=20</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120458Z" creationid="Olivier" creationdate="20200518T104433Z">
         <seg>Player Company Annual Profit=20</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Player Company Annual Profit=3</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215500Z" creationid="Olivier" creationdate="20200519T215500Z">
-        <seg>Player Company Annual Profit=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -3172,14 +2180,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T104438Z" creationid="Olivier" creationdate="20200518T103909Z">
         <seg>Player Company Annual Revenue=200</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Player Company Annual Revenue=30</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215455Z" creationid="Olivier" creationdate="20200519T215455Z">
-        <seg>Player Company Annual Revenue=30</seg>
       </tuv>
     </tu>
     <tu>
@@ -3276,310 +2276,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102936Z" creationid="Olivier" creationdate="20200518T102936Z">
         <seg>Player Skill Level=Advanced</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Point at Firm=My Department Store</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222157Z" creationid="Olivier" creationdate="20200519T222157Z">
-        <seg>Point at Firm=My Department Store</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=140,31,162,58</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223501Z" creationid="Olivier" creationdate="20200519T223501Z">
-        <seg>Pointer=65,6,94,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=156,6,183,30</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223726Z" creationid="Olivier" creationdate="20200519T223726Z">
-        <seg>Pointer=65,6,94,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=172,71,196,91</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223617Z" creationid="Olivier" creationdate="20200519T223617Z">
-        <seg>Pointer=172,71,196,91</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=193,280,380,300</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224352Z" creationid="Olivier" creationdate="20200519T224345Z">
-        <seg>Pointer=193,280,380,300</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=193,300,380,330</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224404Z" creationid="Olivier" creationdate="20200519T224404Z">
-        <seg>Pointer=193,300,380,330</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=2,237,185,284</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223535Z" creationid="Olivier" creationdate="20200519T223530Z">
-        <seg>Pointer=2,237,185,284</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=200,40,353,57</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222239Z" creationid="Olivier" creationdate="20200519T222215Z">
-        <seg>Pointer=200,40,353,57</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=202,385,246,400</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224320Z" creationid="Olivier" creationdate="20200519T224320Z">
-        <seg>Pointer=202,385,246,400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=202,85,348,102</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222249Z" creationid="Olivier" creationdate="20200519T222227Z">
-        <seg>Pointer=202,85,348,102</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=255,386,312,400</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224418Z" creationid="Olivier" creationdate="20200519T224418Z">
-        <seg>Pointer=255,386,312,400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=262,0,580,30</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223342Z" creationid="Olivier" creationdate="20200519T223342Z">
-        <seg>Pointer=262,0,580,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=267, 10, 575,24</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223634Z" creationid="Olivier" creationdate="20200519T223634Z">
-        <seg>Pointer=267, 10, 575,24</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=281,232,452,285</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223936Z" creationid="Olivier" creationdate="20200519T223936Z">
-        <seg>Pointer=281,232,452,285</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=282,52,450,100</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223700Z" creationid="Olivier" creationdate="20200519T223700Z">
-        <seg>Pointer=282,52,450,100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=30,0,600,30</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223245Z" creationid="Olivier" creationdate="20200519T223245Z">
-        <seg>Pointer=30,0,600,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=31,30,79,58</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223649Z" creationid="Olivier" creationdate="20200519T223649Z">
-        <seg>Pointer=31,30,79,58</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=36,239,52,282</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223545Z" creationid="Olivier" creationdate="20200519T223545Z">
-        <seg>Pointer=36,239,52,282</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=360, 649, 448, 665</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222410Z" creationid="Olivier" creationdate="20200519T222410Z">
-        <seg>Pointer=360, 649, 448, 665</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=38,121,55,238</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222426Z" creationid="Olivier" creationdate="20200519T222426Z">
-        <seg>Pointer=38,121,55,238</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=38,68,122,78</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223733Z" creationid="Olivier" creationdate="20200519T223733Z">
-        <seg>Pointer=38,68,122,78</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=43,5,165,20</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223426Z" creationid="Olivier" creationdate="20200519T223426Z">
-        <seg>Pointer=43,5,165,20</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=44,31,67,56</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223450Z" creationid="Olivier" creationdate="20200519T223450Z">
-        <seg>Pointer=44,31,67,56</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=461,232,643,285</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223944Z" creationid="Olivier" creationdate="20200519T223944Z">
-        <seg>Pointer=461,232,643,285</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=486,357,560,440</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224248Z" creationid="Olivier" creationdate="20200519T224248Z">
-        <seg>Pointer=486,357,560,440</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=489,253,573,336</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224033Z" creationid="Olivier" creationdate="20200519T224033Z">
-        <seg>Pointer=489,253,573,336</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=489,253,682,336</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224020Z" creationid="Olivier" creationdate="20200519T224020Z">
-        <seg>Pointer=489,253,682,336</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=489,253,791,553</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223958Z" creationid="Olivier" creationdate="20200519T223958Z">
-        <seg>Pointer=489,253,791,553</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=52,61,235,75</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223656Z" creationid="Olivier" creationdate="20200519T223656Z">
-        <seg>Pointer=65,6,94,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=55,120,165,230</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224007Z" creationid="Olivier" creationdate="20200519T224007Z">
-        <seg>Pointer=55,120,165,230</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=55,262,128,282</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223551Z" creationid="Olivier" creationdate="20200519T223551Z">
-        <seg>Pointer=55,262,128,282</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=576,400,593,405</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224306Z" creationid="Olivier" creationdate="20200519T224306Z">
-        <seg>Pointer=576,400,593,405</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=595,360,675,440</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224257Z" creationid="Olivier" creationdate="20200519T224257Z">
-        <seg>Pointer=65,6,94,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=60,120,165,230</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222205Z" creationid="Olivier" creationdate="20200519T222205Z">
-        <seg>Pointer=60,120,165,230</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=65,6,94,30</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223405Z" creationid="Olivier" creationdate="20200519T223405Z">
-        <seg>Pointer=65,6,94,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=680,0,764,30</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223353Z" creationid="Olivier" creationdate="20200519T223353Z">
-        <seg>Pointer=680,0,764,30</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=69,377,190,400</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224337Z" creationid="Olivier" creationdate="20200519T224337Z">
-        <seg>Pointer=69,377,190,400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Pointer=9,33,32,57</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223442Z" creationid="Olivier" creationdate="20200519T223442Z">
-        <seg>Pointer=65,6,94,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,22 +2400,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Remember to choose an apt brand strategy early on and invest wisely in advertising, R&amp;D and training.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221728Z" creationid="Olivier" creationdate="20200519T221728Z">
-        <seg>Vergeet niet om zo vroeg mogelijk een aparte merkstrategie te kiezen en verstandig te investeren in adverteren, R&amp;D en opleiding.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Research and Development</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221430Z" creationid="Olivier" creationdate="20200519T221430Z">
-        <seg>Onderzoeker en ontwikkelaar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Retail</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103857Z" creationid="Olivier" creationdate="20200518T103857Z">
@@ -3760,14 +2440,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224241Z" creationid="Olivier" creationdate="20200519T224241Z">
-        <seg>momenteel gelijk aan 1.^^Na verloop van tijd en door opleiding stijgt het niveau waardoor de afdeling efficienter werkt en dus grotere voorraden kan verwerken, dus ook een hogere vraag kan beantwoorden.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Score change=100</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T115915Z" creationid="Olivier" creationdate="20200518T103729Z">
@@ -3784,26 +2456,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Score change=170</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220736Z" creationid="Olivier" creationdate="20200519T220736Z">
-        <seg>Score change=170</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Score change=200</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102457Z" creationid="Olivier" creationdate="20200518T102457Z">
         <seg>Score change=200</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Score change=250</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221510Z" creationid="Olivier" creationdate="20200519T221510Z">
-        <seg>Score change=250</seg>
       </tuv>
     </tu>
     <tu>
@@ -3848,74 +2504,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>See the two units that have appeared in your layout grid?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224013Z" creationid="Olivier" creationdate="20200519T224013Z">
-        <seg>Zie je de twee afdelingen die zijn verschenen in het ontwerpplan?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>See the vertical yellow and orange bars?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222419Z" creationid="Olivier" creationdate="20200519T222419Z">
-        <seg>Zie je de verticale gele en oranje balken?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Select a product to order from the supplier list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224322Z" creationid="Olivier" creationdate="20200519T224322Z">
-        <seg>Kies een goed uit de aanbiederslijst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Select ~Purchasing Unit~ from the list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224252Z" creationid="Olivier" creationdate="20200519T224252Z">
-        <seg>Selecteer ~Aankoopafdeling~ in de lijst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Select ~Sales Unit~ from the list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224259Z" creationid="Olivier" creationdate="20200519T224259Z">
-        <seg>Kies ~Verkoopafdeling~ uit de lijst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Set firm description=My megastore</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223954Z" creationid="Olivier" creationdate="20200519T223954Z">
-        <seg>Set firm description=My megastore</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Show Competitor Trade Secrets=Yes</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
         <seg>Show Competitor Trade Secrets=Yes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Simple eh?</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224029Z" creationid="Olivier" creationdate="20200519T224029Z">
-        <seg>Eenvoudig, niet?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Skip game interface=Yes</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224424Z" creationid="Olivier" creationdate="20200519T224424Z">
-        <seg>Skip game interface=Yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,14 +2576,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Stock Market</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220519Z" creationid="Olivier" creationdate="20200519T220427Z">
-        <seg>Belegger</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Stock Market=No</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214101Z" creationid="Olivier" creationdate="20200519T214101Z">
@@ -4010,8 +2594,8 @@
       <tuv lang="en-US">
         <seg>Stock Price=100</seg>
       </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220733Z" creationid="Olivier" creationdate="20200518T104435Z">
-        <seg>Stock Price=100</seg>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104435Z" creationid="Olivier" creationdate="20200518T104435Z">
+        <seg>Stock Price=500</seg>
       </tuv>
     </tu>
     <tu>
@@ -4064,334 +2648,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Text Box=10,270,220,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223230Z" creationid="Olivier" creationdate="20200519T223230Z">
-        <seg>Text Box=10,270,220,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=100,200,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223922Z" creationid="Olivier" creationdate="20200519T223922Z">
-        <seg>Text Box=100,200,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=100,280,400,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223916Z" creationid="Olivier" creationdate="20200519T223916Z">
-        <seg>Text Box=100,280,400,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=20,270,280,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223111Z" creationid="Olivier" creationdate="20200519T223111Z">
-        <seg>Text Box=20,270,280,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=32,250,250,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224254Z" creationid="Olivier" creationdate="20200519T224254Z">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=32,250,350,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224018Z" creationid="Olivier" creationdate="20200519T224018Z">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=32,270,230,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224005Z" creationid="Olivier" creationdate="20200519T224005Z">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=32,270,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222246Z" creationid="Olivier" creationdate="20200519T222213Z">
-        <seg>Text Box=32,270,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222204Z" creationid="Olivier" creationdate="20200519T222204Z">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=40,270,350,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222425Z" creationid="Olivier" creationdate="20200519T222425Z">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=400,12,250,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224316Z" creationid="Olivier" creationdate="20200519T224316Z">
-        <seg>Text Box=400,12,250,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=400,12,350,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224334Z" creationid="Olivier" creationdate="20200519T224334Z">
-        <seg>Text Box=400,12,350,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=500,100,250,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224349Z" creationid="Olivier" creationdate="20200519T224349Z">
-        <seg>Text Box=500,100,250,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=60,280,250,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224301Z" creationid="Olivier" creationdate="20200519T224301Z">
-        <seg>Text Box=32,420,300,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Text Box=610,318,380,0</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223927Z" creationid="Olivier" creationdate="20200519T223927Z">
-        <seg>Text Box=610,318,380,0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223431Z" creationid="Olivier" creationdate="20200519T223431Z">
-        <seg>De bewegende rechthoek op de minimap toont welk stadsdeel je momenteel op jouw scherm ziet.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The darker the color, the greater the profit or loss.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223504Z" creationid="Olivier" creationdate="20200519T223504Z">
-        <seg>Hoe donkerder het kleur, des te groter de winst of het verlies.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224228Z" creationid="Olivier" creationdate="20200519T224228Z">
-        <seg>De afbeelding in de rechterbovenhoek van de afdeling is het ~afdelingsniveau~,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223437Z" creationid="Olivier" creationdate="20200519T223437Z">
-        <seg>Het eerste icoon, met het gele gebouw, is de ~Eigenaarsmodus~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224038Z" creationid="Olivier" creationdate="20200519T224038Z">
-        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224402Z" creationid="Olivier" creationdate="20200519T224402Z">
-        <seg>Een hogere kwaliteit doet de vraag van consumenten stijgen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224330Z" creationid="Olivier" creationdate="20200519T224330Z">
-        <seg>De linkeronderkant van het scherm toont nu de details van de aankoopafdeling en het daarin aanwezige goed.^^Onder de goederenafbeelding kan je het handelskleur van de aanbieder zien.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The mini map display changes to show Land Value data.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223455Z" creationid="Olivier" creationdate="20200519T223455Z">
-        <seg>De minimap toont de grondprijzen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The mini map shows the entire city.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223417Z" creationid="Olivier" creationdate="20200519T223417Z">
-        <seg>De volledige stad staat op de mini map .</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224512Z" creationid="Olivier" creationdate="20200519T224512Z">
-        <seg>De goederen die jouw aankoopafdeling bestelde zullen zeer binnekort worden aangeboden in jouw winkel. Ook de Verkoopafdeling zou inmiddels operationeel moeten zijn.^^We bekijken nu de ~Verkoopafdeling~ door die te selecteren.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The two units are now connected and are going to work with each other.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224312Z" creationid="Olivier" creationdate="20200519T224312Z">
-        <seg>De twee afdelingen zijn nu verbonden en zullen interageren.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223522Z" creationid="Olivier" creationdate="20200519T223522Z">
-        <seg>De witte gebouwen zijn in het bezit van de overheid en geven daarom geen info over winst- of verlies.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The window updates to show all products available from the local seaports.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222257Z" creationid="Olivier" creationdate="20200519T222257Z">
-        <seg>Het scherm toont telkens alle beschikbare goederen via de lokale zeehavens.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The ~Stop Purchase~ button will do exactly that.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224703Z" creationid="Olivier" creationdate="20200519T224453Z">
-        <seg>De ~Stop Aankoop~ knop zal precies dat doen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224414Z" creationid="Olivier" creationdate="20200519T224414Z">
-        <seg>De knop ~Aanbieder~ toont informatie over de huidige aanbieder.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224046Z" creationid="Olivier" creationdate="20200519T224046Z">
-        <seg>De ~bruine balk~ geeft het gebruikniveau van de afdeling weer.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222423Z" creationid="Olivier" creationdate="20200519T222423Z">
-        <seg>De ~gele AANBOD balk~ geeft het aantal goederen weer dat je in voorraad hebt, terwijl de ~oranje VRAAG balk~ de vraag van consumenten naar dit goed berekent.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>There are several icons around the mini map for switching to different map modes.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223434Z" creationid="Olivier" creationdate="20200519T223434Z">
-        <seg>Er zijn nog verschillende andere iconen rond de minimap of naar andere kaarmodi over te schakelen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224036Z" creationid="Olivier" creationdate="20200519T224036Z">
-        <seg>Je kan verschillende indicatoren terugvinden in de ~Aankoopafdeling~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>There is a row of icons on the toolbar.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223357Z" creationid="Olivier" creationdate="20200519T223357Z">
-        <seg>Er staan ook enkele iconen op de menubalk.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>These units actually do the real work!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224003Z" creationid="Olivier" creationdate="20200519T224003Z">
-        <seg>^^Wat je niet kon zien was de ~Aankoop- en verkoopafdelingen~ in jouw winkel. Het zijn net die afdelingen die al het werk verrichten!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224331Z" creationid="Olivier" creationdate="20200519T224331Z">
-        <seg>Dit kleur is ~grijs als het een importgoed via de zeehaven~ is.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This is the ~Select a Supplier~ window.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222208Z" creationid="Olivier" creationdate="20200519T222208Z">
-        <seg>Dit is het schem ~Kies een aanbieder~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224016Z" creationid="Olivier" creationdate="20200519T224016Z">
-        <seg>Dit is jouw basishandelsgroepering.^^Geen enkele afdeling heeft enig effect zonder dat het in verbinding staat met een andere winkelfunctie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224050Z" creationid="Olivier" creationdate="20200519T224050Z">
-        <seg>Dat kan een reden zijn waarom jouw handelszaak niet zo winstgevend is als verwacht.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224247Z" creationid="Olivier" creationdate="20200519T224247Z">
-        <seg>Nu ga je de aanpak van een ervaren groothandelbeheerder volgen door handmatig ~Aan- en verkoopsafdelingen~ op te starten voor jouw handelszaak.^^~Dubbelklik~ op een lege afdelingsruimte in het ontwerpplan en kies ~Aankoopafdeling~ uit de lijst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Title=1.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T213820Z" creationid="Olivier" creationdate="20200519T213820Z">
@@ -4404,54 +2660,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200519T214605Z" creationid="Olivier" creationdate="20200519T214605Z">
         <seg>Title=2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=3.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215304Z" creationid="Olivier" creationdate="20200519T215304Z">
-        <seg>Title=3.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=4.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215624Z" creationid="Olivier" creationdate="20200519T215624Z">
-        <seg>Title=4.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=5.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220352Z" creationid="Olivier" creationdate="20200519T220352Z">
-        <seg>Title=5.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=6.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220806Z" creationid="Olivier" creationdate="20200519T220806Z">
-        <seg>Title=6.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=7.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221428Z" creationid="Olivier" creationdate="20200519T221334Z">
-        <seg>Title=7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=8.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221618Z" creationid="Olivier" creationdate="20200519T221618Z">
-        <seg>Title=8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,46 +2776,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>To browse the firms within the filter, use the up and down buttons.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223542Z" creationid="Olivier" creationdate="20200519T223542Z">
-        <seg>Om ondernemingen binnen die filters te zien gebruik je de pijlen naar boven of beneden.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>To build your first store, click the ~Build~ icon.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223914Z" creationid="Olivier" creationdate="20200519T223914Z">
-        <seg>Om jouw eerste winkel te bouwen, klik op het icoon ~Bouwen~.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223723Z" creationid="Olivier" creationdate="20200519T223723Z">
-        <seg>Om het ~doelenrapport~ te zien, klik je op het ~Informatiecentrum~ icoon in de menubalk onderaan het scherm.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>To so, simply repeat the steps that you just did for setting up your first department store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223719Z" creationid="Olivier" creationdate="20200519T223719Z">
-        <seg>Daarvoor moet je eenvoudigweg de voorgaande stappen herhalen zoals net aangeleerd.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224004Z" creationid="Olivier" creationdate="20200519T224004Z">
-        <seg>Om dit beter te begrijpen, gaan we eenvoudigweg op de ons reeds vertrouwde manier een goed toevoegen.^^Klik nu op het icoon  ~Goed toevoegen ~ en kies een goed die aangeboden wordt.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Total Number of Employees=1000</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103741Z" creationid="Olivier" creationdate="20200518T103741Z">
@@ -4620,14 +2788,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103344Z" creationid="Olivier" creationdate="20200518T103344Z">
         <seg>Training Effect Modifier=200</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223707Z" creationid="Olivier" creationdate="20200519T223707Z">
-        <seg>Probeer een bouwgrond te vinden nabij residentiële gebouwen om van een hoog consumentenverkeer te kunnen genieten.^^Wanneer de plaats een ~gele~ schaduw heeft, dan heb je een vergunde bouwgrond gevonden om jouw nieuwe warenhuis te bouwen.^^Zodra je de bouwgrond hebt gekozen, klik je op de linkermuisknop om het warenhuis te bouwen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4648,54 +2808,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Tutorial=TUT03</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215503Z" creationid="Olivier" creationdate="20200519T215503Z">
-        <seg>Tutorial=TUT03</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tutorial=TUT04</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220312Z" creationid="Olivier" creationdate="20200519T220312Z">
-        <seg>Tutorial=TUT04</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tutorial=TUT05</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T220800Z" creationid="Olivier" creationdate="20200519T220800Z">
-        <seg>Tutorial=TUT05</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tutorial=TUT06</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221327Z" creationid="Olivier" creationdate="20200519T221327Z">
-        <seg>Tutorial=TUT06</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tutorial=TUT07</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221513Z" creationid="Olivier" creationdate="20200519T221513Z">
-        <seg>Tutorial=TUT07</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tutorial=TUT08</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221754Z" creationid="Olivier" creationdate="20200519T221754Z">
-        <seg>Tutorial=TUT08</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Under your leadership, the company continues to grow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T104344Z" creationid="Olivier" creationdate="20200518T104344Z">
@@ -4708,38 +2820,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120242Z" creationid="Olivier" creationdate="20200518T120242Z">
         <seg>Helaas gaat het proces om fondsen te verzamelen moeizaam en traag.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Unit Exists=4, Purchasing</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224255Z" creationid="Olivier" creationdate="20200519T224255Z">
-        <seg>Unit Exists=4, Purchasing</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Unit Exists=5, Sales</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224303Z" creationid="Olivier" creationdate="20200519T224303Z">
-        <seg>Unit Exists=5, Sales</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Unit Linked=Purchasing, Sales, 4, 5</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224309Z" creationid="Olivier" creationdate="20200519T224309Z">
-        <seg>Unit Linked=Purchasing, Sales, 4, 5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Unit has item=4</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224325Z" creationid="Olivier" creationdate="20200519T224325Z">
-        <seg>Unit has item=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -4816,90 +2896,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>We are now in the city view.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223236Z" creationid="Olivier" creationdate="20200519T223236Z">
-        <seg>Nu bevinden we ons op het stadsscherm.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223957Z" creationid="Olivier" creationdate="20200519T223957Z">
-        <seg>We kunnen nu het ~ontwerp~ van jouw winkel zien, weergegeven in een 3x3 tabel met vakjes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Well done!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223124Z" creationid="Olivier" creationdate="20200519T223124Z">
-        <seg>Goed gedaan!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Well now it is your chance to find that out.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223606Z" creationid="Olivier" creationdate="20200519T223606Z">
-        <seg>Nu krijg je de kans om dit te ontdekken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224048Z" creationid="Olivier" creationdate="20200519T224048Z">
-        <seg>Als de balk de volledige lengte bereikt, is de volledige gebruikscapaciteit bereikt  en kunnen geen bijkomende goederen meer worden verwerkt zelfs als er een bijkomend aanbod of bijkomende vraag is.^^Omgekeerd zal een onderbenutte afdeling de voorzieningen en grondstoffen niet efficient aanwenden.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120245Z" creationid="Olivier" creationdate="20200518T120245Z">
         <seg>Als je uiteindelijk slaagt om een modebedrijf te lanceren (vermoedelijk in het jaar 2000), zullen er gevestigde mededingers op de markt zijn.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223625Z" creationid="Olivier" creationdate="20200519T223625Z">
-        <seg>Terwijl we de verschillende filtermogelijkheden onderzochten, heeft jouw warenhuis omzet gedraaid.^^Kijk naar de cijfers ~geld en winst~ op de nieuwsbalk.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Window=Bottom Toolbar</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223248Z" creationid="Olivier" creationdate="20200519T223248Z">
-        <seg>Window=Bottom Toolbar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Window=Minimap</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223427Z" creationid="Olivier" creationdate="20200519T223427Z">
-        <seg>Window=Minimap</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Window=Select Supplier</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222217Z" creationid="Olivier" creationdate="20200519T222217Z">
-        <seg>Window=Select Supplier</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223611Z" creationid="Olivier" creationdate="20200519T223611Z">
-        <seg>Terwijl je scherm nog steeds enkel jouw warenhuis laat zien (als een gekleurd vierkantje) klik je op het icoon Ruimtelijke ordening en ~ondernemingsrelatiesmodus~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4912,34 +2912,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You are now back in your department store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222417Z" creationid="Olivier" creationdate="20200519T222417Z">
-        <seg>Je bevindt jou opnieuw in het warenhuis.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>You are your family's best hope for achieving this goal and you promise yourself not to disappoint them.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T115902Z" creationid="Olivier" creationdate="20200518T115902Z">
         <seg>Jouw familie vertrouwt op jou om dit doel te behalen, dus stel ze niet teleur.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223557Z" creationid="Olivier" creationdate="20200519T223557Z">
-        <seg>Deze modus kan je annuleren door opnieuw op de knop  ~mijn gebouwen~ te klikken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223348Z" creationid="Olivier" creationdate="20200519T223348Z">
-        <seg>De speeldatum van vandaag staat hier.^^Merk op dat het spel in realtime verloopt. De spelsnelheid kan jue wijzigen met de sneltoets ~'1' (traagst) tot '5' (snelst)~.^^Je kan het spel ook pauzeren met de sneltoets ~toets'0'~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,26 +2928,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You have been assigned to run this department store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222150Z" creationid="Olivier" creationdate="20200519T222150Z">
-        <seg>Je kreeg de bevoegdheid toegewezen om dit warenhuis te beheren.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>You have come a long way since your humble beginning!</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T120507Z" creationid="Olivier" creationdate="20200518T120507Z">
         <seg>Je hebt een lange weg afgelegd ondanks een bescheiden start!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You have completed this tutorial.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223740Z" creationid="Olivier" creationdate="20200519T223740Z">
-        <seg>Je hebt deze tutorial nu afgewerkt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4992,22 +2952,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You have graduated with an MBA from a renowned business school.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221822Z" creationid="Olivier" creationdate="20200519T221822Z">
-        <seg>Je behaalde een master in de bedrijfskunde aan een gerenommeerde ondernemingschool.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You have just expanded your business!</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223715Z" creationid="Olivier" creationdate="20200519T223715Z">
-        <seg>Je hebt zonet jouw onderneming uitgebreid!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>You have significantly improved your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103725Z" creationid="Olivier" creationdate="20200518T103725Z">
@@ -5016,34 +2960,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224328Z" creationid="Olivier" creationdate="20200519T224328Z">
-        <seg>Je hebt succesvol de logistiek binnen jouw winkel verhoogd door een nieuw goed aan je winkel toe te voegen.^^Vervolgens gaan we de beschikbare informatie bekijken van de door jou in jouw winkel aangeboden goederen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>You may now set up natural resource firms.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103908Z" creationid="Olivier" creationdate="20200518T103908Z">
         <seg>Je kan nu over natuurlijke grondstoffen beschikken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222211Z" creationid="Olivier" creationdate="20200519T222211Z">
-        <seg>Je kan de drie filters bovenaan het scherm gebruiken om makkelijker te vinden wat je zoekt.^^Omdat je goederen van de lokale zeehaven wil kopen, klik je op het vakje ~Aanbieders~ filter zoals aangegeven.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You must apply what you have just learned into running your company.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223741Z" creationid="Olivier" creationdate="20200519T223741Z">
-        <seg>Wat je zonet leerde kan je in de toekomst best toepassen in jouw draaiende onderneming.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5060,14 +2980,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T115904Z" creationid="Olivier" creationdate="20200518T115904Z">
         <seg>Je richt je nu op nieuwe horizonten en breidt uit naar nieuwe markten.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You now have to set up products in your new department store.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223716Z" creationid="Olivier" creationdate="20200519T223716Z">
-        <seg>Nu is het aan jou om goederen aan te bieden in jouw nieuwe warenhuis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5096,26 +3008,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You win this game when your company's annual revenue reaches $20 million.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223721Z" creationid="Olivier" creationdate="20200519T223721Z">
-        <seg>Je wint dit spel zodra de jaarlijkse ondernemingsomzet $20 miljoen bereikt.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Your Start-up Capital=High</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103336Z" creationid="Olivier" creationdate="20200518T103336Z">
         <seg>Your Start-up Capital=High</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your Start-up Capital=Moderate</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T215320Z" creationid="Olivier" creationdate="20200519T215320Z">
-        <seg>Your Start-up Capital=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -5176,50 +3072,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Your cursor now highlights a square on the city.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223703Z" creationid="Olivier" creationdate="20200519T223703Z">
-        <seg>De cursor doet een vierkant oplichten in de stad.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223911Z" creationid="Olivier" creationdate="20200519T223911Z">
-        <seg>Jouw doelen in dit spel zijn het behalen van een jaaromzet van $50,000,000 en een jaarwinst van $5,000,000.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T104358Z" creationid="Olivier" creationdate="20200518T104358Z">
         <seg>De algemene vergadering heeft vertrouwen in de vooruitzichten van de onderneming voor de toekomst.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222418Z" creationid="Olivier" creationdate="20200519T222418Z">
-        <seg>Het warenhuis koopt automatisch verder de door jou gekozen goederen in en biedt ze te koop aan jouw klanten.^^Kijk links naast de goederenafbeelding.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224256Z" creationid="Olivier" creationdate="20200519T224256Z">
-        <seg>Jouw winkel heeft nu een nieuwe ~Aankoopafdeling~.^^Ga verder en voeg een ~verkoopafdeling~ toe.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[ACTION]</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221816Z" creationid="Olivier" creationdate="20200519T221816Z">
-        <seg>[ACTION]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5244,14 +3100,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
         <seg>[COMPETITORS]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[CONDITION]</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222157Z" creationid="Olivier" creationdate="20200519T222157Z">
-        <seg>[CONDITION]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,14 +3184,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[POS]</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T222138Z" creationid="Olivier" creationdate="20200519T222138Z">
-        <seg>[POS]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[SPECIAL RULES]</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103343Z" creationid="Olivier" creationdate="20200518T103343Z">
@@ -5396,14 +3236,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T103715Z" creationid="Olivier" creationdate="20200518T103715Z">
         <seg>[SUBGOAL]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[TEXT]</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221814Z" creationid="Olivier" creationdate="20200519T221814Z">
-        <seg>[TEXT]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5472,14 +3304,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>^^Try to apply what you have learned from previous tutorials into managing your company.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T221725Z" creationid="Olivier" creationdate="20200519T221627Z">
-        <seg>^^Probeer het geleerde van vorige tutorials toe te passen in het beheer van uw bedrijf.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T104746Z" creationid="Olivier" creationdate="20200518T104746Z">
@@ -5532,38 +3356,6 @@
       </tuv>
       <tuv lang="nl" changeid="Olivier" changedate="20200518T102449Z" creationid="Olivier" creationdate="20200518T102449Z">
         <seg>^^Je hebt als doel om de omzet van jouw media-onderneming tot een substantiële grootte te doen stijgen en uiteindelijk alle andere mededingers in de sector uit de markt te spelen, zodat je de grootste en enige ter wereld wordt.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224407Z" creationid="Olivier" creationdate="20200519T224407Z">
-        <seg>~Merken~ kunnen een zeer belangrijke factor zijn in de aankoopbeslissing van een consument, zeker voor luxegoederen en mode.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223929Z" creationid="Olivier" creationdate="20200519T223929Z">
-        <seg>~Discountwinkels~ kunnen alle producten aanbieden, wat ze veelzijdig maken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T224257Z" creationid="Olivier" creationdate="20200519T224257Z">
-        <seg>~Dubbelklik~ op een lege afdeling exact rechts naast de aankoopafdeling die je net opstartte.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Olivier" changedate="20200519T223456Z" creationid="Olivier" creationdate="20200519T223456Z">
-        <seg>~Hoe donkerder het kleur, hoe hoger de grondprijs.~ Het bouwen in opgelichte gebieden kan veel geld kosten, maar tegelijk voorziet het jouw handelszaken mogelijkes van een rijkere clandizie.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

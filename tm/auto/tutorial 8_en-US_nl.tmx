@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corporate Headquarters</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221613Z">
+        <seg>Directiecomité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You have made impressive progresses thus far and earned yourself the reputation of being one of rising stars presently in the business world.^^In this final tutorial, you will learn how to build your corporate headquarters and set up various departments to enable you to manage your business empire even more effectively.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221613Z">
+        <seg>Description=Je maakte tot nogtoe een indrukwekkende vooruitgang en hebt de reputatie opgebouwd van een rijzende ster in ondernemerswereld.^^In deze laatste tutorial, leer je hoe je in jouw maatschappelijke zetel verschillende afdelingen opstart die jou in de mogelijkheid brengen efficienter de onderneming te besturen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^Try to apply what you have learned from previous tutorials into managing your company.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221613Z">
+        <seg>^^Om dit spel te winnen moet jouw onderneming dominant zijn in de sectoren landbouw en groothandel met een jaaromzet van $200 miljoen en jaarwinst van $20 miljoen.^^Tracht wat jouw kennis van de voorgaande tutorials toe te passen in het besturen van jouw onderneming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remember to choose an apt brand strategy early on and invest wisely in advertising, R&amp;D and training.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221613Z">
+        <seg>Vergeet niet om zo vroeg mogelijk een aparte merkstrategie te kiezen en verstandig te investeren in adverteren, R&amp;D en opleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221613Z">
+        <seg>Goal Title=Tutorialdoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Your goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221613Z">
+        <seg>Goal Description=Jouw doel is om de onderneming te laten uitgroeien tot een grote onderneming met ~1000 of meer werknemers~ en een ~jaaromzet van $1 miljard~ en ~jaarwinst van $100 miljoen~ neer te zetten.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

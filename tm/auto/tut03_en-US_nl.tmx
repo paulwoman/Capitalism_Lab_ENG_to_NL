@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the previous tutorials you have learned how to purchase products from suppliers and simply put them on sale in your stores.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>In de vorige tutorials leerde je goederen aankopen bij aanbieders en hen vervolgens aan te bieden in jouw winkels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you get the chance to actually manufacture products in your own factory.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je krijgt nu de kans om zelf goederen te produceren in jouw eigen fabriek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have decided to leave your family-owned business and branch out on your own. You've spotted an opportunity in the market.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je beslist de familieonderneming te verlaten en een eigen zaak op te starten, omdat je ondernemingskansen ziet op de markt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There's high quality timber available for import, from which you can manufacture a variety of products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Hoge kwaliteitshout is beschikbaar voor  import, waarmee jij diverse goederen kan produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Starting your own corporation takes money - and lot's of it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Een onderneming opstarten vergt een grote hoeveelheid kapitaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Om jouw grote plannen te financieren heb je een banklening nodig.^^Klik op het icoon ~Informatiecentrum~ op de menubalk onderaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Financial Actions~ from the Information Center.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Kies ~Financieel~ in het informatiecentrum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your company's credit limit varies throughout the game depending on the state of your company.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>De toegestane kredietlimiet die jouw onderneming maximaal kan lenen wijzigt uiteraard tijdens het spel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Op dit ogenblik kan je maximaal $30,000,000 lenen.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik op de knop ~[+]~ Naast de knop ~Lenen~.^^Wanneer je het bedrag hebt verhoogd naar $20,000,000 of meer, klik dan op ~Lenen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je hebt nu voldoende startkapitaal om een onderneming op te richten.^^De volgende stap is het bestuderen van het productieproces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik op de ~Productiegids~ links in het scherm om verder te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Om te weten te komen wat met ~Hout~ kan worden geproduceerd, klik je op de knop ~INPUT~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Look for ~Timber~ in the list and double-click it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Zoek naar ~Hout~ in de lijst en dubbelklik erop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je ziet dat je met ~Hout~ ook ~Bed~ kan produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly obvious eh? Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Bekijk nu de informatie die hier getoond wordt.^^ ~120 stammen hout~ zijn nodig om ~1 eenheid Bed~ te produceren.^^Merk op dat Hout een ~kwaliteitsinvloed van 50%~ heeft, waardoor de eindkwaliteit van het eindproduct voor 50% bepaald is door de houtkwaliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Twee factoren bepalen de ~kwaliteit van Bed~: ~Productietechnologie~ en ~Grondstoffenkwaliteit~.^^De ~Grondstoffen~ bepalen ~50%~ van de Bedkwaliteit en de overige ~50%~ hangt dus af van de ~productietechnologie van de producent~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We will discuss production technology later.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>We bespreken productietechnologie later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's explore more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>We onderzoeken wat we nog met Hout kunnen produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~MORE~ button below the image of the Timber.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik op de knop ~MEER~ onder de afbeelding van Hout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>~Hout~ in combinatie met ~Katoen~ en ~Linnen~ leidt tot de productie van ~Stoel~.^^De kwaliteit van ~Stoel~ hangt voor 60% af van de grondstoffen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among that 60%, ~Timber~ contributes 40%; ~Cotton~ contributes 10%; and ~Linen~ contributes the remaining 10%.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Die 60% is samengesteld uit 40 % ~Hout~; 10% ~Katoen~ en ~10 % Linnen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je mag opnieuw op de knop ~MEER~ klikken onder de afbeelding Hout telkens je wil weten wat je met Hout kan produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Good!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Goed!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You've got a basic understanding about manufacturing. Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je hebt nu basiskennis productie, nu gaan we een stap verder en starten een productieproces op.^^Rechtermuisklik ergens op het scherm om terug naar het stadsscherm te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you must build a factory.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je moet nu een fabriek bouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Build icon~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik op het icoon ~Bouwen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Kies ~Fabriek~ uit het menu en zoek een bouwgrond in de stad.^^Handig om weten is dat bouwgrond in niet-stedelijke gebieden goedkoper is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~. The third type you require is the ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Verkoopbare goederen produceren vereist drie soorten afdelingen die met elkaar verbonden zijn binnen het ontwerpplan.^^De ~Aankoop- en verkoopafdelingen~ ken je al. Je hebt nu ook een ~Productieafdeling~ nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's get your factory producing something.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>We laten jouw fabriek nu iets produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Dubbelklik op de ruimte linksboven in het ontwerpplan en maak daarvan een ~Aankoopafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Voeg rechts naast de Aankoopafdeling een ~Productieafdeling~ toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Voeg nu rechts van de Productieafdeling een ~Verkoopafdeling~ toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Verbind nu de afdelingen onderling door te klikken op de schakel er tussenin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Connect these units as well.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Verbind ook deze afdelingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great Job!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you need to purchase raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je hebt nu nog grondstoffen nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click your ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik daarvoor op jouw ~Aankoopafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Link~ button to open the ~Select a Supplier~ interface.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik op de knop ~Verbind~ om het menu ~Aanbieder kiezen~ te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use the ~Product~ filter to select ~Timber~. Then choose a supplier that sells timber.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Gebruikt de ~Goederenfilter~ om ~Hout~ te vinden, kies vervolgens een aanbieder ervan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=14,40,168,56</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Pointer=16,32,167,45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Zodra de aanbieder Hout levert aan jouw fabriek, begint jouw Productieafdeling Bed te produceren.^^Kort daarna zal de Productieafdeling afgewerkte goederen afleveren aan de Verkoopafdeling waardoor Bed beschikbaar wordt voor de verkoop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Er is veel ongebruikte fabrieksruimte. Exact zes lege afdelingen kun je nog in gebruik nemen.^^~Voeg~ van links naar rechts nog een koppel ~Aankoop-, Productie- en Verkoopafdeling toe~ in de lege rij afdelingen net onder de reeds bestaande functionele koppeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remember to ~link~ the three new units as well.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Vergeet niet de nieuwe afdelingen ook te ~verbinden~ met elkaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Er is veel ongebruikte fabrieksruimte. Exact zes lege afdelingen kun je nog in gebruik nemen.^^~Voeg~ van links naar rechts nog een koppel ~Aankoop-, Productie- en Verkoopafdeling toe~ in de lege rij afdelingen net onder de reeds bestaande functionele koppeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remember to ~link~ the three new units as well.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Vergeet niet de nieuwe afdelingen ook te ~verbinden~ met elkaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the new ~Purchasing unit~ and click the ~Link~ button to open the Supplier List.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik nu op de nieuwe ~Aankoopafdeling~ en klik op de knop ~Verbind~ om de aanbiederslijst te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then select ~Steel~ from the supplier list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Kies daarna een aanbieder van ~Staal~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Verbind nu jouw allereerste ~Aankoopafdeling~ ook met jouw nieuwe ~Productieafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Deze ~Productieafdeling~ produceert nu ~Golfclubs~.^^Je ziet hoe een bestaande ~Aankoopafdeling Hout~ levert aan meerdere afdelingen, terwijl een andere ~Staal~ aankoopt om een ander goed te produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now let's have a closer look at the ~Manufacturing unit~ itself.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Laat ons kijken naar de ~Productieafdeling~ zelf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select your Golf Club Manufacturing unit by clicking on it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Klik op je Golfclub productieafdeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Je ziet hier de ~Kwaliteitswaarde~ van jouw Golfclubs en de factoren die deze waarde bepalen, waaronder ~Grondstoffenkwaliteit~ en jouw ~Productietechnologie~ voor dit goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remember the ~Manufacturer's Guide~ you looked at a moment ago?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Weet je nog de ~Productiegids~ van daarnet terug te vinden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From it, you will see that the overall quality of Golf Club was ~45% affected by the qualities of its raw materials~ and ~55% affected by the production technology~.^^That corresponds to the display of ~Production Quality~ and ~Raw Material Quality~ on this screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Daarin kan je zien dat de algemene kwaliteit van Golfclubs voor ~45% bepaald zijn door de grondstoffenkwaliteit~ en voor ~55% door de productietechnologie~.^^Dat komt overeen met de getoonde~Productiekwaliteit~ en ~Grondstoffenkwaliteit~ op dit scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&amp;D centers (research and development centers) to develop better technology. We will cover this in a later tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>De ~Grondstoffenkwaliteit~ kan je verhogen door je te bevoorraden vanuit een bron met hogere kwaliteits grondstoffen.^^De ~Productiekwaliteit~ kan je verhogen door R&amp;D-centra (voor onderzoek en ontwikkeling) op te starten, waarmee je nieuwe technologie onderzoekt, wat we in een latere tutorial bekijken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Nu jouw fabriek operationeel is, kunnen ondernemingen nu al jouw goederen aankopen voor de verkoop in hun winkels.^^Om jouw onderneming verder uit te bouwen is het aangewezen om handelszaken te bouwen om je eigen goederen te verkopen, daarnaast meer fabrieken op te starten om bijkomende goederen te produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Om de doelstellingen van dit spel te vervolledigen, moet je ~een jaaromzet van $30 miljoen~ en  ~jaarwinst van $3 miljoen~ behalen.^^Vergeet echter niet dat je nog steeds geld verschuldigd bent aan de bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233630Z">
+        <seg>Dat kan je geheel of gedeeltelijk terugbetalen via het ~Terugbetaal~ onderdeel van het ~Financiele menu~ in het ~Informatiecentrum~.^^Veel succes!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

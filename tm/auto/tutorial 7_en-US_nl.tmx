@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research and Development</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221422Z">
+        <seg>Onderzoeker en ontwikkelaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221422Z">
+        <seg>Description=Om competitief te blijven op een snelveranderende markt, moet je continu investeren in de kwaliteitverhoging van goederen.^^In deze tutorial start je een onderzoeks- en ontwikkelingscentrum (R&amp;D) en doet onderzoek naar het uitvinden van geavanceerde technologie voor jouw goederen.^^De mededinging zal hard zijn, maar jouw R&amp;D-investering zou vruchten moeten afwerpen en jou een competitieve voorsprong moeten geven op jouw mededingers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221422Z">
+        <seg>Goal Title=Tutorialdoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221422Z">
+        <seg>Goal Description=Om dit spel te winnen dien je een jaaromzet neer te zetten van $150 miljoen en een jaarwinst van $15 miljoen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

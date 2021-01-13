@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have graduated with an MBA from a renowned business school.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je behaalde een master in de bedrijfskunde aan een gerenommeerde ondernemingschool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Can you apply what you have learned into running a business in the real world?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Kan je in een onderneming in de dagelijkse praktijk toepassen wat je hebt geleerd?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue. Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Aan jou om dit te bewijzen!^^Klik op het flikkerende icoon "Volgende" om verder te gaan of druk op ~Enter~ telkens het flikkerende icoon verschijnt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have been assigned to run this department store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je kreeg de bevoegdheid toegewezen om dit warenhuis te beheren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now left click it to view its detail.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik er nu op met de linkermuisknop om een kijkje te nemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cick the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik nu op het icoon ~Goed toevoegen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Dit is het schem ~Kies een aanbieder~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It lists all the products currently available within the game.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Het geeft een lijst weer van alle goederen die momenteel beschikbaar zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je kan de drie filters bovenaan het scherm gebruiken om makkelijker te vinden wat je zoekt.^^Omdat je goederen van de lokale zeehaven wil kopen, klik je op het vakje ~Aanbieders~ filter zoals aangegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Double-click ~Seaport~ from the drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Dubbelklik ~Zeehaven~ in de lijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The window updates to show all products available from the local seaports.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Het scherm toont telkens alle beschikbare goederen via de lokale zeehavens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Op dit ogenblik hoef je jou geen zorgen te maken over de beschikbare informatie bij de goederen (vervoerskosten, waarderingen, merk, enz. Die informatie komt in een andere tutorial nog uitgebreid aan bod).^^Wat nu belangrijk is: we gaan ons eerste goed uit de lijst kiezen om de zaak in beweging te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~SELECT~ button now.^^</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik nu op de knop ~Selecteer~.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are now back in your department store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je bevindt jou opnieuw in het warenhuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Het warenhuis koopt automatisch verder de door jou gekozen goederen in en biedt ze te koop aan jouw klanten.^^Kijk links naast de goederenafbeelding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the vertical yellow and orange bars?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Zie je de verticale gele en oranje balken?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De ~gele AANBOD balk~ geeft het aantal goederen weer dat je in voorraad hebt, terwijl de ~oranje VRAAG balk~ de vraag van consumenten naar dit goed berekent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each retail store has four product slots. Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Elke handelszaak heeft ruimte voor vier goederen, verhoog nu de diversificatie aan goederen in jouw winkel door daarvan gebruik te maken.^^Herhaal wat je ned deed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik op het icoon ~Goed toevoegen~ en kies vervolgens ~Zeehaven~ uit de aanbiederslijst + kies het goed dat je aan jouw warenhuis wil toevoegen.^^Zorg wel dat je deze keer een goed kiest die je nog niet in jouw handelszaak aanbiedt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keep on adding more products to your store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Blijf verder goederen toevoegen aan jouw handelszaak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Naast het klikken op de ~Selecteer~ knop, kan je eenvoudigweg ~dubbelklikken~ op een goed uit de lijst om die te kiezen.^^Zodra je klaar bent om verder te gaan, mag je een ~RECHTERMUISKLIK ergens~ op het scherm uitvoeren om jouw handelszaak te verlaten en terug naar het stadsscherm te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Good.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Goed zo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We are now in the city view.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Nu bevinden we ons op het stadsscherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>We gaan dit eens van naderbij bezien.^^Zie je de menubalk onderaan het scherm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Daarin zie je de liquide middelen die jouw onderneming momenteel heeft èn de operationele winst van dit boekjaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De speeldatum van vandaag staat hier.^^Merk op dat het spel in realtime verloopt. De spelsnelheid kan jue wijzigen met de sneltoets ~'1' (traagst) tot '5' (snelst)~.^^Je kan het spel ook pauzeren met de sneltoets ~toets'0'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Er staan ook enkele iconen op de menubalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's click on the ~Mini Map~ icon now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik op nu op het icoon ~Minimap~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mini map shows the entire city.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De volledige stad staat op de mini map .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Bovenaan zie je het icoon ~Stadselectie~ (weergegeven door een neerwaartse pijl), waarmee je een lijst ziet met de beschikbare steden in dit spel.^^De ~pijl naar links en die naar rechts~ naast de stadsnaam, geven jou de mogelijkheid de vorige en volgende stad te bezoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De bewegende rechthoek op de minimap toont welk stadsdeel je momenteel op jouw scherm ziet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are several icons around the mini map for switching to different map modes.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Er zijn nog verschillende andere iconen rond de minimap of naar andere kaarmodi over te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Het eerste icoon, met het gele gebouw, is de ~Eigenaarsmodus~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel).</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Op de minimap zijn de witte gebouwen niet in het bezit van ondernemingen, zoals bepaalde huizen en parken.^^De gekleurde gebieden geven ondernemingseigendom weer in de kleuren van de onderneming die eigenaar is.^^~Zeehavens~ staan aangeduid met letter 'C' or 'I' - ~'C' voor Consumentengoederen~ (zoals televisie of jeans) en ~'I' voor industriele goederen~ (zoals steenkool en staal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik nu op het icoon met het dollarteken om naar de ~grondwaardemodus~ over te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mini map display changes to show Land Value data.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De minimap toont de grondprijzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>~Hoe donkerder het kleur, hoe hoger de grondprijs.~ Het bouwen in opgelichte gebieden kan veel geld kosten, maar tegelijk voorziet het jouw handelszaken mogelijkes van een rijkere clandizie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the ~Profit~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik nu op het icoon van de ~Winstmodus~ met de rode en groene balken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>In deze modus worden gebouwen weergegeven in ~groen als ze winstegevend zijn~ terwijl ~rood verlieslatende~ gebouwen weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The darker the color, the greater the profit or loss.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Hoe donkerder het kleur, des te groter de winst of het verlies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De witte gebouwen zijn in het bezit van de overheid en geven daarom geen info over winst- of verlies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>We gaan nog snel kijken naar de ~Gebouwenfilter~.^^Deze filteroptie heeft vijf selectieknoppen ~Gebouw~, ~Onderneming~, ~Elke stad~, ~Mijn gebouwen~ en ~Goederen~ (al dan niet afgekort).^^Wanneer je filter(s) inschakelt, zie je enkel de gebouwen op de minimap die voldoen aan de gekozen criteria in de modus ~Winst~ of ~Eigenaars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To browse the firms within the filter, use the up and down buttons.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Om ondernemingen binnen die filters te zien gebruik je de pijlen naar boven of beneden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik op de knop ~mijn gebouwen~ en de minimap toont enkel de gebouwen die rechtstreeks aan jouw onderneming toebehoren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Omdat jouw onderneming enkel één gebouw heeft (jouw warenhuis), zie je enkel één stip op de kaart met jouw ondernemingskleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Deze modus kan je annuleren door opnieuw op de knop  ~mijn gebouwen~ te klikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But for now keep it active.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Voorlopig mag je deze filter geactiveerd laten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Did you wonder which seaports are supplying products to your department store?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Vraag je jou af welke zeehavens jouw warenhuis bevoorraden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well now it is your chance to find that out.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Nu krijg je de kans om dit te ontdekken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Terwijl je scherm nog steeds enkel jouw warenhuis laat zien (als een gekleurd vierkantje) klik je op het icoon Ruimtelijke ordening en ~ondernemingsrelatiesmodus~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Nu wordt het scherm vernieuwd en worden de zeehavens van waaruit jouw warenhuis goederen ontvangt getoond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Terwijl we de verschillende filtermogelijkheden onderzochten, heeft jouw warenhuis omzet gedraaid.^^Kijk naar de cijfers ~geld en winst~ op de nieuwsbalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you have enough money to build a second department store yet?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Heb je al voldoende geld om een tweede warenhuis te bouwen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Een nieuw warenhuis bouwen kost $1,000,000 waarin de bouwgrond inbegrepen is, verder is er een operationele kost van $100,000 per maand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It seems within your budget, so let's proceed.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Het ziet ernaar uit dat dit binnen jouw budget ligt, dus kan je verdergaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik op het icoon ~Bouwmenu~ in de ~Werkbalk~ linksboven in het scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now choose ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Kies nu ~Handelszaak~ in het menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And choose ~Department Store~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>en kies ~Warenhuis~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your cursor now highlights a square on the city.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>De cursor doet een vierkant oplichten in de stad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Probeer een bouwgrond te vinden nabij residentiële gebouwen om van een hoog consumentenverkeer te kunnen genieten.^^Wanneer de plaats een ~gele~ schaduw heeft, dan heb je een vergunde bouwgrond gevonden om jouw nieuwe warenhuis te bouwen.^^Zodra je de bouwgrond hebt gekozen, klik je op de linkermuisknop om het warenhuis te bouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have just expanded your business!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je hebt zonet jouw onderneming uitgebreid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You now have to set up products in your new department store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Nu is het aan jou om goederen aan te bieden in jouw nieuwe warenhuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To so, simply repeat the steps that you just did for setting up your first department store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Daarvoor moet je eenvoudigweg de voorgaande stappen herhalen zoals net aangeleerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You win this game when your company's annual revenue reaches $20 million.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je wint dit spel zodra de jaarlijkse ondernemingsomzet $20 miljoen bereikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Om het ~doelenrapport~ te zien, klik je op het ~Informatiecentrum~ icoon in de menubalk onderaan het scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Goal~ option.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Klik op de optie ~Doel~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have completed this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Je hebt deze tutorial nu afgewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must apply what you have just learned into running your company.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Wat je zonet leerde kan je in de toekomst best toepassen in jouw draaiende onderneming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now go and add products to your new department store and grow your business!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T221811Z">
+        <seg>Ga nu verder met het toevoegen van goederen in jouw nieuwe warenhuis en laat je onderneming verder groeien!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

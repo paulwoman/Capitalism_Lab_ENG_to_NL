@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Food and Beverage</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Title=Voeding en dranken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Description=Je hebt een indrukwekkende loopbaan in de voedings- en drankenindustrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you are starting on your own and have raised tens of millions from investors.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Nu start je een eigen onderneming met de tientallen miljoenen van investeerders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^You have promised the investors to keep your new company's focus on the food and beverage industry as specialization is key to success at the early growth phase.^^Once you have achieved market dominance in the food and beverage industry, there will be bigger challenges for you to undertake!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>^^Omdat specialisatie de sleutel tot succes is in een beginnende groeifase, heb je de investeerders toegezegd te zullen focussen op voeding en dranken.^^Eens je marktdominantie hebt bereikt in die voedings- en drankenindustrie, zullen er grotere uitdagingen op jouw pad komen te liggen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Goal Title=Dominantie in voeding en dranken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Lead your corporation to achieve market dominance in the food and beverage and deliver outstanding financial returns to your investors.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Goal Description=Bestuur jouw onderneming om marktdominant te worden in voeding en dranken, terwijl je ook een uitstekend resultaat neerzet voor jouw investeerders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(You are limited to production of beverage, food and snacks until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>(Enkel de productie van voeding, dranken en snacks is beschikbaar totdat je dit doel hebt bereikt.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have achieved market dominance in the food and beverage industry and your corporation's market cap has increased substantially.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Je bereikte marktdominantie in de voedings- en drankenindustrie terwijl jouw ondernemingskapitaal opmerkelijk is gestegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your board of directors are extremely pleased with your performance and support your plan for entering new markets to drive further revenue growth.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Het directiecomité is enorm tevreden met jouw resultaten en ondersteunt jouw voorstel om nieuwe markten aan te boren om voor nog meer omzetgroei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Multinational Conglomerate</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Goal Title=Multinationaal consortium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Goal Description=Na jouw succes in de voedings- en drankenindustrie heb je een nieuw doel om verder te diversifiëren en uit te goreien tot een multinationaal consortium met een marktkapitaal van $1 miljard, alsook een jaaromzet van minstens $800 miljoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Parent Goal=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T120716Z">
+        <seg>Parent Goal=Dominantie in voeding en dranken</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

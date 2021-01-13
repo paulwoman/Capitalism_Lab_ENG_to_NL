@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Breakthrough in Training</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Title=Doorbraak in opleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=Years of research in training methodology by a consortium of leading business schools have finally produced astonishing results.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Description=Jaren van onderzoek naar opleidingsmethodes door een consortium van toonaangevende bedrijfsscholen werpen eindelijk vruchten af.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>^^De nieuwe opleidingsmethode maakt het mogelijk om de efficiëntie van bedrijfsopleidingen te doen stijgen met wel 100% waardoor ondernemingen wereldwijd snel deze methode overnemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>^^Jouw onderneming is ook op deze wagon gesprongen en wil dit als hefboom gebruiken om de productiviteit van jouw werknemers enorm te verhogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Aggressive Growth Plan</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Title=Aggressief groeiplan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Description=Met de doorbraak in opleiding, heb je nu een instrument om de operationele efficiëntie van jouw onderneming naar nieuwe hoogtes te stuwen en een echt opmerkelijk financieel resultaat voor te leggen aan de aandeelhouders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Operating Performance Target</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Title=Operatationeel performantiedoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Description=Verhoog de nieuwe opleidingsmethodiek om de operationele winstmarge van jouw onderneming te verbeteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have significantly improved your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Je hebt de opertationele winstmarge van jouw onderneming opmerkelijk verbeterd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Growing the Talent Base.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Title=Talentenbasis laten groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Description=Weest aggressiever in het aanwerven en zoeken naar nieuwe talenten door ze bij jouw onderneming tewerkt te stellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103318Z">
+        <seg>Jouw onderneming heeft een mijlpaal bereikt door meer dan 1000 mensen in dienst te hebben.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

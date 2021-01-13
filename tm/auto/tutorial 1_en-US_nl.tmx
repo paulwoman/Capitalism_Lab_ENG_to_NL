@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214011Z">
+        <seg>Aspirant zaakvoerder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214011Z">
+        <seg>Description=In deze tutorial krijg je een introductie in basisbeginselen van de spelomgeving.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214011Z">
+        <seg>Je leert een warenhuis bouwen, op zoek te gaan naar aanbieders en jouw goederen te verkopen aan consumenten zodat je inkomsten genereert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214011Z">
+        <seg>Goal Title=Tutorialdoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T214011Z">
+        <seg>Goal Description=Behaal een jaaromzet van $20 miljoen om deze tutorial te vervolledigen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

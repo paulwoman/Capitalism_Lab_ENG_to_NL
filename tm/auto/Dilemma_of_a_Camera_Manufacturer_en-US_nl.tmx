@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Dilemma of a Camera Manufacturer</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Title=Dilemma van een cameraproducent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Description=Met meer dan 20 jaren ervaring op jou rekening in de productie van wereldklasse fotografiemateriaal, heb je het vertrouwen gewonnen van een investeerdersgroep voor een startup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>^^Terwijl traditionele filmcameras nog steeds de markt domineren, introduceert de digitale fotografietechnologie zich op de markt.^^Je ziet daarin een grote kans, maar dit vereist een lange termijn investering in onderzoek en ontwikkeling aleer je commerciele goederen kan produceren.^^Zou je jouw middelen aan het begin van het spel inzetten in traditionele filmcameras om later een, hopelijk, vlotte overgang te maken naar digitale cameras?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Market Leader</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Goal Title=Marktleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Goal Description=Maak van jouw onderneming een producent van hoge kwaliteitscameragoederen en tracht de andere mededingers uit de markt te spelen door marktleider te worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(You are limited to production of photography products only until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>(Pas na het behalen van dit doel kan je ook andere goederen produceren dan fotografiegoederen produceren.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your company has become the number one manufacturer of cameras.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Jouw onderneming is nu de grootste producent van cameras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you may move on to even bigger goals.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Nu kan je nog grote doelen proberen behalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Consumer Electronics Giant</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Goal Title=Consumentenelectonicagigant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104645Z">
+        <seg>Goal Description=Met jouw succes op de fotogriegoederenmarkt heb je voldoende kapitaal en middelen om jouw onderneming te diversifiëren naar de consumentenelectronicamarkt en de onderneming naar een nieuw hoogtepunt te brengen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that you know how to find suppliers, manufacture and sell products, it's time to look at ~advertising~ your products.^^Your corporation will be competing against other corporations selling the same product types.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Nu je aanbieders weet te vinden en goederen kan produceren en verkopen, is het tijd om het ~adverteren~ van goederen onder de knie te krijgen.^^Jouw onderneming zal het opnemen tegen andere ondernemingen die dezelfde goederengroep produceert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Daardoor zal een goede adverteercampagne nodig zijn om jouw onderneming succesvol te laten zijn.^^De basisconcepten van merk en adverteren overlopen we nu samen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Als een consument een goed koopt is de ~prijs~, ~kwaliteit~ en het ~merk~ doorslaggevend.^^De ~kwaliteit~ is afhankelijk van de kwaliteit van gebruikte grondstoffen en productietechnolgie, wat we in de vorige tutorial al leerden.^^De (lage) ~prijs~ is zeer vanzelfsprekend zeer bepalend op een competitieve markt.^^Een ~merk~ is een onderscheidende naam bedoeld als identificatie en om zich af te zetten tegenover andere mededingers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To gain a better understanding about how brands work, let's open the ~Product Detail Report~.^^Click the ~Information Center~ icon now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Om beter te begrijpen hoe het werken met merken werkt, open je het ~Goederendetailrapport~.^^Klik op het icoon ~Informatiecentrum~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click ~Product Detail Report~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Klik op ~Goederendetailrapport~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Jeans~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Klik nu op de knop ~Goed zoeken~ en kies ~Jeans~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Hier zie je waarderingen voor ~Prijs~, ~Kwaliteit~, ~Merk~ en een ~Algemene waardering~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>We splisen deze op in twee kolommen.^^De ~Lokale~ kolom toont de waarderingen voor plaatselijke mededingers. (Dit zijn kleine ondernemingen die je niet in de ondernemingenlijst terugvindt.)^^De kolom ~Gemiddelde~ combineert de waarderingen van de plaatselijke kmo's en ondernemingen in de ondernemingenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next to them you will see the ~Concern~ column.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Daarnaast zie je een kolom ~Bezorgdheden~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The figures in this column indicate the factors that a consumer will consider when selecting a product to buy.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>De afbeeldingen in deze kolom geven de factoren weer die een consument doen overgaan tot een aankoopbeslissing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Voor ~Jeans~ zijn dat: ~Prijs~ 27%, ~Kwaliteit~ 29% en ~Merk~ 44%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that the ~brand~ is a significantly more important factor for jeans.^^So if you plan to start a business selling jeans, it is critical that you spend aggressively on advertising your jeans, so long as your budget permits.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Dit betekent dat het ~merk~ een opvallend grotere invloed heeft als aankoopfactor bij jeans.^^Als je dus van plan bent jeans te verkopen, is het van groot belang agressieve adverteercampagnes te organiseren voor jeans en dit voor zover het budget dit toelaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Anderzijds zal het voor goederen zoals ~diepvriesvlees~ van minder belang zijn of er een ~merknaam~ is, de ~kwaliteit~ en ~prijs~ zijn dan belangrijker.^^Voor zo'n goederen kan je het adverteren beter beperken en je toespitsen op het verbeteren van de operationele processen zodat je goederen met een hogere kwaliteit aan een lagere prijs kan aanbieden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Het is correct dat elk soort goed een andere marketingstrategie vereist.^^Als algemene regel geldt dat hoe hoger het ~merkbewustzijn~ van een goed dat je verkoopt, des te agressiever je dient te adverteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Camera~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Nu klik je op de knop ~Goed zoeken~ en kies ~Camera~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another important piece of information you can see here is the ~Necessity Index~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Andere interessante info die je hier ziet is de ~Noodzakelijkheidsindex~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For ~cameras~, it's 20%, which means that it is not an everyday necessity item.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Voor ~cameras~ is dit 20%, wat betekendt dat het niet noodzakelijk is voor de consument om dit dagelijks aan te kopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Als de economie in een neerwaartse spiraal zit, zullen consumenten goederen met zo'n index vaker laten liggen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now let's check out the ~Necessity Index~ for ~Bath Lotion~.^^Click the ~Search Product~ button again and this time select ~Bath Lotion~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Bekijk nu de ~Noodzakelijkheidsindex~ van ~Badschuim~.^^Klik opnieuw op de knop ~Goed zoeken~ en kies deze keer ~Badschuim~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Necessity Index~ of ~Bath Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy bath lotions.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>De ~Noodzakelijkheidsindex~ van ~Badschuim~ is 80% en geeft prijd dat dit een dagelijks noodzakelijk goed is.^^Zelfs al zit de economie in een recessie, consumenten blijven dit goed aankopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Otherwise they'd all be smelly wouldn't they?)</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>(Bij gebrek waaraan er een geurtje zou zitten?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Fantastisch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have just learned concepts about brands.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Je leerde de concepten van het werken met merken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Tijd om ze in de praktijk te testen!^^ Bouw een fabriek en produceer ~modegoederen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Modegoederen zijn ~Blazer~, ~Jeans~, ~Lederen jas~ en ~Trui~ die elk uit andere grondstoffen bestaan.^^Alvorens je kan beslissen welke kledij je zal produceren, moet je nazien welk ~aanbod grondstoffen~ beschikbaar is vanuit de ~havens~ en moet je de ~Productiegids~ bestuderen om te zien wat je exact nodig hebt.^^Ga nu terug naar het stadsscherm door ergens met de rechtermuisknop te klikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Deze tutorial gaat verder zodra jouw fabriek kledij produceert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Wanneer je ten einde raad bent of de tutorial wil herstarten, kan je steeds op ~de ESC-toets klikken om de tutorial te herstarten~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Deze tutorial gaat verder zodra jouw fabriek kledij produceert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Wanneer je ten einde raad bent of de tutorial wil herstarten, kan je steeds op ~de ESC-toets klikken om de tutorial te herstarten~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the previous tutorial, you have learned how to set up production facilities in a factory manually.^^This time, let's click the [+] icon to use the Manfacturer's Tool to set up the factory facilities for you automatically.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>In de vorige tutorial, you leerde je manueel productieafdelingen op te starten.^^Klik nu op het icoon [+] om de productiehulp automatisch jouw productieafdelingen te laten opstarten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select an Apparel product from the list and click the [SET UP FACTORY] button.^^This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Kies een Modegoed uit de lijst en klik op de knop [FABRIEK OPSTARTEN].^^Deze tutorial gaat verder zodra jouw fabriek modegoederen produceert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Deze tutorial gaat verder zodra jouw fabriek modegoederen produceert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Good work with your factory!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Uitstekende prestatie vanuit jouw fabriek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now we will start dealing with branding and advertising.^^There are three different brand strategies available.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Nu komt ook een merk en adverteren op de proppen.^^Er zijn drie verschillende merkstratiegies beschikbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before starting to advertise, you should first decide which brand strategy you want to use.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Alvorens het adverteren te starten, moet je beslissen welke merkstrategie je zal gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Om het scherm ~Merkstrategie~ te openen, ga je eerst naar ~Ondernemingsoverzicht~ met de sneltoets ~'D'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Brand~ from the menu list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Kies ~Merk~ in de menulijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Wens je dat al jouw goederen onder hetzelfde merk worden verkocht, dan kies je de ~Ondernemingsmerkstrategie~.^^Het ~voordeel~ van deze aanpak is dat nieuwe goederen bij de lancering onmiddellijk het voordeel hebben van de bestaande ondernemingshandelsnaam.^^ ~Nadelig~ is dat merktrouw een deuk krijgt telkens je de kwaliteitsverwachtingen, die de consument van jouw onderneming heeft, niet inlost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Een tweede strategie ~Merkenreeks~ is gelijkt op de ondernemingsmerkstratgie, maar haar bereik is berperkt tot goederengroepen.^^Bijvoorbeeld ~lederen tas~ en ~lederen aktentas~ behoort tot de goederengroep ~lederwaren~.^^Wanneer je beslist om ~lederen aktentas~ en ~badschuim~ te verkopen, terwijl je al ~lederen tas~ verkoopt, zal de merkwaardering van ~lederen aktentas~ onmiddellijk overeenstemmen met die van ~lederen tas~ (~dezelfde goederengroep~), terwijl  ~badschuim~ dat voordeel niet zal hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>De standaardstrategie is ~Uniek merk~ waardoor elk goed een eigen merk krijgt.^^De promotie van elk individueel goed zal meer kosten maar dit kan wel degelijk opbrengen omdat je nooit hoeft in te zitten met schade aan reeds bestaande merken bij het uitbrengen van nieuwe lage kwaliteitsgoederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the purpose of this tutorial you will adopt the ~range brand strategy~.^^Click ~Range Brand~ to set your company's brand strategy to the Range Brand strategy.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>In deze tutorial zal je de ~merkenreeksstrategie~ toepassen.^^Klik op ~Merkenreeks~ om de merkstrategie van jouw onderneming volledig op die strategie in te stellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Het is belangrijk om jouw merkstrategie te bepalen aan het begin van het spel omdat het wijzigen van die strategie alle bestaande merkwaarderingen terug op nul zet waardoor daaraan dan een hoge kost verbonden is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Laat ons nu de merkenreeksstrategie in de praktijk toepassen op jouw marktgoederen.^^~Bouw een warenhuis~ en ~laat het goederen van jouw fabriek aankopen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This tutorial will continue when you have done so.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Deze tutorial gaat verder zodra je dit hebt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy the apparel products from your factory~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Laat ons nu de merkenreeksstrategie in de praktijk toepassen op jouw marktgoederen.^^~Bouw een warenhuis~ en ~laat het goederen van jouw fabriek aankopen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This tutorial will continue when you have done so.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Deze tutorial gaat verder zodra je dit hebt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Voeg nu een nieuwe afdeling toe aan jouw warenhuis: de ~Adverteerafdeling~ en vervindt deze met jouw verkoopsafdeling.^^Het is meestal een goed idee om de ~adverteerafdeling~ in het midden van jouw ontwerpplan te plaatsen, zodat je die afdeling kan verbinden met al jouw verkoopsafdelingen in het warenhuis.^^~Dubbelklik op de middelste ruimte~ en kies ~Adverteerafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Link Media~ button to link your ~advertising unit~ to a media.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Klik op de knop ~Media vervinden~ om de media te kiezen waarin jou ~adverteerafdeling~ reclame maakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All available media firms in the current city are displayed.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Alle beschikbare mediagebouwen in de huidige stad zijn zichtbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Voor het kiezen van media neem je best de  ~waarderingspunten~ en ~adverteerkost~ van elk medium in overweging.^^Hoe hoger de ~waarderingspunten~, des te groter de ~kijk- en luistercijfers~.^^De ~adverteerkost~ van jouw reclame is berekend voor het bereiken van ~duizend~ potentiele consumenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Find a media firm with a high rating points score to maximize your advertising coverage.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Zoek een mediagebouw met hoge waarderingspuntenscore om jouw adverteerbereik te maximaliseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Be mindful not to choose a firm that charges too much though.^^When you have decided which media firm to advertise on, ~double-click it~ to select it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Kies bewust niet voor gebouwen die te veel kosten aanrekenen.^^Zodra je een mediagebouw hebt uitgekozen, selecteer je dat gebouw met een ~dubbelklik~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now link your ~Advertising~ unit and your ~Sale~ unit by ~clicking the linkage line~ between them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Verbind nu jouw ~Adverteer-~ en ~Verkoopsafdeling~ door ~te klikken op de verbindingslijn~ tussen hen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Het afdelingsdetailonderdeel toont nu de afbeelding van het mediagebouw waarmee dit warenhuis adverteert.^^Het ~Maandbedrag per goed~ dat je spendeert aan adverteren kan je aanpassen met de schuifknop en laat je voorlopig op $100,000 staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click your ~Sales~ unit now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Klik nu op jouw ~Verkoopsafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can see your product's ~brand rating~ on the ~Sales unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>De ~merkwaardering~ van je goed kan je zien in de ~Verkoopsafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Currently it is zero but with the advertising, it should be increasing soon.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Momenteel staat die nog op nu, wat snel zal veranderen door het adverteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=324,312,386,338</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Pointer=196,329,298,342</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Om het effect van ~merkenreeksstrategie~ te verhogen, kan je een ander goed uit die goederensoort toevoegen die je al verkoopt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Build another factory to produce a different ~apparel~ product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Bouw een andere fabriek om een ander ~modeartikel~ te produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).^^This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>(Tip: Wanneer je al jeans produceert, kies dan lederen jas).^^Deze tutorial gaat verder zodra je succesvol een nieuw ~modeartikel~ produceert en vervolgens verkoopt in jouw warenhuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Build another factory to produce a different ~apparel~ product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Bouw een andere fabriek om een ander ~modeartikel~ te produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket). This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>(Tip: Wanneer je al jeans produceert, kies dan lederen jas).^^Deze tutorial gaat verder zodra je succesvol een nieuw ~modeartikel~ produceert en vervolgens verkoopt in jouw warenhuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Goed zo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This time you do not need to link the new product to the advertising unit as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Deze keer dien je geen verbinding tussen het nieuwe goed en de adverteerafdeling te plaatsen omdat dit al gedekt is door jouw ~modegoederensoort~ merk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Nu het adverteren resultaat oplevert, blijven de ~merkwaarderingen ~ van jouw goederen stijgen. Daardoor zullen ook de ~algemene waarderingen~ van jouw goederen stijden, wat voor hogere verkoopsresultaten zorgt.^^Terwijl dit alles zich manifesteert, open alvast het ~Ondernemingsdetailrapport~ met de sneltoets ~'D'~ om handige marktinfo te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select the ~Dominance~ option to see how your corporation is faring against the competition.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Kies de optie ~Dominantie~ om de positie van jouw onderneming tegenover jouw mededingers te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Het rapport toont de ~marktdominantie per industrie~ alsook ~per goederengroep~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Je kan het marktaandeel van al jouw goederen zien die momenteel worden aangeboden.^^De ~ranglijstkolommen~ geven de de verkopen aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it reads "1st", it means your corporation has achieved market dominance for the respective product class.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>"1ste" betekent dat jouw onderneming marktdomninant is voor de betreffende goederengroep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select the ~Brand~ menu option to view the current brand ratings of your products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Kies de optie ~merk~ om de huidige merkwaarderingen van jouw goederen te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Hier zie je dat adverteren gestaag de merkwaardering van jouw goederen doet stijgen.^^Merk op dat ~merkwaardering~ gelijk is aan de som van ~Merkbewustzijn~ + ~Merktrouw~!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>~Merkbewustzijn~ is eenvoudigweg het gekend zijn van jouw merk bij de consument.^^Naast reclame doet ook de tijd het merkbewustzijn stijgen, wanneer het aangeboden goed ruim gedistribueerd is en continue op de markt aangeboden blijft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>~Merktrouw~ is de graad waarin consumenten aan jouw merk gehecht zijn.^^Wanneer de goederenkwaliteit fluctueert, zal de merktrouw daaronder lijden omdat consumenten gemakkelijk vertrouwen kwijtraken bij onbetrouwbare kwaliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have learned fast and had a great start with building brands for your products.^^To take it to the next level, you should expand your retail presence to other cities and make your brands global ones!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Je bent een vlugge leerling en maakt een grote vooruitgang met het opbouwen van merken voor jouw goederen.^^Behaal een volgend expertiseniveau door jouw aanwezigheid naar andere steden uit te breiden en jouw merken wereldwijd te verspreiden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Een strategisch advies: focus op goederen die je al produceert, bouw nieuwe handelszaken en bereik een marktmonopolie!^^Zodra je klaar bent om de onderneming uit te breiden naar andere steden, vergeet dan niet de ~Minikaart~ die je gemakkelijk naar andere steden brengt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Je vervolledigt deze tutorial zodra je ~marktdominantie bereikt in de modesector~ terwijl je ~een jaarwinst~ behaalt van minstens ~$2 miljoen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233718Z">
+        <seg>Veel geluk!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

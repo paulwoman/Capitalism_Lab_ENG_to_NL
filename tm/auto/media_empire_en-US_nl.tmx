@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Media Empire</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T102335Z">
+        <seg>Title=Media emperium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You always dream of building a media empire and now it is your chance to realize this dream.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T102335Z">
+        <seg>Description=Je hebt altijd gedroomd van een eigen mediagroep en nu krijg je de kans om dit waar te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^Your goal is to grow your media corporation's revenue to a substantial size and ultimately outperform all other media companies to become the largest one in the world.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T102335Z">
+        <seg>^^Je hebt als doel om de omzet van jouw media-onderneming tot een substantiële grootte te doen stijgen en uiteindelijk alle andere mededingers in de sector uit de markt te spelen, zodat je de grootste en enige ter wereld wordt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Media Empire</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T102335Z">
+        <seg>Goal Title=Media emperium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T102335Z">
+        <seg>Goal Description=Jouw doel is om jouw onderneming te laten groeien tot het groote mediaYour goal is to grow company to become the largest mediaconcern ter wereld.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

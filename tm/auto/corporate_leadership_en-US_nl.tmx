@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Corporate Leadership</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Title=Bestuurder van een onderneming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You have just assumed the role of CEO of a well funded startup.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Description=Je hebt zonet de functie van CEO aangenomen in een gezonde startup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must build a solid management team by bringing great managers on board.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Een sterk directieteam bouw je door goede managers aan te werven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^This scenario uses a special rule where costs of hiring management staff are only 20% of the normal rates.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>^^Dit scenario hanteert een speciale regel waarbij de aanwerving van directieleden 20% lager ligt dan normaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^You must demonstrate your leadership by aggressively expanding your business or your executive staff may lose confidence in the company and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>^^Je dient jouw leiderschap te tonen door jouw onderneming agressief uit te breiden, anders verliezen jouw directieleden het vertrouwen in de onderneming en zoeken ze betere oorden op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Ultimate Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Title=Einddoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Your ultimate goal in this game is to achieve a corporate revenue of $1 billion and an annual profit of $100 million, and let the financial performance of your company boost the company stock price to over $500.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Description=Jouw einddoel in dit spel is om een ondernemingsomzet van $1 miljard te behalen met een jaarlijkse winst van $100 miljoen, waarbij de financiële performantie van jouw onderneming de aandeelprijs boven $500 stuwt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Growth Expectation 1</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Title=Groeiverwachting 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=There are tremendous expectations from the shareholders and your staff for the company to grow rapidly under your leadership.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Description=Er zijn enorm hoge verwachtingen van de aandeelhouders en jouw directiecomité om de onderneming snel te zien groeien onder jouw leiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prove your ability and do not disappoint them!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Bewijs jouw expertise en stel hen niet teleur!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Achieved Text=Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under your leadership, the company continues to grow.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Onder jouw leiding blijft de onderneming groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>De algemene vergadering heeft vertrouwen in de vooruitzichten van de onderneming voor de toekomst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Failed Text=Het directiecomité is zeer teleurgesteld over de middelmatige resultaten van de onderneming en nam ontslag om elders betere loopbaankansen te zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Growth Expectation 2</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Title=Groeiverwachting 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=You must continue to prove to the shareholders and your staff that you are the right person to lead the company for further growth.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Description=Je dient de aandeelhouders en directie te blijven bewijzen dat je de juiste persoon bent om de onderneming te leiden naar verdere groei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Achieved Text=Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under your leadership, the company continues to grow.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Onder jouw leiding blijft de onderneming groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>De algemene vergadering heeft voor de toekomst vertrouwen in de groeivooruitzichten van de onderneming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Failed Text=Het directiecomité is zeer teleurgesteld door de middelmatige resultaten van de onderneming en diende ontslag in om ergens anders betere loopbaankansen te zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Growth Expectation 3</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Title=Groeiverwachting 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Keep on impressing the shareholders and your staff by delivering the performance results they expect.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Description=Blijf de aandeelhouders en het directiecomité imponeren door de resultaten neer te zetten die ze verwachten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Achieved Text=Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under your leadership, the company continues to grow.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Onder jouw leiding blijft de onderneming groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>De algemene vergadering heeft voor de toekomst vertrouwen in de groeivooruitzichten van de onderneming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T104230Z">
+        <seg>Goal Failed Text=Het directiecomité is zeer teleurgesteld door de middelmatige resultaten van de onderneming en diende ontslag in om ergens anders betere loopbaankansen te zoeken.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

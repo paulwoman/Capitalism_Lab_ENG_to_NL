@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=Family Farm Business</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Title=Familielandbouwonderneming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You came from a family farm business with strong expertise in farming.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Description=Je stamt af van een landbouwersfamilie met een sterke kennis van landbouw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See prospect in setting up retail outlets to sell the family farm's products daily, your father has delegated you to set up a new farming and retail operation overseas.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Je bent aangesteld om overzees een nieuw landbouwbedrijf op te zetten die dagelijks de verse landbouwproducten in de handel aanbiedt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^Following your father's guidance, you should initially focus on farming and retail.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>^^Volg die krijtlijnen terwijl je in het begin vooral de nadruk legt op landbouw en verkoop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^Once you have accomplished the goal of establishing a solid farming and retail business for your family, you will be given the freedom to expand into whichever markets and industries you see promising.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>^^Eens je een gevestigde landbouw- en handelsonderneming hebt opgezet voor je familie, krijg je de vrijheid om andere markten en industieën aan te boren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Goal Title=Dominantie in landbouw en handel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Goal Description=Zorg dat jouw onderneming groeit tot marktleider in landbouw en handel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are your family's best hope for achieving this goal and you promise yourself not to disappoint them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Jouw familie vertrouwt op jou om dit doel te behalen, dus stel ze niet teleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your corporation have achieved dominance in retail and farming.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Jouw onderneming is dominant in handel en landbouw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You now aim at taking your business to the next level and expand into new markets.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Je richt je nu op nieuwe horizonten en breidt uit naar nieuwe markten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Surpassing Family Expectation</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Goal Title=Familieverwachtingen overtreffen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Surpass your family's expectation by not only building a thriving farming and retail business, but growing it into a multinational corporation with a diversified product portfolio.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T105047Z">
+        <seg>Goal Description=Overtref de familieverwachtingen door naast een goeddraaiend landbouw- en handelsbedrijf uit te groeien tot een multinationale onderneming met een gediversifieerd goederenaanbod.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

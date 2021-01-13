@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T215257Z">
+        <seg>Producent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T215257Z">
+        <seg>Description=Nu jouw groothandel floreert, bestaat jouw volgende doel uit de productie van eigen goederen en deze te verkopen onder jouw eigen merk.^^Deze tutorial gidst jou door het proces om fabrieken op te starten, grondstoffen te verwerven en consumentengoederen te vervaardigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T215257Z">
+        <seg>Goal Title=Tutorialdoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $30 million and an annual profit of $3 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200519T215257Z">
+        <seg>Goal Description=Behaal een jaaromzet van $30 miljoen en een jaarwinst van $3 miljoen om deze tutorial te vervolledigen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this tutorial, you will learn about setting up various useful departments in ~your headquarters~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>In deze tutorial leeer je verschillende handige afdelingen in ~jouw maatschappelijke zetel~ opstarten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each department has a unique function and enable you to run your corporation with greater efficiency.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Elke afdeling heeft een unieke functie waardoor je de onderneming efficienter kan maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Gebruik de sneltoets ~B~ om het bouwmenu te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Headquarters~ from the building menu and find a location to build it.^^If your corporation is flush in cash, you may choose a prime location in the downtown for building your headquarters.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Kies ~maatschappelijke zetel~ uit het bouwmenu en zoek een bouwgrond ervoor.^^Wanneer jouw onderneming niet om geld verlegen zit, kan je een toplocatie in het centrum kiezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Otherwise, you may simply choose a less expensive location and save the money for future business expansions.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Uiteraard kan je ook een minder dure bouwgrond uitkiezen en het uitgespaarde geld investeren in toekomstige ondernemingsuitbreidingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inside your headquarters (HQ), you will see the usual 3x3 layout grid.^^There are functional units specifically for HQ.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Op jouw zetel is ook het gebruikelijke 3x3-ontwerp terug te vinden.^^Er zijn bijzondere afdelingen die enkel op een maatschappelijke zetel beschikbaar zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>In tegenstelling tot andere gebouwen, dien je de afdelingen onderling niet met schakels te verbinden. Hier werkt elke afdeling onafhankelijk van de andere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's set up a ~Human Resources Department~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Start een ~Human Resources afdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Double click the indicated empty slot and select ~Human Resources Department~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Dubbelklik op de aangeduide lege ruimte en kies ~Personeelsdienst~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Human Resources Department allows you to organize a ~corporate-wide intensive training program~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Met de personeelsdienst kan je ~voor de volledige onderneming een doorgedreven opleidingsprogramma~ organiseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such a training program helps to ~improve the efficiency and productivity~ of your employees, thereby making your company more competitive as a whole.^^It is particularly useful when your corporation has grown to a large size with hundreds or even thousands of employees - it allows you to organize a corporate-wide training with a single interface without having to micromanage individual firms.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Dit helpt om ~de efficientie en productiviteit te verhogen~ van jouw werknemers, wat jouw onderneming als geheel competitiever maakt.^^Het is een bijzonder handige hulp wanneer jouw onderneming dermate is uitgegroeid dat je honderden of duizenden werknemers hebt over heel wat gebouwen en je dus niet per gebouw verplicht bent op microniveau de opleidingen te organiseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may also set up offices for your senior management executives.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Ook kantoren voor directieleden kan je hier voorzien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may hire a ~Chief Marketing Officer (CMO)~ to run advertising campaigns for your products, and a ~Chief Technical Officer (CTO)~ to oversee you research and development projects.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Je kan een ~Chief Marketing Officer (CMO)~ voorzien die adverteercampagnes leidt voor jouw goederen en een ~Chief Technical Officer (CTO)~ om je R&amp;D-projecten op te volgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may also hire a ~Chief Operating Officer (COO)~ and place him or her in charge of any of your firms.^^You could, for example, hire someone with ~expertise in manufacturing~ as your COO for managing all of your factories.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Je kan ook een ~Chief Operating Officer (COO)~ aanwerven die jou vervangt en die jouw onderneming in jouw plaats bestuurt.^^Daarvoor kan je bijvoorbeeld iemand aanwerven met ~productie-expertise~ als COO voor het beheer van al jouw fabrieken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All the ~manufacturing units~ in your factories will get an instant boost in productivity thanks to the COO's expertise.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Onmiddellijk ontvangen jouw ~productie-afdelingen~ in jouw fabrieken een productiviteitsboost dankzij de expertise van de COO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally you may set up an office for the ~Chief Executive Officer~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Tot slot kan je een kantoor opstarten voor de ~Chief Executive Officer~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As you are the CEO, that would be your office.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Dit kan dus jouw eigen kantoor zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now exit your Headquarters and return to the city view.^^~Right click anywhere~ on the screen to do so.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Verlaat de maatschappelijke zetel en ga terug naar het stadsscherm.^^Daarvoer dien je een ~rechtermuisklik ergens~ op het scherm uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With all the skills and experiences you have acquired, you are well equipped to realize your ambition of building a business empire that the world would admire.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Met alle ervaring en vaardigheden die je verwierf, ben je voldoende uitgerust om een bedrijfsemperium te realiseren die wereldwijde bewondering opleveren zal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can take vertical integration to a new level by setting up your ~own mining operations~ to supply ~your factories~ with the ~raw materials~ they need.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Verdere verticale integratie kan je op een hoger niveau tillen door het opstarten van ~eigen delvingsoperaties~ om ~jouw fabrieken~ te bevoorraden met ~grondstoffen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a handy tool at the mini map that enables you to find natural resource sites easily.^^Click the ~Resource Mode~ icon and all natural resources sites currently available will be shown on the mini map.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Een handig hulpmiddel op de minikaart helpt jou om grondstofrijke gronden gemakkelijk terug te vinden.^^Klik op het icoon van de ~Grondstoffenmodus~ en alle grondstofrijke gronden die momenteel beschikbaar zijn worden aangeduid op de minikaart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The letters on the mini-map indicate the types of natural resources available.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>De letters op de minikaart geven de beschikbare grondstoffen weer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, ~A~ means Aluminum.^^You can always click on the mini-map to bring the city view's focus to a resource site, where you will be able to see details of the resource site by hovering your mouse over it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Bijvoorbeeld ~A~ staat voor Aluminium.^^Je kan altijd klikken op de minikaart om het stadszicht te centreren op een bepaalde grondstoffenrijke site. Daardoor kan je door het zweven van je muis over een grondstoflocatie meer info verkrijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Eens je een grondstofrijk gebied hebt gevonden, kan je ~Mijn~ selecteren uit het bouwmenu om de grondstoffen te beginnen delven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Asides from mines, you may also build ~Oil Wells~ for extracting ~Crude Oil~ (represented by letter ~O~ on the mini-map), and ~Logging Camps~ for processing ~Timber~ (represented by letter ~T~ on the mini-map).</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Naast mijnen zijn er ook ~Oliebronnen~ om ~ruwe olie~ op te pompen (de letter ~O~ op de minikaart) en ~Houthakbedrijven~ om ~Hout~ te kappen (weergegeven als ~T~ op de minikaart).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As you have seen throughout the tutorial series, there are so many possible ways to expand your business.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Zoals je tijdens de tutorialserie opgemerkt hebt, zijn er verschillende manieren om jouw onderneming uit te breiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Becoming a producer of natural resources on your own to strengthen your supply chain is just one of them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Zelfvoorzienend producent worden die de eigen keten bevoorraadt met grondstoffen is daar slechts een voorbeeld van.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now the tutorial series has come to an end.^^You have done a magnificent job broadening your business knowledge and sharpening your business skills while going through the tutorials!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Dit was de laatste tutorial.^^Je hebt een magnifiek parcours afgelegd waarbij je jouw ondernemingskennis aanscherpte terwijl je ondernemersvaardigheden verwierf gedurende de tutorials!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your final goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.^^This is a lofty goal, for sure. If you manage to pull it off, it will prove to the world that you have emerged as a formidable force in the business world!^^Good luck!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233359Z">
+        <seg>Je laatste opdracht is nu om de onderneming te laten groeiten tot een grootte vennootschap met ~1000 of meer werknemers~ die ~een jaarlijkse omzet neerzet van $1 miljard~ met ~een jaarwinst van $100 miljoen~.^^Een verheven doel dat eens bereikt, de wereld zal tonen dat je bent uitgegroeid tot een leider in de ondernemerswereld wereldwijd!^^Veel succes!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this tutorial, you will be introduced to the stock market and learn how to leverage it to meet the financial needs of your corporation.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>In deze tutorial, zet je jouw eerste stappen op de beurs en leer je hoe dit de financiele noden van jouw onderneming kan lenigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well now, let's look at the current state of the stock market. Open the ~Information Center~ now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Welnu, laat ons de beurs bekijken door het ~Informatiecentrum~ te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click ~Stock Exchange~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Klik op ~Beurs~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The top area shows the public companies currently listed in the stock exchange.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Bovenaan zie je de beursgenoteerde ondernemingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your corporation is the first one on the list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Jouw onderneming staats als eerste in de lijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The area below shows the shareholders of the selected public company.^^You hold 50% shares of your company and the rest of the shares are held by public shareholders, AI persons and AI companies.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Het onderste luik toont de aandeelhouders van de geselecteerde onderneming. ^^Je bezit 50% van de aandelen van jouw onderneming terwijl de rest in het bezit is van publieke, private, natuurlijke en rechtspersonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To expand your business, you would need to raise some cash.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Om jouw onderneming uit te breiden wil je een beroep doen op het publieke spaarwezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In previous tutorials you've already seen how to raise cash by taking out a loan.^^This time you'll use the expectations of investors to raise the much needed money.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>In vorige tutorials leerde je kapitaalverhogingen uit te voeren met leningen.^^Nu verzamel je middelen door gebruik te maken van investeerdersverwachtingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You should now offer to issue new shares to the public. To do this, select ~Financial Actions~ from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Door uitgifte nieuwe aandelen kan je kapitaal verhogen, selecteer hiervoor ~Financieel~ in het menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now select ~Issue New Shares to the Public~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Kies nu ~Uitgifte nieuwe aandelen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firstly, take a look at the ~Issuing Price~, which should always be lower than the ~Current Stock Price~, in order to attract new investors to buy your company's shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Bekijk eerst de ~Uitgifteprijs~ die altijd lager dient te zijn dan de ~huidige koers Price~ wanneer je veel investeerders wil aantrekken om jouw ondernemingsaandelen te kopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now set the ~Number of New Shares~ you want to issue, and click the ~Issue Now~ button to issue new shares to raise money.^^As a rule, the larger the quantity of new shares you wish to issue, the higher the discount in share prices you must offer, in order to attract enough investors to subscribe the new shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Kies nu het ~Aantal nieuwe aandelen~ die je wil uitgeven en klik op de knop ~Nu uitgeven~.^^Als regel geldt dat hoe meer aandelen je wil uitgeven, des te groter men beneden pari de aandelen dient uit te geven om aantrekkelijk te zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Fantastisch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Je haalde succesvol geld op om je onderneming te doen groeien.^^Desalniettemin heb je er een prijs voor betaald: de emissie van nieuwe aandelen deed jouw eigenaarschap van de onderneming deels verwateren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now return to the stock market to view your latest stock holdings.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Keer nu terug naar het beursscherm en kijk naar jouw aandelenportefeuille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Gebruik deze keer de sneltoets ~F4~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the ~Ownership Details~ section, it shows that you now only own less than 50% of your corporation and the remainder is owned by ~Public Shareholders~, AI persons and AI corporations.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>In het onderdeel ~Eigenaars~, kan je zien dat je nu minder dan 50% van jouw onderneming bezit en de overige aandelen in bezit zijn van andere investeerders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^The floating shares may be purchased at stock price by any corporations or individual investors.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>^^Beschikbare aandelen kunnen aan beurskoers aangekocht worden door iedereen met interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Look at the ~Who section~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Kijk naar het luik ~Wie~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Via this interface, you may buy stocks on behalf of your corporation or invest as an individual.^^Please note that the names may be truncated if there is not enough space to display them in full.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Met die toepassing kan je aandelen op naam en voor rekening van jouw onderneming of jezelf verkrijgen.^^(Bij onvoldoende plaats zijn namen slechts gedeeltelijk zichtbaar!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Op dit ogenblik bezit je persoonlijk $1,000,000 liquide middelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's do some stock investment with your personal money now.^^Simply ~click your name~ now to select yourself as the active investor.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Met jouw vermogen kan je ook  beleggen! ^^~Klik op jouw naam~ om jezelf aan te duiden als investeerder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now look at the ~Buy/Sell shares section~ below.^^Using this interface, you may purchase up to 5% of the total number of shares of a listed company in a single transaction, so long as you have the cash.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Kijk nu naar het luik ~Aandelen kopen/verkopen~ onderaan.^^Met deze toepassing kan je per transactie tot 5% aankopen van alle aandelen van een onderneming, als je voldoende geld hebt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Ter herinnering, om aandelen te kopen:^^1) Kies het aandeel dat je wil kopen.^^2) Duid aan of het de onderneming of jijzelf bent die wil investeren.^^3) Bepaal het aankoopbedrag.^^4) Klik op de knop ~kopen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You, as an individual, may either buy more shares of your own corporation or invest in other corporations.^^Currently your corporation is selected on the stock list situated at the top of the screen, and you may now click the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Je kan als individueel investeerder meer aandelen kopen van jouw eigen of een andere onderneming.^^Momenteel staat jouw onderneming aangeduid op het beursscherm bovenaan. Klik op de knop ~kopen~ om daarvan aandelen te kopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You've just used your idle personal cash to increase your shareholding of your corporation.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Jouw persoonlijk slapend geld heb je aangewend om het kapitaal van jouw onderneming te verhogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That would be an excellent long-term investment.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Dit is een uitstekende langetermijninvestering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may wonder how you can buy shares of other corporations.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Je kan jezelf afvragen hoe je aandelen verwerft van andere ondernemingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well, it follows exactly the same principle.^^Let's select the second stock on the list and take a closer look at its financial data.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Wel, dat is volgens exact dezelfde procedure.^^Selecteer de tweede onderneming in de lijst en kijk naar haar financiele gegevens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Picking the right stocks to invest is a skill that takes time to develop.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>De ideale investeringsaandelen uitkiezen is een vaardigheid waaraan je moet werke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>First of all, you will have to learn how to read a company's financial data, which are displayed on the top right of the Stock Exchange screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Vooreerst moet je financiele gegevens kunnen lezen van een onderneming. Deze vind je terug in de rechterbovenhoek van het beursscherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Onder de ~koers~ en het ~totaal aantal aandelen~ zie je de ~MarktCap~, of het marktkapitaal die gelijk is aan de ~koers~ X ~totaal uitstaande aandelen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, it is the total market value of a corporation in the stock market.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Dus de totale marktwaarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Earning Per Share~ is a company's operating profit over the past 365 days divided by the ~total number of outstanding shares~.^^When a company issues new shares, the ~Earning Per Share~ will be diluted as the company's profit will be divided by a larger number of shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>~Winst per aandeel~ is de operationele winst van het laatste boekjaar gedeeld door het ~totale aantal openstaande aandelen~.^^Bij de emissie van nieuwe aandelen zal de ~winst per aandeel~ verwateren doordat de ondernemingswinst gedeeld is door meer aandeelheouders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remember that your corporation has just issued some shares?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Jouw onderneming deed toch zonet uitgifte van nieuwe aandelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It led to an increase in the ~total number of outstanding shares~ and a decrease in ~Earning per Share~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Dit heeft geleid tot een stijging van het ~totale aantal aandeelhouders~ en een daling van de ~winst per aandeel~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your company's stock price can only go up in the long run if its ~Earning Per Share~ also goes up.^^Thus, for the fund that you have raised with issuing new shares, you should use them to invest into new business to generate more profits for your shareholders.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>De beurskoers stijgt enkel als ook de ~winst per aandeel~ stijgt.^^Dus kan je het kapitaal dat je met de emissie van nieuwe aandelen ophaalde best investeren zodat jouw onderneming meer winsten genereert voor de aandeelhouders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~P/E Ratio~, or the ~Price-Earnings Ratio~ is an equity valuation multiple, defined as the ~stock price~ divided by ~earnings per share~.^^A high ~P/E ratio~ generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>De ~P/E Ratio~, of de ~Prijs-Winst Ratio~ is een vermogensmeerwaarde, namelijk de ~koers~ gedeeld door de ~winst per aandeel~.^^Doorgaans is een hogere ~P/E ratio~ een teken dat het aandeel te duur staat omdat investeerders aan de hoogste prijs inkopen, vermoedelijk op basis van het vertrouwen in de groeivooruitzichten van de onderneming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you find all this a bit overwhelming, don't worry as you are not required to be proficient in stock analysis in order to enjoy your Capitalism game.^^You can choose to learn and practice stock investment at a pace you prefer in later games.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Als dit te ingewikkeld is voor jou hoef je jou geen zorgen te maken.Om Capitalism te spelen is het niet noodzakelijk om beursanalyses te kunnen doen.^^Indien je dat wil kan je het investeren in de beurs later en op eigen tempo leren tijdens het spelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For now, you have already done a pretty good job getting a grasp of the basics.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Nu heb je al meer dan voldoende basisbeginselen mee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another figure which you may find useful is the ~Dividend Yield~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Een andere figuur die je interessant kan vinden is het ~Dividendrendement~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a percentage calculated by dividing the latest dividend paid by the stock price.^^Put simply, the greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Dit is een percentage gelijk aan uitbetaald dividend gedeeld door de koers.^^Eenvoudigweg zorgt een hoger dividendrendement ervoor dat er jaarlijks meer dividend naar de investeerder terugvloeit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Besides buying stocks as an individual, you can also buy stocks on behalf of your company.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Naast het aankopen van aandelen als private investeerder, kan je ook aankopen voor en namens jouw onderneming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select your company on the ~Who section~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Kies jouw onderneming in het luik ~Wie~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Nu kan je middelen van de onderneming aanwenden om te investeren in andere beursgenoteerde ondernemingen.^^Daarvoor dien je enkel een onderneming uit de lijst aan te duiden bovenaan in het scherm. Daarna klik je op de knop~kopen~ om die aandelen te kopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From this point on, you should keep an eye on the stock's performance as changes in its stock price will affect your company's balance sheet as well.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Vanaf nu kan je best de prestaties van jouw aandelen in de gaten houden, omdat koerswijzigingen ook de balans van jouw onderneming wijzigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If your company owns more than ~50%~ of another company, it will be added to the ~Who section~ where you could select it and trade stocks on behalf of that company.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Wanneer jouw onderneming ~50%~ van een andere onderneming bezit, zal ook deze beschikbaar zijn in het luik ~Wie~ waardoor je ook daarvoor aandelen kan kopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Zodra je meer dan ~75%~ van alle aandelen van een onderneming bezit, kan je een fusie van ondernemingen doorvoeren waardoor je tevens alle technologische kennis verwerft.^^Daardoor is een fusie een zeer effectieve manier om snel een ondernemingsemperium uit te bouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Besides buying stocks of other companies, your company can also ~buy back its own stock~.^^The shares bought are taken out of circulation, therefore shrinking the number of outstanding shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Naast het aankopen van aandelen van anderen ondernemingen, kan jouw onderneming ook ~eigen aandelen terugkopen~.^^De aangekochte aandelen zijn daarna niet meer in omloop, waardoor het aantal uitstaande aandelen verminderd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Daardoor zal in principe de winst per aandeel stijgen en dus ook een ~a positief effect~ op de beurskoers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before we progress here's a quick note on how to sell shares.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Alvorens verder te gaan nog een belangrijke opmerking over het verkopen van aandelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The interface for selling shares is in fact very similar to that of buying shares.^^Depending on the current owner of the shares, select either yourself or your corporation (in the ~Who section~) and set the amount you wish to sell and click the ~Sell~ button.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>De procedure om te verkopen is nagenoeg dezelfde als die van aankopen.^^Afhankelijk van de huidige eigenaar van de aandelen selecteer je ofwel jezelf ofwel jouw onderneming (in het luik ~Wie~) en bepaal het bedrag dat je wil verkopen. Klik daarna op de knop ~Verkopen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you find the stock list too cluttered, you may use the stock filters to limit the type of stock to be displayed on the screen.^^For example, you may choose to view only tech stocks that you currently own by clicking on the ~Tech~ button and then the ~Owned~ button.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Wanneer de aandelenlijst onoverzichtelijk vindt, kan je de beursfilters gebruiken om enkel specifieke soorten aandelen te zien.^^Zo kan je er bijvoorbeeld voor opteren om enkel technologieaandelen weer te geven die je al in bezit hebt door te klikken op de knop ~Tech~ en vervolgens de knop ~Eigen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the bottom of the screen, you can view the ~performances of your stock holdings~, showing the gains or losses of individual stocks in your portfolio, as well as your total investment return to date.^^And this area can be switched to display the ~latest financial news~ by clicking the ~Stock News~ located at the bottom left of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Onderaan het scherm kan je de ~prestaties van jouw aandelenportefuille~ terugvinden. Naast winst en verlies per aandeel zie je ook de totale meerwaarde per aandeel sinds de aanschaf.^^Dit gebied kan je omschakelen naar een weergave met het ~laatste financiale nieuws~ door te klikken op ~Beursnieuws~ linksonder in het scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have done a great job familiarizing yourself with the stock market!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Je hebt een mooi parcours afgelegd in het kennismaken met de beurs!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now it's time for you to use the recently raised fund to grow your business empire.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Met het geld dat je via de beurs ophaalde kan je nu een ondernemingsemperium uitbouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The investors are expecting you to deliver a good return to their investment.^^You win this game when ~your company's stock price~ increases to ~$100~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>De investeerders verwachten dat je hen een mooie investeringsmeerwaarde bezorgt.^^Je wint dit spel zodra ~de beurskoers van jouw onderneming~ stijgt naar ~$100~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233808Z">
+        <seg>Veel geluk!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=China Opening Up</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Title=Opkomst van China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Description=In de jaren negentig bleef China met rasse schreden haar economie hervormen waardoor tientallen miljarden dollars aan buitenlandse investeringen per jaar werden opgehaald.^^Jij moet fabrieken opstarten om competitief voordeel te halen uit de goedkope arbeidskost, terwijl je tegelijkertijd een handelsactiviteit neerzet en een merkbewustzijn creëert voor jouw producten^^Hoewel de koopkracht en lokale vraag voor luxeproducten nog laag is, groeit die aanzienlijk.^^Als je jou succesvol kan handhaven op de markt, zal je in een sterke positie staan om de vruchten te plukken van die consumentenvraag die in China substantieel zal stijgen binnenkort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Seize the Opportunities</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Goal Title=Grijp de kansen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Goal Description=Grijp de kansen die zich voordoen gedurende de opkomst van China's groei en laat jouw onderneming een dominerende kracht worden in die markt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Upstream Business</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Goal Title=Onderneming stroomopwaarts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Goal Description=Toestemming om te investeren in een onderneming met natuurlijke grondstoffen wordt enkel verleend aan een onderneming met minstens $150 miljoen en een jaarlijkse omzet van $200 miljoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may now set up natural resource firms.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20200518T103820Z">
+        <seg>Je kan nu over natuurlijke grondstoffen beschikken.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

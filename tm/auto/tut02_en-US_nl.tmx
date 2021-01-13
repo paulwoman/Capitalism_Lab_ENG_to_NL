@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>In deze tutorial krijg je een opleiding tot zaakvoerder van een groothandel en leer je de maximale operationele efficientie en winst uit handelszaken te halen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Jouw doelen in dit spel zijn het behalen van een jaaromzet van $50,000,000 en een jaarwinst van $5,000,000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now waste no time and get started working towards this goal.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Verspil dus geen tijd stel alles in het werk om jouw doelen te bereiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To build your first store, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Om jouw eerste winkel te bouwen, klik op het icoon ~Bouwen~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now select ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Kies nu ~handelszaak~ uit het menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Doordat je al ervaring opbouwde in de groothandel, kan je nu kiezen uit verschillende soorten handelszaken waaronder van warenhuizen tot buurtwinkels, zelfs diverse speciaalzaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>~Discountwinkels~ kunnen alle producten aanbieden, wat ze veelzijdig maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Daardoor kan je een uitgeput goed eenvoudig vervangen door gelijk welk ander goed.^^ Daarentegen kan een ~ speciaalzaak~ enkel een specifieke soort goederen aanbieden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a furniture store can only sell furniture. If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Een meubelzaak kan bijvoorbeeld enkel meubels verkopen, waardoor er bij een probleem met de leveranciers een beperkte keuze aan specifieke goederen die ter vervanging kunnen worden verkocht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, specialty stores do have advantages over general stores.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Daarentegen hebben speciaalzaken verschillende andere voordelen tegenover algemene handelszaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Een speciaalzaak is veel aantrekkelijker voor consumenten die specifieke goederen willen.^^Zo zal een computerwinkel  veel beter scoren in het verkopen van computers dan een gewone handelszaak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Differences in quality, price and brand may even things out but that's for a later tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Verschillen in kwaliteit, prijs en merk kunnen daar nog nuance in brengen, maar da’s voer voor een latere tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Okay, enough of the theory.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Ok, dat was voldoende theorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Kies nu ~Discountwinkel~ uit het menu en kies een bouwplaats om jouw discountwinkel te bouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Notice anything different?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Merk je een verschil op?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>We kunnen nu het ~ontwerp~ van jouw winkel zien, weergegeven in een 3x3 tabel met vakjes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>In de vorige tutorial diende je enkel om het icoon  ~Goed toevoegen~  te klikken en een goed uit de aanbiederslijst te kiezen. Daarna verscheen het gekozen goed automatisch in jouw winkel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These units actually do the real work!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>^^Wat je niet kon zien was de ~Aankoop- en verkoopafdelingen~ in jouw winkel. Het zijn net die afdelingen die al het werk verrichten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Om dit beter te begrijpen, gaan we eenvoudigweg op de ons reeds vertrouwde manier een goed toevoegen.^^Klik nu op het icoon  ~Goed toevoegen ~ en kies een goed die aangeboden wordt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the two units that have appeared in your layout grid?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Zie je de twee afdelingen die zijn verschenen in het ontwerpplan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De ene kreeg het label ~Aankoop~ en staat in verbinding met de afdeling ~Verkoop~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Dit is jouw basishandelsgroepering.^^Geen enkele afdeling heeft enig effect zonder dat het in verbinding staat met een andere winkelfunctie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Een ~Aankoopafdeling~ heeft de functie om goederen aan te kopen bij de aanbieder die je selecteerde.^^Na levering zal de ~Aankoopafdeling~ de voorraad doorgeven aan de ~Verkoopafdeling~ zodra er vraag is van consumenten naar dat goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simple eh?</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Eenvoudig, niet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's have a closer look at each unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Laat ons elke afdeling van naderbij bezien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Je kan verschillende indicatoren terugvinden in de ~Aankoopafdeling~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De eerste is een ~blauwe lijn van rechthoekjes~ jouw goederenvoorraad weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Ook kan je een gele aanbodbalk en oranje vraagbalk terugvinden.^^De ~gele aanbodbalk~ toont de hoeveelheid die de aanbieder kan bevoorraden, terwijl de ~oranje vraagbalk~ de consumentenvraag voor dit goed meet.^^Waneer het aanbod lager is dan de vraag is er een aanbodtekort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Bij een structureel tekort kan je dus beter een andere aanbieder zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De ~bruine balk~ geeft het gebruikniveau van de afdeling weer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Als de balk de volledige lengte bereikt, is de volledige gebruikscapaciteit bereikt  en kunnen geen bijkomende goederen meer worden verwerkt zelfs als er een bijkomend aanbod of bijkomende vraag is.^^Omgekeerd zal een onderbenutte afdeling de voorzieningen en grondstoffen niet efficient aanwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Dat kan een reden zijn waarom jouw handelszaak niet zo winstgevend is als verwacht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The figure in the top right corner of the unit is the ~unit's level~. Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De afbeelding in de rechterbovenhoek van de afdeling is het ~afdelingsniveau~, momenteel gelijk aan 1.^^Na verloop van tijd en door opleiding stijgt het niveau waardoor de afdeling efficienter werkt en dus grotere voorraden kan verwerken, dus ook een hogere vraag kan beantwoorden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Nu ga je de aanpak van een ervaren groothandelbeheerder volgen door handmatig ~Aan- en verkoopsafdelingen~ op te starten voor jouw handelszaak.^^~Dubbelklik~ op een lege afdelingsruimte in het ontwerpplan en kies ~Aankoopafdeling~ uit de lijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Selecteer ~Aankoopafdeling~ in de lijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Jouw winkel heeft nu een nieuwe ~Aankoopafdeling~.^^Ga verder en voeg een ~verkoopafdeling~ toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>~Dubbelklik~ op een lege afdeling exact rechts naast de aankoopafdeling die je net opstartte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Sales Unit~ from the list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Kies ~Verkoopafdeling~ uit de lijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Verbind nu de  ~Aankoopafdeling~ en de  ~Verkoopafdeling~ met elkaar door een schakel aan te tikken tussen beide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The two units are now connected and are going to work with each other.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De twee afdelingen zijn nu verbonden en zullen interageren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Maak de nieuwe aankoopafdeling operationeel door een aanbieder voor je goederen te kiezen.^^Klik op de ~Aankoopafdeling~ om die de selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Klik op de knop ~Verbind~ en selecteer een goed uit de aanbiederslijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Kies een goed uit de aanbiederslijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Je hebt succesvol de logistiek binnen jouw winkel verhoogd door een nieuw goed aan je winkel toe te voegen.^^Vervolgens gaan we de beschikbare informatie bekijken van de door jou in jouw winkel aangeboden goederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De linkeronderkant van het scherm toont nu de details van de aankoopafdeling en het daarin aanwezige goed.^^Onder de goederenafbeelding kan je het handelskleur van de aanbieder zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Dit kleur is ~grijs als het een importgoed via de zeehaven~ is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Als de aanbieder een onderneming is, zie je hier haar ~ondernemingskleur~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Hier zie je de ~aankoopkost~ van het goed en de ~transportkost~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Hier zie je de ~kwaliteit~ en de ~merkwaardering~ van het goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Een hogere kwaliteit doet de vraag van consumenten stijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>~Merken~ kunnen een zeer belangrijke factor zijn in de aankoopbeslissing van een consument, zeker voor luxegoederen en mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Nemen we als voorbeelde de aankoop van een jeans, consumenten hebben in het algemeen meer aandacht voor het merk dan de werkelijke kwaliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De ~algemene waardering~ van een goed is een berekening gebaseerd op de prijs, kwaliteit en merkwaardering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>In een notendop zal ~een lage prijs, hoge kwaliteit en een hoge merkwaardering~ bijdragen tot ~een hoge algemene waardering~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De knop ~Aanbieder~ toont informatie over de huidige aanbieder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Stop Purchase~ button will do exactly that. Your purchasing unit will cease to buy the current product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De knop ~Stop aankopen~ laat de aankoopafdeling geen nieuwe goederen meer aankopen bij de huidige aanbieder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For now, keep it buying the current product.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Laat het momenteel echter verder het huidige goed aankopen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De goederen die jouw aankoopafdeling bestelde zullen zeer binnekort worden aangeboden in jouw winkel. Ook de Verkoopafdeling zou inmiddels operationeel moeten zijn.^^We bekijken nu de ~Verkoopafdeling~ door die te selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De ~Verkoopafdeling~ toont nagenoeg dezelfde info als de aankoopafdeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De knop ~Voorraad wissen~ vernietigd alle daarin aanwezige goederen.^^Dit is vooral handig wanneer je een beter aanbod van hetzelfde goed hebt gevonden en die onmiddellijk wil aanbieden in jouw winkel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Al jouw winkelrekken worden meteen leeggemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have just learned the advanced skills for retail management and how to order the right products that have strong appeals to your customers.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Je kreeg net vaardigheden aangeleerd voor gevorderde handelsbeheerders en hoe de correcte goederen te bestellen die jouw klanten aanspreken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Nu gaan we ~een extra groep~ van ~Aankoop- en verkoopafdelingen~ toevoegen om de goederendiversiteit te verhogen in jouw handelszaak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Om een bekwame ondernemer te worden, zou je ook onder de knie moeten krijgen hoe je een veelheid aan beschikbare informatie verwerkt over jouw onderneming en mededingers.^^Klik op de afbeelding ~Informatie~ op de menubalk onderaan het scherm om het ~Informatiecentrum~ te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the ~Corporate Summary Report~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Dit is het ~Ondernemingsoverzichtsrapport~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Van hieruit zie je detailgegevens over jouw onderneming en die van jouw concurrenten.^^Bij elke onderneming zie je onmiddelijk het geldniveau, omzet- en winstafbeeldingen met balken, alsook een grafiek met de operationele winst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, the corporate logo, corporate color and the CEO's portrait are displayed.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Ook het ondernemingslogo, de kleur en het portret van de CEO staan afgebeeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>In de menuopties in de rechterbovenhoek van het schem kies je ~Gebouwoverzicht~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Het ~Gebouwoverzicht~ toont alle gebouwen van jouw onderneming.^^Kies nu ~Ondernemingsrelaties~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Dit scherm toont de ondernemingen waarmee je aan het handelen bent.^^Kies nu ~Financieel overzicht~ om terug te keren naar het eerste scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click your ~corporation's logo~ to view more information.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Klik nu op het ~ondernemingslogo~ om meer info te krijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Het ~Ondernemingsdetailoverzicht~ bevat veel nuttige info over jouw onderneming.^^Via uitgebreide opties in het menu kan je gedetailleerde info verkrijgen over je eigen onderneming en die van mededingers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is more than one city in this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Er zijn meerdere steden beschikbaar in deze tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Je zou moeten overwegen om je onderneming uit te breiden naar andere steden om voordeel te halen uit de beschikbaarheid aan verschillende goederen of net uit de afwezigheid aan sterke mededingers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two ways to view another city.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Er zijn twee manieren om een andere stad te bezoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>De eerste manier is klikken op het icoon ~Wereldkaart~ in de menubalk onderaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your present city will be highlighted on the map when it first opens.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Jouw huidige stad licht als eerste op wanneer je dit voor het eerst opent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Wanneer je dubbelklikt op de naam van een andere stad, dan zie je een markering op de wereldkaart terwijl ook het hoofdscherm die nieuwe stad laat zien.^^Sluit de wereldkaart door op de X te klikken rechtsboven het scherm of door opnieuw op het wereldkaarticoon te klikken onderaan in de menubalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Een tweede manier om een andere stad te bezoeken is de stadsselectiefilter in de ~Minimap~, zoals uitgelegd in de vorige tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities. It's time to expand your business empire.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Nu je verschillende soorten handelszaken kan bouwen en kan navigeren tussen steden, is het tijd om jouw onderneming uit te breiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Memo voor dit tutorial spel: behaal ~een jaaromzet van $50 miljoen~ en ~een jaarwinst van $5 miljoen~.^^Het ~Doelenrapport~ geeft jou een stand van zaken over de gemaakte vorderingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Je kan dit ten allen tijde openen in het ~Informatiecentrum~ waarin je ~Doelenrapport~ kies, of door te klikken op de ~sneltoets 'G'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although you have a humble beginning, with the new skills you have acquired in this tutorial, achieving the goal shouldn't be difficult!^^Good luck!</seg>
+      </tuv>
+      <tuv xml:lang="nl" creationid="OmegaT Aligner" creationdate="20210113T233537Z">
+        <seg>Hoewel je bescheiden bent gestart, zou het behalen van de doelen niet moeilijk mogen zijn met je net verworven kennis uit deze tutorial!^^Veel succes!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

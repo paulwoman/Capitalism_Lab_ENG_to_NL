@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>(You are limited to production of beverage, food and snacks until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120651Z" creationid="Olivier" creationdate="20200518T120651Z">
+        <seg>(U bent beperkt tot de productie van drank, voedsel en snacks totdat u dit doel hebt bereikt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(You are limited to production of photography products only until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104812Z" creationid="Olivier" creationdate="20200518T104812Z">
+        <seg>(Pas na het behalen van dit doel kan je ook andere goederen produceren dan fotografiegoederen produceren.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(You are not allowed to change brand strategy in this game.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121137Z" creationid="Olivier" creationdate="20200518T121137Z">
+        <seg>(Opmerking: het is niet toegestaan de merkstrategie te wijzigen in dit spel.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Initial corporate brand awareness and brand royalty ratings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120917Z" creationid="Olivier" creationdate="20200518T120917Z">
+        <seg>// Initiële naamsbekendheid van het bedrijf en beoordelingen van de royalty's van het merk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//-------------------------------------------------------------------</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103849Z" creationid="Olivier" creationdate="20200518T103849Z">
+        <seg>//-------------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//-------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>//-------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//of the 13 diversified companies, 2 of them have expertise in apparel</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120322Z" creationid="Olivier" creationdate="20200518T120322Z">
+        <seg>//van de 13 gediversifieerde bedrijven, hebben 2 van hen expertise in kleding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Product Expertise=Apparel,1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120311Z" creationid="Olivier" creationdate="20200518T120311Z">
+        <seg>AI Product Expertise=Apparel,1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternative Stock Sim=Yes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Alternative Stock Sim=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apparel</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120523Z" creationid="Olivier" creationdate="20200518T120523Z">
+        <seg>Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103146Z" creationid="Olivier" creationdate="20200518T103146Z">
+        <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beverage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120741Z" creationid="Olivier" creationdate="20200518T120741Z">
+        <seg>Beverage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But further product diversification will surely negatively impact brand loyalty.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120932Z" creationid="Olivier" creationdate="20200518T120932Z">
+        <seg>Maar, het verdere goederendiversificatie zal zeker een negatief effect hebben op de merkgetrouwheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But you must maintain consistent quality across all product lines or you will see your brand losing consumer loyalty.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120921Z" creationid="Olivier" creationdate="20200518T120921Z">
+        <seg>Daarbij moet je de kwaliteit voor alle goederen blijven handhaven anders verliest jouw merk klantengetrouwheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By leveraging the brand, your new products will gain instant consumer recognition without prior advertising.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121135Z" creationid="Olivier" creationdate="20200518T121135Z">
+        <seg>Door het merk verder op te tillen, zullen jouw nieuwe producten onmiddellijk op bijval kunnen rekenen van consumenten zonder eerst te moeten adverteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO expertise change=marketing, 20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104415Z" creationid="Olivier" creationdate="20200518T104415Z">
+        <seg>CMO expertise change=marketing, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO salary modifier=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104616Z" creationid="Olivier" creationdate="20200518T104616Z">
+        <seg>CMO salary modifier=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO salary modifier=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104423Z" creationid="Olivier" creationdate="20200518T104423Z">
+        <seg>CMO salary modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO salary modifier=75</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104526Z" creationid="Olivier" creationdate="20200518T104526Z">
+        <seg>CMO salary modifier=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO expertise change=manufacturing, 20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104412Z" creationid="Olivier" creationdate="20200518T104412Z">
+        <seg>COO expertise change=manufacturing, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO salary modifier=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104609Z" creationid="Olivier" creationdate="20200518T104609Z">
+        <seg>COO salary modifier=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO salary modifier=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104418Z" creationid="Olivier" creationdate="20200518T104418Z">
+        <seg>COO salary modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO salary modifier=75</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104519Z" creationid="Olivier" creationdate="20200518T104519Z">
+        <seg>COO salary modifier=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO expertise change=research and development, 20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104413Z" creationid="Olivier" creationdate="20200518T104413Z">
+        <seg>CTO expertise change=research and development, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO salary modifier=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104613Z" creationid="Olivier" creationdate="20200518T104613Z">
+        <seg>CTO salary modifier=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO salary modifier=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104420Z" creationid="Olivier" creationdate="20200518T104420Z">
+        <seg>CTO salary modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO salary modifier=75</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104523Z" creationid="Olivier" creationdate="20200518T104523Z">
+        <seg>CTO salary modifier=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you pull it off this time?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121013Z" creationid="Olivier" creationdate="20200518T120933Z">
+        <seg>Kun je het deze keer voor elkaar krijgen? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Beijing</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103838Z" creationid="Olivier" creationdate="20200518T103838Z">
+        <seg>City=Beijing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Chengdu</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103839Z" creationid="Olivier" creationdate="20200518T103839Z">
+        <seg>City=Chengdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103839Z" creationid="Olivier" creationdate="20200518T103839Z">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=London</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105427Z" creationid="Olivier" creationdate="20200518T105427Z">
+        <seg>City=London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Miami</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120254Z" creationid="Olivier" creationdate="20200518T120254Z">
+        <seg>City=Miami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=New York City</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103842Z" creationid="Olivier" creationdate="20200518T103842Z">
+        <seg>City=New York City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Paris</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120253Z" creationid="Olivier" creationdate="20200518T120253Z">
+        <seg>City=Paris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=San Francisco</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105429Z" creationid="Olivier" creationdate="20200518T105429Z">
+        <seg>City=San Francisco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Seoul</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120253Z" creationid="Olivier" creationdate="20200518T120253Z">
+        <seg>City=Seoul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Shanghai</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103839Z" creationid="Olivier" creationdate="20200518T103839Z">
+        <seg>City=Shanghai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Vancouver</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105429Z" creationid="Olivier" creationdate="20200518T105429Z">
+        <seg>City=Vancouver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Warsaw</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120253Z" creationid="Olivier" creationdate="20200518T120253Z">
+        <seg>City=Warsaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Communication Devices</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105014Z" creationid="Olivier" creationdate="20200518T105014Z">
+        <seg>Communication Devices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competence of Local Competitors=Moderate</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Competence of Local Competitors=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Constant Import Supply=No</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Constant Import Supply=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer Goods Seaports=2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Consumer Goods Seaports=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Deadline=2020-12-31</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102938Z" creationid="Olivier" creationdate="20200518T102938Z">
+        <seg>Contest Deadline=2020-12-31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102937Z" creationid="Olivier" creationdate="20200518T102937Z">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-03-17</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103039Z" creationid="Olivier" creationdate="20200518T103039Z">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-05-10</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103109Z" creationid="Olivier" creationdate="20200518T103109Z">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-05-11</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103132Z" creationid="Olivier" creationdate="20200518T103132Z">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Brand Rating=35, 35</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120912Z" creationid="Olivier" creationdate="20200518T120912Z">
+        <seg>Corporate Brand Rating=35, 35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Cash Change=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103729Z" creationid="Olivier" creationdate="20200518T103729Z">
+        <seg>Corporate Cash Change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Cash Change=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115921Z" creationid="Olivier" creationdate="20200518T115912Z">
+        <seg>Corporate Cash Change=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate cash change=10</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120429Z" creationid="Olivier" creationdate="20200518T120429Z">
+        <seg>Corporate Cash Change=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate cash change=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104909Z" creationid="Olivier" creationdate="20200518T104909Z">
+        <seg>Corporate Cash Change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103833Z" creationid="Olivier" creationdate="20200518T103833Z">
+        <seg>Description=In de jaren negentig bleef China met rasse schreden haar economie hervormen waardoor tientallen miljarden dollars aan buitenlandse investeringen per jaar werden opgehaald.^^Jij moet fabrieken opstarten om competitief voordeel te halen uit de goedkope arbeidskost, terwijl je tegelijkertijd een handelsactiviteit neerzet en een merkbewustzijn creëert voor jouw producten^^Hoewel de koopkracht en lokale vraag voor luxeproducten nog laag is, groeit die aanzienlijk.^^Als je jou succesvol kan handhaven op de markt, zal je in een sterke positie staan om de vruchten te plukken van die consumentenvraag die in China substantieel zal stijgen binnenkort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104655Z" creationid="Olivier" creationdate="20200518T104655Z">
+        <seg>Description=Met meer dan 20 jaren ervaring op jou rekening in de productie van wereldklasse fotografiemateriaal, heb je het vertrouwen gewonnen van een investeerdersgroep voor een startup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Years of research in training methodology by a consortium of leading business schools have finally produced astonishing results.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103332Z" creationid="Olivier" creationdate="20200518T103332Z">
+        <seg>Description=Jaren van onderzoek naar opleidingsmethodes door een consortium van toonaangevende bedrijfsscholen werpen eindelijk vruchten af.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You always dream of building a media empire and now it is your chance to realize this dream.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102450Z" creationid="Olivier" creationdate="20200518T102450Z">
+        <seg>Description=Je hebt altijd gedroomd van een eigen mediagroep en nu krijg je de kans om dit waar te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You are one of those people who are gifted with extraordinary technical wizardry and you are going to put it into good use with your tech startup.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103028Z" creationid="Olivier" creationdate="20200518T103028Z">
+        <seg>Description=U bent een van die mensen die begaafd zijn met buitengewone technische tovenarij en u gaat het goed gebruiken met uw technische startup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You came from a family farm business with strong expertise in farming.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105152Z" creationid="Olivier" creationdate="20200518T105152Z">
+        <seg>Description=Je stamt af van een landbouwersfamilie met een sterke kennis van landbouw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103054Z" creationid="Olivier" creationdate="20200518T103054Z">
+        <seg>Description=U heeft een uitstekende staat van dienst in de voedsel- en drankindustrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120238Z" creationid="Olivier" creationdate="20200518T120238Z">
+        <seg>Description=Je probeert al enkele jaren startkapitaal te verzamelen om een modebedrijf op te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120842Z" creationid="Olivier" creationdate="20200518T120842Z">
+        <seg>Description=Je hebt de intellectuele eigendom gekocht van een niet langer bestaande onderneming die een populair consumentenmerk was en nog steeds een sterke merkwaardering heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have just assumed the role of CEO of a well funded startup.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102915Z" creationid="Olivier" creationdate="20200518T102915Z">
+        <seg>Description=U heeft zojuist de rol van CEO van een goed gefinancierde startup op zich genomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You run a family-owned business in Australia with a strong focus on local markets and is extremely conservative in expanding overseas.^^But you are more ambitious and you always set your sights on expanding globally.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102534Z" creationid="Olivier" creationdate="20200518T102534Z">
+        <seg>Description=You run a family-owned business in Australia with a strong focus on local markets and is extremely conservative in expanding overseas.^^But you are more ambitious and you always set your sights on expanding globally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Your goal is to grow the cities into prosperous metropolitan areas.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103129Z" creationid="Olivier" creationdate="20200518T103129Z">
+        <seg>Description=Uw doel is om de steden te laten uitgroeien tot welvarende grootstedelijke gebieden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103915Z" creationid="Olivier" creationdate="20200518T103915Z">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102452Z" creationid="Olivier" creationdate="20200518T102452Z">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=120</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104750Z" creationid="Olivier" creationdate="20200518T104750Z">
+        <seg>Difficulty Rating=120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=80</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120249Z" creationid="Olivier" creationdate="20200518T120249Z">
+        <seg>Difficulty Rating=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=90</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103532Z" creationid="Olivier" creationdate="20200518T103335Z">
+        <seg>Difficulty Rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diversified Companies=13</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120309Z" creationid="Olivier" creationdate="20200518T120309Z">
+        <seg>Diversified Companies=13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120246Z" creationid="Olivier" creationdate="20200518T120246Z">
+        <seg>Heb jij wat nodig is om uit te munten in deze nichemarkt met jouw eigen nieuwe modemerk?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Electronic Products</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105014Z" creationid="Olivier" creationdate="20200518T105014Z">
+        <seg>Electronic Products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Farming</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115908Z" creationid="Olivier" creationdate="20200518T115908Z">
+        <seg>Farming=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Farming=80</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105435Z" creationid="Olivier" creationdate="20200518T105435Z">
+        <seg>Farming=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103847Z" creationid="Olivier" creationdate="20200518T103847Z">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103847Z" creationid="Olivier" creationdate="20200518T103847Z">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103847Z" creationid="Olivier" creationdate="20200518T103847Z">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Factory</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105432Z" creationid="Olivier" creationdate="20200518T105432Z">
+        <seg>Firm, Factory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103845Z" creationid="Olivier" creationdate="20200518T103845Z">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Mine</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103846Z" creationid="Olivier" creationdate="20200518T103846Z">
+        <seg>Firm, Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103846Z" creationid="Olivier" creationdate="20200518T103846Z">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103846Z" creationid="Olivier" creationdate="20200518T103846Z">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103847Z" creationid="Olivier" creationdate="20200518T103847Z">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103848Z" creationid="Olivier" creationdate="20200518T103848Z">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, TV Station</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103846Z" creationid="Olivier" creationdate="20200518T103846Z">
+        <seg>Firm, TV Station</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fixed Brand Strategy=Corporate Brand</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120911Z" creationid="Olivier" creationdate="20200518T120911Z">
+        <seg>Fixed Brand Strategy=Corporate Brand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120741Z" creationid="Olivier" creationdate="20200518T120741Z">
+        <seg>Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Starting Year=1990</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102453Z" creationid="Olivier" creationdate="20200518T102453Z">
+        <seg>Game Starting Year=1990</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achieved Text=Bravo!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121018Z" creationid="Olivier" creationdate="20200518T121018Z">
+        <seg>Goal Achieved Text=Goed zo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103724Z" creationid="Olivier" creationdate="20200518T103724Z">
+        <seg>Goal Achieved Text=Gefeliciteerd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achieved Text=Excellent!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104533Z" creationid="Olivier" creationdate="20200518T104533Z">
+        <seg>Goal Achieved Text=Uitstekend!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achieved Text=Well done!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104342Z" creationid="Olivier" creationdate="20200518T104342Z">
+        <seg>Goal Achieved Text=Goed gedaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103737Z" creationid="Olivier" creationdate="20200518T103737Z">
+        <seg>Goal Description=Weest aggressiever in het aanwerven en zoeken naar nieuwe talenten door ze bij jouw onderneming tewerkt te stellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104803Z" creationid="Olivier" creationdate="20200518T104803Z">
+        <seg>Goal Description=Maak van jouw onderneming een producent van hoge kwaliteitscameragoederen en tracht de andere mededingers uit de markt te spelen door marktleider te worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Facing tough competition from established fashion companies, your near term goal is to stay afloat and carve out a niche with your new fashion brand.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120410Z" creationid="Olivier" creationdate="20200518T120410Z">
+        <seg>Goal Description=Geconfronteerd met harde mededingers uit de gevestigde modewereld is je einddoel om boven water te blijven, daarnaast een nichemarkt aan te boren met een nieuw modemerk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115901Z" creationid="Olivier" creationdate="20200518T115901Z">
+        <seg>Goal Description=Zorg dat jouw onderneming groeit tot marktleider in landbouw en handel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120434Z" creationid="Olivier" creationdate="20200518T120434Z">
+        <seg>Goal Description=Nu je een voet aan wal hebt in deze markt met een eigen merk, heb je een reserve om nieuwe investering te doen en kan je het jou veroorloven om jouw onderneming agressief uit te breiden om marktaandeel van jouw mededingers af te snoepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103903Z" creationid="Olivier" creationdate="20200518T103903Z">
+        <seg>Goal Description=Toestemming om te investeren in een onderneming met natuurlijke grondstoffen wordt enkel verleend aan een onderneming met minstens $150 miljoen en een jaarlijkse omzet van $200 miljoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Keep on impressing the shareholders and your staff by delivering the performance results they expect.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104532Z" creationid="Olivier" creationdate="20200518T104532Z">
+        <seg>Goal Description=Blijf de aandeelhouders en het directiecomité imponeren door de resultaten neer te zetten die ze verwachten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Lead your corporation to achieve market dominance in the food and beverage and deliver outstanding financial returns to your investors.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120646Z" creationid="Olivier" creationdate="20200518T120646Z">
+        <seg>Goal Description=Leid uw bedrijf om marktdominantie te bereiken in het voedsel en de drank en om een uitstekend financieel rendement te leveren aan uw investeerders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103722Z" creationid="Olivier" creationdate="20200518T103722Z">
+        <seg>Goal Description=Verhoog de nieuwe opleidingsmethodiek om de operationele winstmarge van jouw onderneming te verbeteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103855Z" creationid="Olivier" creationdate="20200518T103855Z">
+        <seg>Goal Description=Grijp de kansen die zich voordoen gedurende de opkomst van China's groei en laat jouw onderneming een dominerende kracht worden in die markt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Surpass your family's expectation by not only building a thriving farming and retail business, but growing it into a multinational corporation with a diversified product portfolio.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115931Z" creationid="Olivier" creationdate="20200518T115931Z">
+        <seg>Goal Description=Overtref de familieverwachtingen door naast een goeddraaiend landbouw- en handelsbedrijf uit te groeien tot een multinationale onderneming met een gediversifieerd goederenaanbod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120506Z" creationid="Olivier" creationdate="20200518T120506Z">
+        <seg>Goal Description=Dankzij jouw recente uitbreidingsrondes sta je nu in een positie om een andere sprong te maken en ook marktleider te worden in de kledij-industrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120528Z" creationid="Olivier" creationdate="20200518T120528Z">
+        <seg>Goal Description=De lederengoederenmarkt is zeer lucratief, waardoor je jouw succes in de modemarkt best verbreed met een lijn lederen goederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=There are tremendous expectations from the shareholders and your staff for the company to grow rapidly under your leadership.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104338Z" creationid="Olivier" creationdate="20200518T104235Z">
+        <seg>Goal Description=Er zijn enorm hoge verwachtingen van de aandeelhouders en jouw directiecomité om de onderneming snel te zien groeien onder jouw leiding. Bewijs jouw expertise en stel hen niet teleur!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103348Z" creationid="Olivier" creationdate="20200518T103348Z">
+        <seg>Goal Description=Met de doorbraak in opleiding, heb je nu een instrument om de operationele efficiëntie van jouw onderneming naar nieuwe hoogtes te stuwen en een echt opmerkelijk financieel resultaat voor te leggen aan de aandeelhouders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With your prior success, you have become even more ambitious in expanding your business.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120932Z" creationid="Olivier" creationdate="20200518T120932Z">
+        <seg>Goal Description=Door jouw vorig succes, heb je ambitie om jouw onderneming uit te breiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120752Z" creationid="Olivier" creationdate="20200518T120752Z">
+        <seg>Goal Description=Na jouw succes in de voedings- en drankenindustrie heb je een nieuw doel om verder te diversifiëren en uit te goreien tot een multinationaal consortium met een marktkapitaal van $1 miljard, alsook een jaaromzet van minstens $800 miljoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104919Z" creationid="Olivier" creationdate="20200518T104919Z">
+        <seg>Goal Description=Met jouw succes op de fotogriegoederenmarkt heb je voldoende kapitaal en middelen om jouw onderneming te diversifiëren naar de consumentenelectronicamarkt en de onderneming naar een nieuw hoogtepunt te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121133Z" creationid="Olivier" creationdate="20200518T121133Z">
+        <seg>Goal Description=Je hebt de intellectuele eigendom gekocht van een niet langer bestaande onderneming die een populair consumentenmerk was en nog steeds een sterke merkwaardering heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You intend to grow your company by diversifying your product portfolio.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120920Z" creationid="Olivier" creationdate="20200518T120920Z">
+        <seg>Goal Description=Je wil jouw onderneming laten groeien door het goederenaanbod te diversifiëren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You must continue to prove to the shareholders and your staff that you are the right person to lead the company for further growth.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104427Z" creationid="Olivier" creationdate="20200518T104427Z">
+        <seg>Goal Description=Je dient de aandeelhouders en directie te blijven bewijzen dat je de juiste persoon bent om de onderneming te leiden naar verdere groei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>Goal Title=Media emperium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your ultimate goal in this game is to achieve a corporate revenue of $1 billion and an annual profit of $100 million, and let the financial performance of your company boost the company stock price to over $500.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104139Z" creationid="Olivier" creationdate="20200518T104040Z">
+        <seg>Goal Description=Jouw einddoel in dit spel is om een ondernemingsomzet van $1 miljard te behalen met een jaarlijkse winst van $100 miljoen, waarbij de financiële performantie van jouw onderneming de aandeelprijs boven $500 stuwt. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104400Z" creationid="Olivier" creationdate="20200518T104400Z">
+        <seg>Goal Failed Text=Het directiecomité is zeer teleurgesteld over de middelmatige resultaten van de onderneming en nam ontslag om elders betere loopbaankansen te zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Aggressive Growth Plan</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103348Z" creationid="Olivier" creationdate="20200518T103348Z">
+        <seg>Goal Title=Aggressief groeiplan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Consumer Electronics Giant</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104914Z" creationid="Olivier" creationdate="20200518T104914Z">
+        <seg>Goal Title=Consumentenelectonicagigant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115859Z" creationid="Olivier" creationdate="20200518T115859Z">
+        <seg>Goal Title=Dominantie in landbouw en handel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Fashion Dominance</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120527Z" creationid="Olivier" creationdate="20200518T120527Z">
+        <seg>Goal Title=Modedominantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120642Z" creationid="Olivier" creationdate="20200518T120642Z">
+        <seg>Doel Titel=Voedsel en Drank Dominantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing Your Business</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120432Z" creationid="Olivier" creationdate="20200518T120432Z">
+        <seg>Goal Title=Jouw onderneming laten groeien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing the Talent Base.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103734Z" creationid="Olivier" creationdate="20200518T103734Z">
+        <seg>Goal Title=Talentenbasis laten groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Dilemma</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120919Z" creationid="Olivier" creationdate="20200518T120919Z">
+        <seg>Goal Title=Groeidilemma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104202Z" creationid="Olivier" creationdate="20200518T104202Z">
+        <seg>Goal Title=Groeiverwachting 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104425Z" creationid="Olivier" creationdate="20200518T104425Z">
+        <seg>Goal Title=Groeiverwachting 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 3</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104530Z" creationid="Olivier" creationdate="20200518T104530Z">
+        <seg>Goal Title=Groeiverwachting 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Launching a New Brand</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120334Z" creationid="Olivier" creationdate="20200518T120334Z">
+        <seg>Goal Title=Een nieuw merk lanceren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Legacy Brand</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121131Z" creationid="Olivier" creationdate="20200518T121131Z">
+        <seg>Goal Title=Gevestigd merk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Market Leader</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104801Z" creationid="Olivier" creationdate="20200518T104801Z">
+        <seg>Goal Title=Marktleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Market Leadership</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120503Z" creationid="Olivier" creationdate="20200518T120503Z">
+        <seg>Goal Title=Marktleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Media Empire</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>Goal Title=Media Empire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Multinational Conglomerate</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120750Z" creationid="Olivier" creationdate="20200518T120750Z">
+        <seg>Goal Title=Multinationaal consortium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Operating Performance Target</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103717Z" creationid="Olivier" creationdate="20200518T103717Z">
+        <seg>Goal Title=Operatationeel performantiedoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Seize the Opportunities</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103850Z" creationid="Olivier" creationdate="20200518T103850Z">
+        <seg>Goal Title=Grijp de kansen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Surpassing Family Expectation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115928Z" creationid="Olivier" creationdate="20200518T115928Z">
+        <seg>Goal Title=Familieverwachtingen overtreffen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Testing the Limit</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120930Z" creationid="Olivier" creationdate="20200518T120930Z">
+        <seg>Goal Title=Grenzen aftoetsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Ultimate Goal</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104118Z" creationid="Olivier" creationdate="20200518T103946Z">
+        <seg>Goal Title=Einddoel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Upstream Business</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103900Z" creationid="Olivier" creationdate="20200518T103900Z">
+        <seg>Goal Title=Onderneming stroomopwaarts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Have it reached the limit already?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121017Z" creationid="Olivier" creationdate="20200518T120935Z">
+        <seg>Is de grens al bereikt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Quality=High</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103919Z" creationid="Olivier" creationdate="20200518T103919Z">
+        <seg>Import Quality=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Quality=Moderate</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Industrial Goods Seaports=2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Industrial Goods Seaports=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation Strength=Normal</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Inflation Strength=Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation=Inverse</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Inflation=Inverse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leather Goods</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120543Z" creationid="Olivier" creationdate="20200518T120543Z">
+        <seg>Leather Goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lifetime shareholder return=1000</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103713Z" creationid="Olivier" creationdate="20200518T103713Z">
+        <seg>Lifetime shareholder return=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103858Z" creationid="Olivier" creationdate="20200518T103858Z">
+        <seg>Manufacturing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Media</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>Media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Media Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120309Z" creationid="Olivier" creationdate="20200518T120309Z">
+        <seg>Media Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you are starting on your own and have raised tens of millions from investors.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103056Z" creationid="Olivier" creationdate="20200518T103056Z">
+        <seg>Nu begint u op eigen houtje en heeft u tientallen miljoenen aan investeerders opgehaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you may move on to even bigger goals.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104900Z" creationid="Olivier" creationdate="20200518T104900Z">
+        <seg>Nu kan je nog grote doelen proberen behalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities=4</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105425Z" creationid="Olivier" creationdate="20200518T105425Z">
+        <seg>Number of Cities=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities=5</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102453Z" creationid="Olivier" creationdate="20200518T102453Z">
+        <seg>Number of Cities=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120259Z" creationid="Olivier" creationdate="20200518T103340Z">
+        <seg>Number of Competitors=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=25</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Number of Competitors=25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=10</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104401Z" creationid="Olivier" creationdate="20200518T104401Z">
+        <seg>Number of Game Years=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104455Z" creationid="Olivier" creationdate="20200518T104432Z">
+        <seg>Number of Game Years=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104544Z" creationid="Olivier" creationdate="20200518T103743Z">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=40</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104928Z" creationid="Olivier" creationdate="20200518T104921Z">
+        <seg>Number of Game Years=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120040Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>Number of Game Years=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=70</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103710Z" creationid="Olivier" creationdate="20200518T103349Z">
+        <seg>Number of Game Years=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=80</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104140Z" creationid="Olivier" creationdate="20200518T104140Z">
+        <seg>Number of Game Years=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of product classes being produced=7</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120026Z" creationid="Olivier" creationdate="20200518T120026Z">
+        <seg>Number of product classes being produced=7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of product types being produced=10</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120924Z" creationid="Olivier" creationdate="20200518T120924Z">
+        <seg>Number of product types being produced=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of product types being produced=20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121116Z" creationid="Olivier" creationdate="20200518T121116Z">
+        <seg>Number of product types being produced=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operating Profit Margin=15</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103727Z" creationid="Olivier" creationdate="20200518T103727Z">
+        <seg>Operating Profit Margin=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120012Z" creationid="Olivier" creationdate="20200518T120012Z">
+        <seg>Parent Goal=Dominantie in landbouw en handel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120758Z" creationid="Olivier" creationdate="20200518T120758Z">
+        <seg>Parent Goal=Dominantie in voeding en dranken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Growing Your Business</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120520Z" creationid="Olivier" creationdate="20200518T120520Z">
+        <seg>Parent Goal=Jouw onderneming doen groeien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Growth Dilemma</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121111Z" creationid="Olivier" creationdate="20200518T121111Z">
+        <seg>Parent Goal=Groeidilemma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Launching a New Brand</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120451Z" creationid="Olivier" creationdate="20200518T120451Z">
+        <seg>Parent Goal=Een nieuw merk lanceren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Market Leader</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105008Z" creationid="Olivier" creationdate="20200518T104923Z">
+        <seg>Parent Goal=Marktleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Market Leadership</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120532Z" creationid="Olivier" creationdate="20200518T120532Z">
+        <seg>Parent Goal=Marktleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash Change=10</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104515Z" creationid="Olivier" creationdate="20200518T104510Z">
+        <seg>Personal Cash Change=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash Change=15</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104604Z" creationid="Olivier" creationdate="20200518T104604Z">
+        <seg>Personal Cash Change=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash Change=30</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121124Z" creationid="Olivier" creationdate="20200518T121124Z">
+        <seg>Personal Cash Change=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash Change=5</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104415Z" creationid="Olivier" creationdate="20200518T104415Z">
+        <seg>Personal Cash Change=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Photography Products</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104904Z" creationid="Olivier" creationdate="20200518T104904Z">
+        <seg>Photography Products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=10</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120426Z" creationid="Olivier" creationdate="20200518T104403Z">
+        <seg>Player Company Annual Profit=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120022Z" creationid="Olivier" creationdate="20200518T103712Z">
+        <seg>Player Company Annual Profit=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=150</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105011Z" creationid="Olivier" creationdate="20200518T105011Z">
+        <seg>Player Company Annual Profit=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=20</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120458Z" creationid="Olivier" creationdate="20200518T104433Z">
+        <seg>Player Company Annual Profit=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=30</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120522Z" creationid="Olivier" creationdate="20200518T120522Z">
+        <seg>Player Company Annual Profit=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=300</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102456Z" creationid="Olivier" creationdate="20200518T102456Z">
+        <seg>Player Company Annual Profit=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=40</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104556Z" creationid="Olivier" creationdate="20200518T104548Z">
+        <seg>Player Company Annual Profit=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120541Z" creationid="Olivier" creationdate="20200518T120541Z">
+        <seg>Player Company Annual Profit=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=60</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121121Z" creationid="Olivier" creationdate="20200518T121121Z">
+        <seg>Player Company Annual Profit=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120420Z" creationid="Olivier" creationdate="20200518T104403Z">
+        <seg>Player Company Annual Revenue=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=1500</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105010Z" creationid="Olivier" creationdate="20200518T105010Z">
+        <seg>Player Company Annual Revenue=400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=200</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104438Z" creationid="Olivier" creationdate="20200518T103909Z">
+        <seg>Player Company Annual Revenue=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=300</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103857Z" creationid="Olivier" creationdate="20200518T103857Z">
+        <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=400</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104551Z" creationid="Olivier" creationdate="20200518T104546Z">
+        <seg>Player Company Annual Revenue=400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=500</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120538Z" creationid="Olivier" creationdate="20200518T120538Z">
+        <seg>Player Company Annual Revenue=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=600</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121118Z" creationid="Olivier" creationdate="20200518T121118Z">
+        <seg>Player Company Annual Revenue=600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=800</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103712Z" creationid="Olivier" creationdate="20200518T103712Z">
+        <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Market Cap=300</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120743Z" creationid="Olivier" creationdate="20200518T120743Z">
+        <seg>Player Company Market Cap=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Market Cap=600</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120802Z" creationid="Olivier" creationdate="20200518T120802Z">
+        <seg>Player Company Market Cap=600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=150</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103909Z" creationid="Olivier" creationdate="20200518T103909Z">
+        <seg>Player Company Net Worth=250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=250</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103856Z" creationid="Olivier" creationdate="20200518T103856Z">
+        <seg>Player Company Net Worth=250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=800</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120025Z" creationid="Olivier" creationdate="20200518T120025Z">
+        <seg>Player Company Net Worth=800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102936Z" creationid="Olivier" creationdate="20200518T102936Z">
+        <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Apparel, 80</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120326Z" creationid="Olivier" creationdate="20200518T120326Z">
+        <seg>Product Expertise=Apparel, 80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Beverage, 70</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120619Z" creationid="Olivier" creationdate="20200518T120619Z">
+        <seg>Product Expertise=Beverage, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Food, 70</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120620Z" creationid="Olivier" creationdate="20200518T120620Z">
+        <seg>Product Expertise=Food, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Photography Products, 100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104754Z" creationid="Olivier" creationdate="20200518T104754Z">
+        <seg>Product Expertise=Photography Products, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Snacks, 70</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120621Z" creationid="Olivier" creationdate="20200518T120621Z">
+        <seg>Product Expertise=Snacks, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=All</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104756Z" creationid="Olivier" creationdate="20200518T104756Z">
+        <seg>Product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Beverage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120623Z" creationid="Olivier" creationdate="20200518T120623Z">
+        <seg>Product=Beverage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Food</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120624Z" creationid="Olivier" creationdate="20200518T120624Z">
+        <seg>Product=Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Photography Products</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104758Z" creationid="Olivier" creationdate="20200518T104758Z">
+        <seg>Product=Photography Products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Snacks</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120624Z" creationid="Olivier" creationdate="20200518T120624Z">
+        <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prove your ability and do not disappoint them!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104341Z" creationid="Olivier" creationdate="20200518T104341Z">
+        <seg>Bewijs jouw expertise en stel hen niet teleur!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random Events=Occasional</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102453Z" creationid="Olivier" creationdate="20200518T102453Z">
+        <seg>Random Events=Occasional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranking Method=Score</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102459Z" creationid="Olivier" creationdate="20200518T102459Z">
+        <seg>Ranking Method=Score</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Estate Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120308Z" creationid="Olivier" creationdate="20200518T120308Z">
+        <seg>Real Estate Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103857Z" creationid="Olivier" creationdate="20200518T103857Z">
+        <seg>Retail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Focused Companies=4</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120307Z" creationid="Olivier" creationdate="20200518T120307Z">
+        <seg>Retail Focused Companies=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Type=Many</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102453Z" creationid="Olivier" creationdate="20200518T102453Z">
+        <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115915Z" creationid="Olivier" creationdate="20200518T103729Z">
+        <seg>Score change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=150</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104908Z" creationid="Olivier" creationdate="20200518T104908Z">
+        <seg>Score change=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=200</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102457Z" creationid="Olivier" creationdate="20200518T102457Z">
+        <seg>Score change=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=300</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120550Z" creationid="Olivier" creationdate="20200518T105016Z">
+        <seg>Score change=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104410Z" creationid="Olivier" creationdate="20200518T104410Z">
+        <seg>Score change=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=75</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104507Z" creationid="Olivier" creationdate="20200518T104507Z">
+        <seg>Score change=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See prospect in setting up retail outlets to sell the family farm's products daily, your father has delegated you to set up a new farming and retail operation overseas.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105414Z" creationid="Olivier" creationdate="20200518T105414Z">
+        <seg>Zie prospect in het opzetten van winkels om de producten van de familie boerderij dagelijks te verkopen, heeft je vader je gedelegeerd om een nieuwe landbouw-en detailhandel op te zetten in het buitenland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Snacks</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120742Z" creationid="Olivier" creationdate="20200518T120742Z">
+        <seg>Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff attitude change=CMO, -100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104423Z" creationid="Olivier" creationdate="20200518T104423Z">
+        <seg>Staff attitude change=CMO, -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff attitude change=COO, -100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104417Z" creationid="Olivier" creationdate="20200518T104417Z">
+        <seg>Staff attitude change=COO, -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff attitude change=CTO, -100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104420Z" creationid="Olivier" creationdate="20200518T104420Z">
+        <seg>Staff attitude change=CTO, -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff resign=CMO</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104422Z" creationid="Olivier" creationdate="20200518T104422Z">
+        <seg>Staff resign=CMO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff resign=COO</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104416Z" creationid="Olivier" creationdate="20200518T104416Z">
+        <seg>Staff resign=COO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff resign=CTO</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104419Z" creationid="Olivier" creationdate="20200518T104419Z">
+        <seg>Staff resign=CTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120307Z" creationid="Olivier" creationdate="20200518T120307Z">
+        <seg>Stock Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Market=Yes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Stock Market=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=100</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104435Z" creationid="Olivier" creationdate="20200518T104435Z">
+        <seg>Stock Price=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=200</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104600Z" creationid="Olivier" creationdate="20200518T104600Z">
+        <seg>Stock Price=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=50</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104404Z" creationid="Olivier" creationdate="20200518T104404Z">
+        <seg>Stock Price=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=500</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104142Z" creationid="Olivier" creationdate="20200518T104142Z">
+        <seg>Stock Price=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120308Z" creationid="Olivier" creationdate="20200518T120308Z">
+        <seg>Tech Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technology Disruption=On</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>Technology Disruption=On</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Breakthrough in Training</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103331Z" creationid="Olivier" creationdate="20200518T103331Z">
+        <seg>Title=Doorbraak in opleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=China Opening Up</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103826Z" creationid="Olivier" creationdate="20200518T103826Z">
+        <seg>Title=Opkomst van China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Corporate Leadership</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102911Z" creationid="Olivier" creationdate="20200518T102911Z">
+        <seg>Titre=Vennootschapsleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Dilemma of a Camera Manufacturer</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104734Z" creationid="Olivier" creationdate="20200518T104650Z">
+        <seg>Title=Dilemma van een camerafabrikant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Family Farm Business</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105052Z" creationid="Olivier" creationdate="20200518T105052Z">
+        <seg>Title=Family Farm Business</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Fashion Venture</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120237Z" creationid="Olivier" creationdate="20200518T120237Z">
+        <seg>Title=Modeketen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Food and Beverage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103052Z" creationid="Olivier" creationdate="20200518T103052Z">
+        <seg>Title=Voedsel en Drank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Legacy Brand</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120840Z" creationid="Olivier" creationdate="20200518T120840Z">
+        <seg>Title=Gevestigd merk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Media Empire</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102452Z" creationid="Olivier" creationdate="20200518T102452Z">
+        <seg>Title=Media emperium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Metropolitan Transformation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103120Z" creationid="Olivier" creationdate="20200518T103120Z">
+        <seg>Title=Metropolitaanse transformatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Multinational Corporation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102530Z" creationid="Olivier" creationdate="20200518T102530Z">
+        <seg>Title=Multinational Corporation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Tech Leader</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103019Z" creationid="Olivier" creationdate="20200518T103019Z">
+        <seg>Title=Technisch leider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To achieve the population growth required for the metropolitan transformations, you must first succeed in getting members from your political party elected as mayors of the cities.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103131Z" creationid="Olivier" creationdate="20200518T103131Z">
+        <seg>Om de bevolkingsgroei te bereiken die nodig is voor de grootstedelijke transformaties, moet je er eerst in slagen om leden van je politieke partij gekozen te krijgen als burgemeesters van de steden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Number of Employees=1000</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103741Z" creationid="Olivier" creationdate="20200518T103741Z">
+        <seg>Total Number of Employees=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training Effect Modifier=200</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103344Z" creationid="Olivier" creationdate="20200518T103344Z">
+        <seg>Training Effect Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under your leadership, the company continues to grow.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104344Z" creationid="Olivier" creationdate="20200518T104344Z">
+        <seg>Onder jouw leiding blijft de onderneming groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately the fund raising process is difficult and slow.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120242Z" creationid="Olivier" creationdate="20200518T120242Z">
+        <seg>Helaas gaat het proces om fondsen te verzamelen moeizaam en traag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103912Z" creationid="Olivier" creationdate="20200518T103912Z">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103912Z" creationid="Olivier" creationdate="20200518T103912Z">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103912Z" creationid="Olivier" creationdate="20200518T103912Z">
+        <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Factory</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115922Z" creationid="Olivier" creationdate="20200518T115922Z">
+        <seg>Unlock firm=Factory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Logging Camp</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115923Z" creationid="Olivier" creationdate="20200518T115923Z">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Mine</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115924Z" creationid="Olivier" creationdate="20200518T115924Z">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Oil Well</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115925Z" creationid="Olivier" creationdate="20200518T115925Z">
+        <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock product=All</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104912Z" creationid="Olivier" creationdate="20200518T104912Z">
+        <seg>Unlock product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Untitled Document</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103145Z" creationid="Olivier" creationdate="20200518T103145Z">
+        <seg>Untitled Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120245Z" creationid="Olivier" creationdate="20200518T120245Z">
+        <seg>Als je uiteindelijk slaagt om een modebedrijf te lanceren (vermoedelijk in het jaar 2000), zullen er gevestigde mededingers op de markt zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120328Z" creationid="Olivier" creationdate="20200518T120328Z">
+        <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are your family's best hope for achieving this goal and you promise yourself not to disappoint them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115902Z" creationid="Olivier" creationdate="20200518T115902Z">
+        <seg>Jouw familie vertrouwt op jou om dit doel te behalen, dus stel ze niet teleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved market dominance in the food and beverage industry and your corporation's market cap has increased substantially.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120731Z" creationid="Olivier" creationdate="20200518T120719Z">
+        <seg>U hebt een marktdominantie bereikt in de voedsel- en drankindustrie en het marktplafond van uw bedrijf is aanzienlijk toegenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have come a long way since your humble beginning!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120507Z" creationid="Olivier" creationdate="20200518T120507Z">
+        <seg>Je hebt een lange weg afgelegd ondanks een bescheiden start!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have defied the conventional thinking that corporate brand can never support a highly diverse product portfolio.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121056Z" creationid="Olivier" creationdate="20200518T121056Z">
+        <seg>U hebt de conventionele denkwijze getrotseerd dat een bedrijfsmerk nooit een zeer gevarieerd productportfolio kan ondersteunen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have developed your company into a force to be reckoned with!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120435Z" creationid="Olivier" creationdate="20200518T120435Z">
+        <seg>Je hebt van jouw onderneming een geduchte mededinger gemaakt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have significantly improved your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103725Z" creationid="Olivier" creationdate="20200518T103725Z">
+        <seg>Je hebt de opertationele winstmarge van jouw onderneming opmerkelijk verbeterd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may now set up natural resource firms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103908Z" creationid="Olivier" creationdate="20200518T103908Z">
+        <seg>Je kan nu over natuurlijke grondstoffen beschikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must build a solid management team by bringing great managers on board.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102918Z" creationid="Olivier" creationdate="20200518T102918Z">
+        <seg>Je moet een solide managementteam opbouwen door goede managers aan boord te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now aim at taking your business to the next level and expand into new markets.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115904Z" creationid="Olivier" creationdate="20200518T115904Z">
+        <seg>Je richt je nu op nieuwe horizonten en breidt uit naar nieuwe markten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You plan to launch a new range of products of outstanding quality and market them under the legacy brand.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T121134Z" creationid="Olivier" creationdate="20200518T121134Z">
+        <seg>Je bent van plan een nieuwe goederenreeks te lanceren van uitstekende kwaliteit en deze onder dat merk uit te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You win this game when you achieve market dominance in both apparel and leather products.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120531Z" creationid="Olivier" creationdate="20200518T120531Z">
+        <seg>Je wint dit spel als je marktdominantie bereikt voor zowel kledij- als lederengoederen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=High</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103336Z" creationid="Olivier" creationdate="20200518T103336Z">
+        <seg>Your Start-up Capital=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102453Z" creationid="Olivier" creationdate="20200518T102453Z">
+        <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your board of directors are extremely pleased with your performance and support your plan for entering new markets to drive further revenue growth.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120735Z" creationid="Olivier" creationdate="20200518T120735Z">
+        <seg>Het directiecomité is enorm tevreden met jouw resultaten en ondersteunt jouw voorstel om nieuwe markten aan te boren om voor nog meer omzetgroei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has become the number one manufacturer of cameras.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104859Z" creationid="Olivier" creationdate="20200518T104859Z">
+        <seg>Jouw onderneming is nu de grootste producent van cameras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has successfully achieved growth while delivering impressive bottom-line profits.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120923Z" creationid="Olivier" creationdate="20200518T120923Z">
+        <seg>Jouw onderneming kon met succes groeien terwijl je indrukwekkende winsten behaalde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120415Z" creationid="Olivier" creationdate="20200518T120415Z">
+        <seg>De resultaten van jouw onderneming maakten indruk op de investeerders waardoor een kapitaalverhoging van $100 miljoen aan investeringen in jouw onderneming werd gestopt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103740Z" creationid="Olivier" creationdate="20200518T103740Z">
+        <seg>Jouw onderneming heeft een mijlpaal bereikt door meer dan 1000 mensen in dienst te hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation have achieved dominance in retail and farming.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115903Z" creationid="Olivier" creationdate="20200518T115903Z">
+        <seg>Jouw onderneming is dominant in handel en landbouw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104358Z" creationid="Olivier" creationdate="20200518T104358Z">
+        <seg>De algemene vergadering heeft vertrouwen in de vooruitzichten van de onderneming voor de toekomst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CHALLENGE GAME]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T101336Z" creationid="Olivier" creationdate="20200518T101336Z">
+        <seg>[CHALLENGE GAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CITIES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103837Z" creationid="Olivier" creationdate="20200518T103837Z">
+        <seg>[CITIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[COMPETITORS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>[COMPETITORS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[ENVIRONMENT]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102453Z" creationid="Olivier" creationdate="20200518T102453Z">
+        <seg>[ENVIRONMENT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T101825Z" creationid="Olivier" creationdate="20200518T101825Z">
+        <seg>[HEADER]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[IMPORTS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>[IMPORTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[LOCKS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103843Z" creationid="Olivier" creationdate="20200518T103843Z">
+        <seg>[LOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL INDUSTRIES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>[MAIN GOAL INDUSTRIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL PRODUCTS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105011Z" creationid="Olivier" creationdate="20200518T105011Z">
+        <seg>[MAIN GOAL PRODUCTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL REWARDS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102456Z" creationid="Olivier" creationdate="20200518T102456Z">
+        <seg>[MAIN GOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL VALUES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102455Z" creationid="Olivier" creationdate="20200518T102455Z">
+        <seg>[MAIN GOAL VALUES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102454Z" creationid="Olivier" creationdate="20200518T102454Z">
+        <seg>[MAIN GOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[PLAYER EXPERTISE]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104754Z" creationid="Olivier" creationdate="20200518T104754Z">
+        <seg>[PLAYER EXPERTISE]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SPECIAL RULES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103343Z" creationid="Olivier" creationdate="20200518T103343Z">
+        <seg>[SPECIAL RULES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL INDUSTRIES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T115906Z" creationid="Olivier" creationdate="20200518T115906Z">
+        <seg>[SUBGOAL INDUSTRIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL PENALTIES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104416Z" creationid="Olivier" creationdate="20200518T104416Z">
+        <seg>[SUBGOAL PENALTIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL PRODUCTS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104903Z" creationid="Olivier" creationdate="20200518T104903Z">
+        <seg>[SUBGOAL PRODUCTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103728Z" creationid="Olivier" creationdate="20200518T103728Z">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL VALUES]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103726Z" creationid="Olivier" creationdate="20200518T103726Z">
+        <seg>[SUBGOAL VALUES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103715Z" creationid="Olivier" creationdate="20200518T103715Z">
+        <seg>[SUBGOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[UNLOCKS]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104756Z" creationid="Olivier" creationdate="20200518T104756Z">
+        <seg>[UNLOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^(Note: You are not allowed to change brand strategy in this game.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120853Z" creationid="Olivier" creationdate="20200518T120853Z">
+        <seg>^^(Let op: Je mag de merkstrategie in dit spel niet veranderen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^By leveraging the brand, your new products will gain instant consumer recognition without prior advertising.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120844Z" creationid="Olivier" creationdate="20200518T120844Z">
+        <seg>Door het merk verder op te tillen, zullen jouw nieuwe producten onmiddellijk op bijval kunnen rekenen van consumenten zonder eerst te moeten adverteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Following your father's guidance, you should initially focus on farming and retail.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105418Z" creationid="Olivier" creationdate="20200518T105418Z">
+        <seg>^^Volg die krijtlijnen terwijl je in het begin vooral de nadruk legt op landbouw en verkoop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Once you have accomplished the goal of establishing a solid farming and retail business for your family, you will be given the freedom to expand into whichever markets and industries you see promising.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T105421Z" creationid="Olivier" creationdate="20200518T105421Z">
+        <seg>^^Eens je een gevestigde landbouw- en handelsonderneming hebt opgezet voor je familie, krijg je de vrijheid om andere markten en industieën aan te boren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103333Z" creationid="Olivier" creationdate="20200518T103333Z">
+        <seg>^^De nieuwe opleidingsmethode maakt het mogelijk om de efficiëntie van bedrijfsopleidingen te doen stijgen met wel 100% waardoor ondernemingen wereldwijd snel deze methode overnemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^This scenario uses a special rule where costs of hiring management staff are only 20% of the normal rates.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102922Z" creationid="Olivier" creationdate="20200518T102922Z">
+        <seg>^^In dit scenario wordt een speciale regel gehanteerd waarbij de kosten voor het inhuren van managementpersoneel slechts 20% van de normale tarieven bedragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T104746Z" creationid="Olivier" creationdate="20200518T104746Z">
+        <seg>^^Terwijl traditionele filmcameras nog steeds de markt domineren, introduceert de digitale fotografietechnologie zich op de markt.^^Je ziet daarin een grote kans, maar dit vereist een lange termijn investering in onderzoek en ontwikkeling aleer je commerciele goederen kan produceren.^^Zou je jouw middelen aan het begin van het spel inzetten in traditionele filmcameras om later een, hopelijk, vlotte overgang te maken naar digitale cameras?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^With the belief that it is technology that matters the most when it comes to high tech products, you are confident that becoming a leader in the high tech market is absolutely within your reach.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103038Z" creationid="Olivier" creationdate="20200518T103038Z">
+        <seg>^^Met de overtuiging dat het de technologie is die het meest van belang is als het gaat om hightech producten, bent u ervan overtuigd dat een leider in de hightech markt absoluut binnen uw bereik ligt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You have promised the investors to keep your new company's focus on the food and beverage industry as specialization is key to success at the early growth phase.^^Once you have achieved market dominance in the food and beverage industry, there will be bigger challenges for you to undertake!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103108Z" creationid="Olivier" creationdate="20200518T103108Z">
+        <seg>^^U hebt de investeerders beloofd om de focus van uw nieuwe bedrijf op de voedsel- en drankindustrie te houden, omdat specialisatie de sleutel is tot succes in de vroege groeifase.^^Als u een marktdominantie in de voedsel- en drankindustrie hebt bereikt, zullen er grotere uitdagingen voor u zijn om te ondernemen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You must demonstrate your leadership by aggressively expanding your business or your executive staff may lose confidence in the company and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102933Z" creationid="Olivier" creationdate="20200518T102933Z">
+        <seg>^^U moet uw leiderschap tonen door uw bedrijf agressief uit te breiden of uw leidinggevend personeel kan het vertrouwen in het bedrijf verliezen en op zoek gaan naar betere carrièrekansen elders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You plan to launch a new range of products of outstanding quality and market them under the legacy brand.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T120844Z" creationid="Olivier" creationdate="20200518T120844Z">
+        <seg>^^Je bent van plan een nieuwe goederenreeks te lanceren van uitstekende kwaliteit en deze onder dat merk uit te brengen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T103334Z" creationid="Olivier" creationdate="20200518T103334Z">
+        <seg>^^Jouw onderneming is ook op deze wagon gesprongen en wil dit als hefboom gebruiken om de productiviteit van jouw werknemers enorm te verhogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Your goal is to grow your media corporation's revenue to a substantial size and ultimately outperform all other media companies to become the largest one in the world.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Olivier" changedate="20200518T102449Z" creationid="Olivier" creationdate="20200518T102449Z">
+        <seg>^^Je hebt als doel om de omzet van jouw media-onderneming tot een substantiële grootte te doen stijgen en uiteindelijk alle andere mededingers in de sector uit de markt te spelen, zodat je de grootste en enige ter wereld wordt.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
