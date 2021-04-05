@@ -1,12 +1,13 @@
 [HEADER]
 Title=Software Giant
-Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's technological prowess and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.
+Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them. 
+
 DLC=DigitalAge
 
-Difficulty Rating=150
+Difficulty Rating=80
 
 [ENVIRONMENT]
-Number of Cities=5
+Number of Cities=4
 Your Start-up Capital=High
 Random Events=Occasional 
 Game Starting Year=1990
@@ -14,6 +15,7 @@ Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
@@ -26,10 +28,12 @@ City=Tokyo
 City=Boston 
 
 [COMPETITORS]
-Number of Competitors=30
+Number of Competitors=20
 Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
+AI Expansion Aggressiveness=Moderate
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
 Competence of Local Competitors=Moderate 
@@ -42,24 +46,9 @@ Import Quality=Moderate
 
 //-------------------------------------------------------------------//
 
-[SUBGOAL]
-Goal Title=Explosive Growth 
-Goal Description=The goal is to lead your company to grow at warp speed and propel its stock price to a record high of $300 within 10 years.  
-Goal Achieved Text=Congratulations! The explosive growth of your company has delivered an amazing 3000% return to investors in 10 years 
-
-Number of Game Years=10
-
-[SUBGOAL VALUES]
-Stock Price=300 
-
-[SUBGOAL REWARDS] 
-Score change=150
-
-//-------------------------------------------------------------------//
-
 [MAIN GOAL]
 Goal Title=Software Giant
-Goal Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's technological prowess and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.
+Goal Description=To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.
 
 Number of Game Years=50
 
@@ -76,7 +65,7 @@ Software Dominance=Video Software
 
 
 [MAIN GOAL REWARDS] 
-Score change=300
+Score change=200
 
 //-------------------------------------------------------------------//
 

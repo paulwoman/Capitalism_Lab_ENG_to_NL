@@ -1,35 +1,39 @@
 [HEADER]
-Title=Going on a Buying Spree
-Description=Going on a Buying Spree
+Title=On a Buying Spree
+Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.^^You must act fast as burgeoning valuations of tech companies mean that the rapidly rising acquisition costs may soon exceed your financial reach. If you succeed in executing this plan, the mergers will give you the much-needed technologies and talents to build the digital powerhouse that you have always dreamed of. 
+
 DLC=DigitalAge
 
-Difficulty Rating=150
+Difficulty Rating=110
 
 [ENVIRONMENT]
 Number of Cities=5
-Your Start-up Capital=High
+Your Start-up Capital=Very High
 Random Events=Occasional 
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
 [CITIES]
 City=San Francisco 
-City=London 
-City=Paris 
-City=Tokyo
-City=Boston 
+City=Toronto 
+City=Tel Aviv 
+City=Sydney
+City=Seattle 
 
 [COMPETITORS]
-Number of Competitors=30
+Number of Competitors=35
 Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
+AI Expansion Aggressiveness=Moderate
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
 Competence of Local Competitors=Moderate 
@@ -42,41 +46,17 @@ Import Quality=Moderate
 
 //-------------------------------------------------------------------//
 
-[SUBGOAL]
-Goal Title=Explosive Growth 
-Goal Description=The goal is to lead your company to grow at warp speed and propel its stock price to a record high of $300 within 10 years.  
-Goal Achieved Text=Congratulations! The explosive growth of your company has delivered an amazing 3000% return to investors in 10 years 
-
-Number of Game Years=10
-
-[SUBGOAL VALUES]
-Stock Price=300 
-
-[SUBGOAL REWARDS] 
-Score change=150
-
-//-------------------------------------------------------------------//
-
 [MAIN GOAL]
-Goal Title=Software Giant
-Goal Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's technological prowess and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.
+Goal Title=On a Buying Spree
+Goal Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale. 
 
-Number of Game Years=50
+Number of Game Years=70
 
 [MAIN GOAL VALUES]
-Player Company Annual Revenue=1000
-Player Company Annual Profit=200
-OS Market Share=75
-Software Dominance=Audio Software
-Software Dominance=Computer Security
-Software Dominance=Graphic Design Software
-Software Dominance=Office Software
-Software Dominance=Utility Software
-Software Dominance=Video Software
-
+Private Acquisitions=8
 
 [MAIN GOAL REWARDS] 
-Score change=300
+Score change=350
 
 //-------------------------------------------------------------------//
 

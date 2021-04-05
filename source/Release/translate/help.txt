@@ -1,42 +1,42 @@
 B_TOOL
-Toolbox
-Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
+Toolbox (hotkey: Ctrl-T)
+Show or hide the Toolbox menu.
 ~
 B_MINMAP
 Mini Map (hotkey: 'M')
-Display the Mini Map
+Show or hide the Mini Map.
 ~
 B_WORLD
 World Map (hotkey: Ctrl-W)
-Display the World Map
+Show or hide the World Map.
 ~
 B_INFO
 Information Center
-Open the Information Center screen
+Open the Information Center screen.
 ~
 B_WATCH
 Event Tracker (hotkey: F5)
-Open the Event Tracker Window
+Open the Event Tracker Window.
 ~
 B_BACK
-Back to previous firm (hotkey: q)
-Go back to the previously selected firm
+Back to the previous firm (hotkey: q)
+Go back to the previously selected firm.
 ~
 B_CASH
 Your Corporation's Cash
-This figure is the amount of cash your corporation currently has. 
+This figure is the amount of cash that your corporation currently has. Click here to view its #Balance Sheet#.
 ~
 B_PROFIT
 Your Corporation's Operating Profit
-This figure is your corporation's operating profit over the past 12 months. 
+This figure is your corporation's operating profit over the past 12 months. Click here to view its #Income Statement#.
 ~
 B_CHART
 Your Corporation's Monthly Profit & Loss Chart 
-Vertical bars represent your corporation's monthly profit or loss. A red bar indicates a loss; a green bar indicates a profit.
+The vertical bars represent your corporation's monthly profit or loss. A red bar indicates a loss; a green bar indicates a profit.
 ~
 B_DATE
 Current Date
-This is the current game date
+This is the current game date.
 ~
 T_BUILD
 Build Menu (hotkey: B)
@@ -46,7 +46,7 @@ T_BUYLND
 Buy plots of land (hotkey: CTRL-L) 
 Activate the mode for buying plots of land. 
 ~
-T_SETLND
+T_ZONE
 Land-use planning
 Use this tool to restrict different areas of your city to specific uses. 
 ~
@@ -78,12 +78,12 @@ MMENUFR
 Firm Summary Report (hotkey: 'F')
 Click to open the Firm Summary Report
 ~
-MMENUHQ (hotkey: 'H')
-Headquarters
-`
+MMENUHQ
+Headquarters (hotkey: 'H')
+Go to the Headquarters. 
 ~
 MMENUSM
-Stock Market
+Stock Market (hotkey: F4)
 Open the Stock Market screen
 ~
 MMENUGM
@@ -95,8 +95,8 @@ Options Menu (hotkey: 'O')
 Display the game options menu.
 ~
 MMENUSP
-Game Speed (hotkey: '1' to '5')
-Click the speed dial to alter the game speed.
+Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)
+Click the speed dial to change the game speed. #Double-click# here to see tips for #improving game running speed#.
 ~
 OM_NEWS
 News Display Option (hotkey: 'N')
@@ -308,7 +308,7 @@ Toggle Corporate Filter to display a specific corporation in the Mini Map. Right
 ~
 SFM_KP
 Product Filter
-Toggle Product Filter to display locations of a specific product in the Mini Map. 
+Toggle Product Filter to display locations of a specific product in the Mini Map. Right-click to set the filter based on the current firm's selected product.
 ~
 SFM_KPB
 Previous Building (hotkey: PgUp)
@@ -887,7 +887,7 @@ Shortcut for selecting a layout plan for this firm.
 `
 ~
 IF_ADD3
-Set up a new production for this firm. 
+Set up a new production for this firm (hotkey: A)
 `
 ~
 IFM_C
@@ -936,7 +936,7 @@ The stock kept at the current unit.
 ~
 U_WORKER
 Workers at the Unit 
-Novice workers wear red uniforms, whereas experienced workers wear blue. When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).
+Experienced workers are denoted by stars. When all the workers in a functional unit have become experienced, the unit level will increase by one (training will speed this up).
 ~
 LO_IN_E1
 Single-click here to select this functional unit. Double-click to change it
@@ -1261,11 +1261,11 @@ Search for a specific product (Hotkey: Tab)
 ~
 P_PREV  
 Previous Product (Hotkey: 'u')
-`
+View the previous product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.
 ~
 P_NEXT  
 Next Product (Hotkey: 'x')
-`
+View the next product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings. 
 ~
 P_GO  
 Go to the firm selling or producing this product (Hotkey: Enter) 
@@ -1332,7 +1332,7 @@ Hotkey: F2
 `
 ~
 I_MANAG
-Hotkey: F3
+Hotkey: Ctrl-M
 `
 ~
 I_CITY
@@ -1837,7 +1837,7 @@ The current city's mayor approval rating. For more details, see the Cities page 
 ~
 GOALACHI
 Goal Achievement Progress 
-It indicates your progress in achieving the goals. Click here to open the Goal report. (hotkey: G)
+It indicates your progress in achieving the goals. Click here to open the #Goal report#. (hotkey: G)
 ~
 ECO_MAX
 Show the Economic Info window 
@@ -1872,7 +1872,7 @@ Press [Enter] any time to open the product filter list.
 To locate the product you want, type the first letter of the product name
 ~
 CONFIRMP
-Confirm the price change (hotkey: '*' or ']')
+Confirm the price change (hotkey: ']')
 `
 ~
 PLAN_PS
@@ -1920,8 +1920,8 @@ The market capitalization of a company.
 It equals to its share price times the total number of shares outstanding. In other words, it is the total market value of the company in the stock market. 
 ~
 STK_EARN
-Earning Per Share 
-The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
+Earnings Per Share 
+The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
 ~
 STK_EQUI
 Equity Per Share 
@@ -3149,8 +3149,8 @@ The Selling Price
 `
 ~
 NEWPRICE
+Set a New Price 
 It shows the current price. Use [+][-] to set a New Price. 
-`
 ~
 COSTFREI
 Cost + Freight
@@ -3204,7 +3204,7 @@ TOTALCF
 Cost + Freight 
 `
 ~
-QUALITY 
+QUALITY
 Quality Rating 
 `
 ~
@@ -3363,4 +3363,96 @@ When this is enabled, AI will automatically build civic buildings when there is 
 PO_BAPAR
 Auto Build Apartments
 When this is enabled, AI will automatically build apartments when there is unmet demand. 
+~
+MARSHARE
+Market Share Chart
+It shows this product's market share in the current city.
+~
+T_LEVEL
+Experience Level of the Team
+A unit with a higher experience level has #larger capacity# and #higher productivity#. A unit's level can be increased through #training#.
+~
+T_UTIL
+Capacity Utilization Rate
+A high utilization rate means that the team is operating efficiently. A low rate means that the team has idle time and its capacity is underutilized. 
+~
+T_STOCK
+Stock Inventory
+It shows the amount of stock. 
+~
+INC_COMP
+How to increase a city's competitiveness 
+1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&D or production activities in the industry. 2)The city government sponsors a university to conduct research in a specific industry.
+~
+T_ROAD
+Open the Road Editor (hotkey: Ctrl-R)
+`
+~
+UNIVSUSP
+No Active Research 
+The operation of this University is currently suspended. To enable research, please set the #Operation slider# of this university to a value larger than zero.
+~
+HIRETAL
+Hire (hotkey: 'W')
+Hire a team lead for the current functional unit.
+~
+HEADHTAL 
+Headhunt (hotkey: 'U')
+To headhunt a person to lead the current functional unit.
+~
+GDP_EFF1
+Effects of GDP (part 1)
+The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.
+~
+GDP_EFF2
+Effects of GDP (part 2)
+For example, when your company embarks on a large-scale business expansion in a city, it increases the #Investment component# of GDP, which in turn contributes to the #GDP growth# and kicks the economy into the high gear. The newly established companies #create jobs# for the city, lowering the #unemployment rate#. Subsequently the #tightening labor market# will force companies to #raise salaries of their employees#.
+~
+GDP_EFF3
+Effects of GDP (part 3)
+Further along in this chain of effects, #a higher wage rate# leads to #increased consumer spending#, setting the stage for #inflation to rise#. When rising inflation is unchecked and eventually runs rampant, the central bank will have no choice but to put a break on it by #hiking the interest rate# aggressively, which will inevitably #drag the economy into recession#.
+~
+GDP_CONS
+Consumption
+Consumption is the total value of goods and services that are bought by the population simulated in the game.
+~
+GDP_INVE
+Investment
+Investment is the total investment made by the player and AI corporations in setting up new businesses.
+~
+GDP_GOVE
+Government Expenditure
+Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.
+~
+GDP_NETE
+Net Exports
+Net Exports equal to #exports# minus #imports#. #Imports# occur when companies in the game purchase products from suppliers in a different city. #Exports# occur when companies sell products to business clients in another city.
+~
+ECOSTATE
+Economic State
+This indicates the present state of the city's economy. When the economy is booming, there will be strong demand for consumer goods. Conversely, during a recession, consumers reduce their spending, especially for non-essential goods.
+~
+GDP_GROW
+GDP Growth Rate
+The GDP growth rate indicates how fast the economy is growing. A negative growth rate means that the economy is shrinking.
+~
+CBANKATT
+Central Bank Attitude
+This shows the central bank's attitude toward inflation. Inflation Dove means that the central bank is willing to let inflation run higher before raising the interest rate. 
+~
+CBANKPOL
+Central Bank Policy
+This indicates whether the central bank currently maintains a loose monetary policy with increased money supply and a low interest rate, or a tight monetary policy with reduced money supply and a high interest rate.
+~
+MONEYSD
+Money Supply and Demand 
+This indicates the current levels of money supply and demand. When the central bank maintains a loose monetary policy, there will be an increase to the money supply and the interest rate will fall.
+~
+REDDIT
+Visit the Reddit community of Capitalism Lab. 
+`
+~
+AVGRENT
+Annual Rent Per Square Foot
+When you change the rent, the new rent only affects new tenants and existing tenants who renew their leases. As such, the #Annual Rent Per Square Foot# does not reflect the change you made to the rent immediately.
 ~
